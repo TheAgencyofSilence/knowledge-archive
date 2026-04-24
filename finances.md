@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад на главную](index.md)
+<a href="index.html" class="button">← Назад на главную</a>
