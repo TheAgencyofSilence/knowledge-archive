@@ -1,13 +1,3 @@
-<div class="row">
-  <img src="chartsuda-rhunsiri-wings.jpg">
-  <div>
-    <h1>Финансы</h1>
-    <p>Здесь будет информация о финансах.</p>
-  </div>
-</div>
-
-<link rel="stylesheet" href="style.css">
-
 <nav class="navbar">
   <a href="index.html">Главная</a>
   <a href="finances.html">Финансы</a>
