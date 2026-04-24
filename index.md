@@ -4,6 +4,6 @@
 
 ## Разделы
 
-- [Финансы](finances.md)
-- [Проекты](projects.md)
-- [Идеи](ideas.md)
+- 💰 [Финансы](finances.md)
+- 🛠 [Проекты](projects.md)
+- 💡 [Идеи](ideas.md)
