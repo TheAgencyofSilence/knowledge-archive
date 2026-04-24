@@ -89,6 +89,12 @@ h6 .anchor-link {
 
 .button:hover {
   background-color: #166534;
+
+  .card-title {
+  font-size: 1.35em;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
