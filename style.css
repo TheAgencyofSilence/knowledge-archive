@@ -63,6 +63,10 @@ body {
   .anchor {
   display: none;
 }
+
+  a {
+  text-decoration: none;
+}
   
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
