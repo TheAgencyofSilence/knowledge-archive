@@ -3,21 +3,23 @@ body {
 }
 
 .container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
-  margin-top: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
 }
 
 .card {
   display: block;
-  min-height: 170px;
+  width: 100%;
+  min-height: 130px;
   padding: 28px;
   border: 1px solid #ddd;
   border-radius: 12px;
   text-decoration: none;
   color: inherit;
   transition: 0.2s;
+  box-sizing: border-box;
 }
 
 .card:hover {
