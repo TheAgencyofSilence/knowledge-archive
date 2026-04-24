@@ -18,7 +18,7 @@
 <div class="container">
 
 <a href="finances.html" class="card">
-  <h3>💰 Финансы</h3>
+  <div class="card-title">💰 Финансы</div>
   <p>Инвестиции, банки, налоги и финансовые заметки.</p>
 </a>
 
