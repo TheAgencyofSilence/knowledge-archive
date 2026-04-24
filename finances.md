@@ -17,6 +17,8 @@
 - [Банки](banks.md)
 - [Налоги](taxes.md)
 
+<img src="finance.png" style="width: 100%; max-width: 500px; border-radius: 10px; margin-bottom: 20px;">
+
 ---
 
 <a href="index.html" class="button">← Назад на главную</a>
