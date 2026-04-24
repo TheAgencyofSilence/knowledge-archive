@@ -10,9 +10,30 @@ a:hover {
   text-decoration: none !important;
 }
 
+/* Убираем якоря/цепочки GitHub Pages */
 .anchor,
-.octicon-link {
+.anchor-link,
+.octicon,
+.octicon-link,
+a.anchor,
+a.anchor-link,
+h1 .anchor,
+h2 .anchor,
+h3 .anchor,
+h4 .anchor,
+h5 .anchor,
+h6 .anchor,
+h1 .anchor-link,
+h2 .anchor-link,
+h3 .anchor-link,
+h4 .anchor-link,
+h5 .anchor-link,
+h6 .anchor-link {
   display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  opacity: 0 !important;
 }
 
 .container {
@@ -70,17 +91,4 @@ a:hover {
   background-color: #166534;
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-h1 .anchor,
-h2 .anchor,
-h3 .anchor,
-h4 .anchor {
-  display: none !important;
-}
-
-.anchor,
-.octicon,
-.octicon-link {
-  display: none !important;
 }
