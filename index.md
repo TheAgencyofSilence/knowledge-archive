@@ -1,4 +1,12 @@
 <link rel="stylesheet" href="style.css">
+
+<nav class="navbar">
+  <a href="index.html">Главная</a>
+  <a href="finances.html">Финансы</a>
+  <a href="projects.html">Проекты</a>
+  <a href="ideas.html">Идеи</a>
+</nav>
+<link rel="stylesheet" href="style.css">
 # Мой архив знаний
 
 Добро пожаловать. Здесь собрана важная информация.
