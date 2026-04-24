@@ -71,3 +71,16 @@ a:hover {
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
+
+h1 .anchor,
+h2 .anchor,
+h3 .anchor,
+h4 .anchor {
+  display: none !important;
+}
+
+.anchor,
+.octicon,
+.octicon-link {
+  display: none !important;
+}
