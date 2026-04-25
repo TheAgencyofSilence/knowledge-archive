@@ -47,4 +47,4 @@ layout: default
 
 ---
 
-[← Назад к графе "Пролог"](prologue.md)
+<a href="prologue.html" class="button">← Назад к графе "Пролог"</a>
