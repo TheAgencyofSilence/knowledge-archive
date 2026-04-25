@@ -119,6 +119,8 @@ p {
 
 .navbar a:hover {
   text-decoration: none;
+  color: #14532d;
+}
 
 .page .note {
   display: block;
@@ -139,19 +141,18 @@ p {
   margin-bottom: 0;
 }
 
-/* Цветовые варианты (если понадобятся) */
 .note-blue {
-  background-color: #e0f2fe;
+  background-color: #e0f2fe !important;
 }
 
 .note-green {
-  background-color: #e7f5ec;
+  background-color: #e7f5ec !important;
 }
 
 .note-red {
-  background-color: #fde8e8;
+  background-color: #fde8e8 !important;
 }
 
 .note-yellow {
-  background-color: #fef3c7;
+  background-color: #fef3c7 !important;
 }
