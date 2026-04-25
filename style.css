@@ -147,3 +147,11 @@ a:hover {
   color: white;
   border-color: #14532d;
 }
+
+.gray-box {
+  background-color: #f3f4f6;
+  padding: 16px 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+  border: 1px solid #e5e7eb;
+}
