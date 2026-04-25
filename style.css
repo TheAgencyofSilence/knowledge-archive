@@ -118,8 +118,8 @@ a:hover {
 
 .subnav {
   display: flex;
+  flex-direction: column;  /* ← ВАЖНО */
   gap: 10px;
-  flex-wrap: wrap;
   margin-top: 10px;
 }
 
