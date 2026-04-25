@@ -2,13 +2,12 @@
 
 <nav class="navbar">
   <a href="index.html">Главная</a>
-  <a href="finances.html">Финансы</a>
-  <a href="projects.html">Проекты</a>
-  <a href="ideas.html">Идеи</a>
+  <a href="SistemaVT.html">Финансы</a>
+  <a href="Homerules.html">Домашние правила</a>
 </nav>
-# Проекты
+# Домашние правила
 
-Здесь будет информация о проектах.
+Здесь будет информация о домашних правилах.
 
 ---
 
