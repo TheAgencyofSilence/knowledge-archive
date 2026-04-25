@@ -138,3 +138,9 @@ a:hover {
 .subnav a:hover {
   background-color: #e5e7eb;
 }
+
+.subnav a:hover {
+  background-color: #14532d;
+  color: white;
+  border-color: #14532d;
+}
