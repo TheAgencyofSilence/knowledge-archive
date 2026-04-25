@@ -119,5 +119,32 @@ p {
 
 .navbar a:hover {
   text-decoration: none;
+
+  /* Универсальный блок (как на твоем скрине) */
+.note {
+  background-color: #f3f4f6;
+  padding: 20px 24px;
+  border-radius: 12px;   /* ← ключевой момент (закругление) */
+  margin: 20px 0;
+  line-height: 1.6;
+  border: 1px solid #e5e7eb;
+}
+
+/* Цветовые варианты (если понадобятся) */
+.note-blue {
+  background-color: #e0f2fe;
+}
+
+.note-green {
+  background-color: #e7f5ec;
+}
+
+.note-red {
+  background-color: #fde8e8;
+}
+
+.note-yellow {
+  background-color: #fef3c7;
+}
   color: #14532d;
 }
