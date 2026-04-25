@@ -10,9 +10,11 @@
 
 ## Подразделы
 
-- [Инвестиции](investments.md)
-- [Банки](banks.md)
-- [Налоги](taxes.md)
+<div class="subnav">
+  <a href="investments.html">Инвестиции</a>
+  <a href="banks.html">Банки</a>
+  <a href="taxes.html">Налоги</a>
+</div>
 
 <img src="chartsuda-rhunsiri-wings.jpg" style="width: 100%; max-width: 500px; border-radius: 10px; margin-bottom: 20px;">
 
