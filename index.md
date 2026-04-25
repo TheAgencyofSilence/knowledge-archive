@@ -2,9 +2,8 @@
 
 <nav class="navbar">
   <a href="index.html">Главная</a>
-  <a href="finances.html">Игровая система</a>
-  <a href="projects.html">Проекты</a>
-  <a href="ideas.html">Идеи</a>
+  <a href="SismemaVT.html">Игровая система</a>
+  <a href="projects.html">Домашние правила</a>
 </nav>
 <link rel="stylesheet" href="style.css">
 # Мой архив знаний
@@ -18,18 +17,13 @@
 <div class="container">
 
 <a href="finances.html" class="card">
-  <div class="card-title">💰 Финансы</div>
-  <p>Инвестиции, банки, налоги и финансовые заметки.</p>
+  <div class="card-title">💰 Игровая система</div>
+  <p>Здесь собрана информация об игровой системе.</p>
 </a>
 
-<a href="projects.html" class="card">
-  <h3>🛠 Проекты</h3>
-  <p>Рабочие и личные проекты, идеи по развитию, планы.</p>
-</a>
-
-<a href="ideas.html" class="card">
-  <h3>💡 Идеи</h3>
-  <p>Мысли, гипотезы, заметки и будущие направления.</p>
+<a href="Homerules.html" class="card">
+  <div class="card-title">💰 Домашние правила</div>
+  <p>Здесь собрана информация об игровой системе.</p>
 </a>
 
 </div>
