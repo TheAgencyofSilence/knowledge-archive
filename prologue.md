@@ -51,6 +51,7 @@ _**Вячеслав Вышегородский
 <div class="subnav">
   <a href="important-tips.html">Важно</a>
 </div>
+
 ---
 
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
