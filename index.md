@@ -2,7 +2,7 @@
 
 <nav class="navbar">
   <a href="index.html">Главная</a>
-  <a href="finances.html">Финансы</a>
+  <a href="finances.html">Игровая система</a>
   <a href="projects.html">Проекты</a>
   <a href="ideas.html">Идеи</a>
 </nav>
