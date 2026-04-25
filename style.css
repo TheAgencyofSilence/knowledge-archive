@@ -122,37 +122,65 @@ p {
   color: #14532d;
 }
 
+/* БАЗОВЫЙ БЛОК */
 .page .note {
   display: block;
-  background-color: #f3f4f6 !important;
   padding: 20px 24px;
   border-radius: 16px;
   margin: 20px 0;
   line-height: 1.6;
-  border: 1px solid #e5e7eb !important;
+  border: 1px solid #e5e7eb;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+
+  position: relative;
 }
 
+/* ЛЕВАЯ ПОЛОСКА (как на скрине) */
+.page .note::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  border-radius: 4px 0 0 4px;
+}
+
+/* ===== ЦВЕТА (максимально близко к твоему скрину) ===== */
+
+.note-blue {
+  background-color: #e6f0f5;
+}
+.note-blue::before {
+  background-color: #6b8ea3;
+}
+
+.note-green {
+  background-color: #e7efe9;
+}
+.note-green::before {
+  background-color: #6f8f78;
+}
+
+.note-red {
+  background-color: #f3e3e3;
+}
+.note-red::before {
+  background-color: #a06b6b;
+}
+
+.note-yellow {
+  background-color: #efe3cc;
+}
+.note-yellow::before {
+  background-color: #a68b5b;
+}
+
+/* текст внутри */
 .page .note p {
   margin: 0 0 12px 0;
 }
 
 .page .note p:last-child {
   margin-bottom: 0;
-}
-
-.note-blue {
-  background-color: #e0f2fe !important;
-}
-
-.note-green {
-  background-color: #e7f5ec !important;
-}
-
-.note-red {
-  background-color: #fde8e8 !important;
-}
-
-.note-yellow {
-  background-color: #fef3c7 !important;
 }
