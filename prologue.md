@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<div class="page">
 
 <nav class="navbar">
   <a href="index.html">Главная</a>
@@ -45,3 +46,5 @@
 ---
 
 [← Назад к Игровой системе](SistemaVT.md)
+
+</div>
