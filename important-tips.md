@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="style.css">
-
 <nav class="navbar">
   <a href="index.html">Главная</a>
   <a href="SistemaVT.html">Игровая система</a>
