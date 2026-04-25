@@ -156,10 +156,10 @@ p {
 }
 
 .note-green {
-  background-color: #e7efe9;
+  background-color: #dff3e6; /* более насыщенный */
 }
 .note-green::before {
-  background-color: #6f8f78;
+  background-color: #3f7f5f; /* более контрастная линия */
 }
 
 .note-red {
