@@ -176,6 +176,14 @@ p {
   background-color: #a68b5b;
 }
 
+/* СЕРЫЙ (первый блок как на скрине 2) */
+.note-gray {
+  background-color: #f3f4f6;
+}
+.note-gray::before {
+  background-color: #9ca3af;
+}
+
 /* текст внутри */
 .page .note p {
   margin: 0 0 12px 0;
