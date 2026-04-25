@@ -123,25 +123,29 @@ subnav {
   margin-top: 10px;
 }
 
+.subnav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
 .subnav a {
-  display: block;
-  padding: 10px 16px;
-  border-radius: 8px;
-  border: 1px solid #e5e7eb;
-  background-color: #ffffff;
+  display: inline-block;
+  padding: 6px 14px;
+  font-size: 0.9em;
+  border: 1px solid #d1d5db;
+  border-radius: 999px;
+  background-color: #f9fafb;
   color: #111827;
   text-decoration: none;
-  font-size: 0.95em;
   transition: 0.2s;
 }
 
 .subnav a:hover {
-  background-color: #f3f4f6;
-  border-color: #d1d5db;
-}
-
-.subnav a:hover {
-  background-color: #e5e7eb;
+  background-color: #14532d;
+  color: white;
+  border-color: #14532d;
 }
 
 .subnav a:hover {
