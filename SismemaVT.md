@@ -1,13 +1,12 @@
 <nav class="navbar">
   <a href="index.html">Главная</a>
-  <a href="finances.html">Финансы</a>
-  <a href="projects.html">Проекты</a>
-  <a href="ideas.html">Идеи</a>
+  <a href="finances.html">Игровая система</a>
+  <a href="projects.html">Домашние правила</a>
 </nav>
-[Главная](index.md) → Финансы
-# Финансы
+[Главная](index.md) → Игровая система
+# Игровая система
 
-Здесь будет информация о финансах.
+Здесь будет информация об игровой системе.
 
 ## Подразделы
 
