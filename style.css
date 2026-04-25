@@ -156,11 +156,12 @@ p {
   background-color: #4f7f96; /* более выразительная линия */
 }
 
+/* ЗЕЛЁНЫЙ — заметно насыщеннее */
 .note-green {
-  background-color: #dff3e6; /* более насыщенный */
+  background-color: #cfe9d8; /* более “живой” зелёный */
 }
 .note-green::before {
-  background-color: #3f7f5f; /* более контрастная линия */
+  background-color: #2f6f4f; /* тёмная насыщенная полоса */
 }
 
 .note-red {
