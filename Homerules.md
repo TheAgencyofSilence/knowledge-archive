@@ -2,7 +2,7 @@
 
 <nav class="navbar">
   <a href="index.html">Главная</a>
-  <a href="SistemaVT.html">Финансы</a>
+  <a href="SistemaVT.html">Основные правила</a>
   <a href="Homerules.html">Домашние правила</a>
 </nav>
 # Домашние правила
