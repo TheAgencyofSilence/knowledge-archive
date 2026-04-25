@@ -47,4 +47,4 @@ layout: default
 
 ---
 
-[← Назад к Игровой системе](SistemaVT.md)
+[← Назад к графе "Пролог"](prologue.md)
