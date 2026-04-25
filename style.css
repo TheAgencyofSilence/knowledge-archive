@@ -155,3 +155,9 @@ a:hover {
   margin: 20px 0;
   border: 1px solid #e5e7eb;
 }
+
+.page {
+  max-width: 900px;   /* ширина блока */
+  margin: 0 auto;     /* центрирование */
+  padding: 0 20px;    /* отступы внутри */
+}
