@@ -16,7 +16,7 @@
 
 <div class="container">
 
-<a href="finances.html" class="card">
+<a href="SistemaVT.html" class="card">
   <div class="card-title">💰 Игровая система</div>
   <p>Здесь собрана информация об игровой системе.</p>
 </a>
