@@ -2,7 +2,7 @@
 
 <nav class="navbar">
   <a href="index.html">Главная</a>
-  <a href="SismemaVT.html">Игровая система</a>
+  <a href="SistemaVT.html">Игровая система</a>
   <a href="projects.html">Домашние правила</a>
 </nav>
 <link rel="stylesheet" href="style.css">
