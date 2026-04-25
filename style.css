@@ -148,11 +148,12 @@ p {
 
 /* ===== ЦВЕТА (максимально близко к твоему скрину) ===== */
 
+/* ГОЛУБОЙ — чуть насыщеннее и контрастнее */
 .note-blue {
-  background-color: #e6f0f5;
+  background-color: #d7e7ef; /* было бледнее → теперь глубже */
 }
 .note-blue::before {
-  background-color: #6b8ea3;
+  background-color: #4f7f96; /* более выразительная линия */
 }
 
 .note-green {
