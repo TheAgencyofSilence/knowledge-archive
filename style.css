@@ -116,17 +116,10 @@ a:hover {
   padding: 40px 24px;
 }
 
-subnav {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 10px;
-}
-
 .subnav {
   display: flex;
+  flex-direction: column;  /* ← ключевое */
   gap: 10px;
-  flex-wrap: wrap;
   margin-top: 10px;
 }
 
