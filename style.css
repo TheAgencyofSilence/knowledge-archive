@@ -118,13 +118,14 @@ a:hover {
 
 .subnav {
   display: flex;
-  flex-direction: column;  /* ← ключевое */
+  flex-direction: column;
   gap: 10px;
   margin-top: 10px;
 }
 
 .subnav a {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   padding: 6px 14px;
   font-size: 0.9em;
   border: 1px solid #d1d5db;
