@@ -1,71 +1,40 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   color: #24292f;
   line-height: 1.6;
 }
 
+/* Заголовки */
 h1 {
   font-size: 2.5em;
   font-weight: 700;
   letter-spacing: -0.02em;
+  margin-bottom: 20px;
 }
 
+/* Текст */
 p {
   font-size: 1.1em;
   color: #374151;
+  margin-bottom: 16px;
 }
 
-/* Убираем верхний заголовок GitHub Pages */
-header,
-.page-header,
-.site-header,
-.site-title,
-header h1,
-header a {
-  display: none !important;
+/* Контейнер */
+.page {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 24px;
 }
 
-/* Убираем якоря/цепочки GitHub Pages */
+/* Убираем якоря */
 .anchor,
 .anchor-link,
 .octicon,
-.octicon-link,
-a.anchor,
-a.anchor-link,
-h1 .anchor,
-h2 .anchor,
-h3 .anchor,
-h4 .anchor,
-h5 .anchor,
-h6 .anchor,
-h1 .anchor-link,
-h2 .anchor-link,
-h3 .anchor-link,
-h4 .anchor-link,
-h5 .anchor-link,
-h6 .anchor-link {
+.octicon-link {
   display: none !important;
-  visibility: hidden !important;
-  width: 0 !important;
-  height: 0 !important;
-  opacity: 0 !important;
 }
 
-a {
-  text-decoration: none !important;
-}
-
-a:hover {
-  text-decoration: none !important;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  margin-top: 20px;
-}
-
+/* Карточки */
 .card {
   display: block;
   width: 100%;
@@ -73,10 +42,8 @@ a:hover {
   padding: 28px;
   border: 1px solid #ddd;
   border-radius: 12px;
-  text-decoration: none !important;
   color: inherit;
   transition: 0.2s;
-  box-sizing: border-box;
 }
 
 .card:hover {
@@ -84,56 +51,23 @@ a:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-.card-title {
-  font-size: 1.6em;
-  font-weight: 700;
-  margin-bottom: 16px;
-  line-height: 1.3;
-}
-
-.navbar {
-  display: flex;
-  gap: 18px;
-  padding: 14px 0;
-  margin-bottom: 24px;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-.navbar a {
-  text-decoration: none !important;
-  font-weight: 600;
-}
-
+/* Кнопки */
 .button {
   display: inline-block;
   margin-top: 24px;
   padding: 12px 20px;
   background-color: #14532d;
-  color: white !important;
+  color: white;
   border-radius: 8px;
-  text-decoration: none !important;
   font-weight: 600;
-  transition: 0.2s;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-decoration: none;
 }
 
-.button:hover {
-  background-color: #166534;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-.page {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 40px 24px;
-}
-
+/* Подразделы */
 .subnav {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  margin-top: 10px;
 }
 
 .subnav a {
@@ -146,31 +80,18 @@ a:hover {
   background-color: #f9fafb;
   color: #111827;
   text-decoration: none;
-  transition: 0.2s;
 }
 
 .subnav a:hover {
   background-color: #14532d;
   color: white;
-  border-color: #14532d;
 }
 
-.subnav a:hover {
-  background-color: #14532d;
-  color: white;
-  border-color: #14532d;
-}
-
+/* Серый блок */
 .gray-box {
   background-color: #f3f4f6;
-  padding: 16px 20px;
+  padding: 20px 24px;
   border-radius: 10px;
-  margin: 20px 0;
+  margin: 24px 0;
   border: 1px solid #e5e7eb;
-}
-
-.page {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 24px;
 }
