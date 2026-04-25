@@ -11,9 +11,8 @@
 ## Подразделы
 
 <div class="subnav">
-  <a href="investments.html">Инвестиции</a>
-  <a href="banks.html">Банки</a>
-  <a href="taxes.html">Налоги</a>
+  <a href="prologue.html">Пролог</a>
+  <a href="important-details.html">Важные детали</a>
 </div>
 
 ---
