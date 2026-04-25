@@ -116,23 +116,28 @@ a:hover {
   padding: 40px 24px;
 }
 
-.subnav {
+subnav {
   display: flex;
-  flex-direction: column;  /* ← ВАЖНО */
+  flex-direction: column;
   gap: 10px;
   margin-top: 10px;
 }
 
 .subnav a {
-  display: inline-block;
-  padding: 6px 14px;
-  font-size: 0.9em;
-  border: 1px solid #d1d5db;
-  border-radius: 999px;
-  background-color: #f9fafb;
+  display: block;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  background-color: #ffffff;
   color: #111827;
   text-decoration: none;
+  font-size: 0.95em;
   transition: 0.2s;
+}
+
+.subnav a:hover {
+  background-color: #f3f4f6;
+  border-color: #d1d5db;
 }
 
 .subnav a:hover {
