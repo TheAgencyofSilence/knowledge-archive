@@ -26,7 +26,7 @@ _**Дара Ривер**_
 <div class="subnav">
   <a href="roll.html">Бросок</a>
   <a href="actions-type.html">Виды действий</a>
-  <a href="capital-city-names.html">Имена Столицы</a>
+  <a href="advantages.html">Создание преимуществ</a>
   <a href="capital-city-names.html">Имена Столицы</a>
   <a href="capital-city-names.html">Имена Столицы</a>
   <a href="capital-city-names.html">Имена Столицы</a>
