@@ -13,6 +13,7 @@
 <div class="subnav">
   <a href="prologue.html">Пролог</a>
   <a href="important-details.html">Важные детали</a>
+  <a href="basics..html">Основы</a>
 </div>
 
 ---
