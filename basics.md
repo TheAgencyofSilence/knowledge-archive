@@ -24,7 +24,7 @@ _**Дара Ривер**_
 ---
 
 <div class="subnav">
-  <a href="capital-city-names.html">Имена Столицы</a>
+  <a href="roll.html">Бросок</a>
   <a href="capital-city-names.html">Имена Столицы</a>
   <a href="capital-city-names.html">Имена Столицы</a>
   <a href="capital-city-names.html">Имена Столицы</a>
