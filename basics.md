@@ -28,7 +28,7 @@ _**Дара Ривер**_
   <a href="actions-type.html">Виды действий</a>
   <a href="advantages.html">Создание преимуществ</a>
   <a href="additional-dice.html">Дополнительные кубики</a>
-  <a href="capital-city-names.html">Имена Столицы</a>
+  <a href="problems.html">Проблемы</a>
   <a href="capital-city-names.html">Имена Столицы</a>
 </div>
 
