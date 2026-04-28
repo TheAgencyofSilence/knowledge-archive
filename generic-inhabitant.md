@@ -18,7 +18,7 @@
   <a href="steppers.html">Степняки</a>
   <a href="mounters.html">Горняки</a>
   <a href="elder-ones.html">Древние</a>
-  <a href="halfbloodedt.html">Полукровки</a>
+  <a href="halfblooded.html">Полукровки</a>
 </div>
 
 ---
