@@ -14,8 +14,8 @@
   <a href="prologue.html">Пролог</a>
   <a href="important-details.html">Важные детали</a>
   <a href="basics.html">Основы</a>
+  <a href="characters-creation.html">Создание персонажей</a>
 </div>
-
 ---
 
 <a href="index.html" class="button">← Назад на главную</a>
