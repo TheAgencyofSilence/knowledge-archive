@@ -63,6 +63,42 @@
 
 **Сразу обновлю таблицу, заменив её на нашу**
 
+<table>
+  <tr>
+    <td width="25%" align="center">
+
+## SECTION 1
+
+[Пример 1]
+
+    </td>
+
+    <td width="25%" align="center">
+
+## SECTION 2
+
+[Пример 2]
+
+    </td>
+
+    <td width="25%" align="center">
+
+## SECTION 3
+
+[Пример 3]
+
+    </td>
+
+    <td width="25%" align="center">
+
+## SECTION 4
+
+[Пример 4]
+
+    </td>
+  </tr>
+</table>
+
 
 
 
