@@ -194,3 +194,23 @@ p {
 .page .note p:last-child {
   margin-bottom: 0;
 }
+
+.sections-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 32px 0;
+}
+
+.sections-table td {
+  border: 1px solid #d0d7de;
+  padding: 24px;
+  vertical-align: top;
+}
+
+.section-zero {
+  text-align: center;
+}
+
+.section-cell {
+  width: 25%;
+}
