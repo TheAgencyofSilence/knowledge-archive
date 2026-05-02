@@ -58,23 +58,35 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
-    <td style="border: 1px solid #d0d7de; padding: 16px; width: 25%;">
-      <h3>Секция 1</h3>
-      <p>Здесь текст первой секции</p>
+    <td colspan="4" align="center">
+      
+## Секция 0
+Здесь текст верхней секции.
+Можно писать:
+- описание
+- вводный текст
+- предупреждение
+- навигацию
     </td>
-    <td style="border: 1px solid #d0d7de; padding: 16px; width: 25%;">
-      <h3>Секция 2</h3>
-      <p>Здесь текст второй секции</p>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+## Секция 1
+Здесь текст первой секции.
     </td>
-    <td style="border: 1px solid #d0d7de; padding: 16px; width: 25%;">
-      <h3>Секция 3</h3>
-      <p>Здесь текст третьей секции</p>
+    <td width="25%" valign="top">
+## Секция 2
+Здесь текст второй секции.
     </td>
-    <td style="border: 1px solid #d0d7de; padding: 16px; width: 25%;">
-      <h3>Секция 4</h3>
-      <p>Здесь текст четвертой секции</p>
+    <td width="25%" valign="top">
+## Секция 3
+Здесь текст третьей секции.
+    </td>
+    <td width="25%" valign="top">
+## Секция 4
+Здесь текст четвертой секции.
     </td>
   </tr>
 </table>
