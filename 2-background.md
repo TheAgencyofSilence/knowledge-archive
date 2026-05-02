@@ -78,11 +78,9 @@
     </td>
 </table>
 
-
-
 ---
 
 
 
 
-<a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
+<a href="SistemaVT.html" class="button">← Назад </a>
