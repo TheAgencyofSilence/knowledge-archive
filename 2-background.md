@@ -60,7 +60,7 @@
 
 <table class="sections-table">
   <tr>
-    <td colspan="4" class="section-zero">
+    <td colspan="2" class="section-zero">
       <h3>Секция 0</h3>
       <p>Здесь текст нулевой секции</p>
     </td>
@@ -75,6 +75,18 @@
     <td class="section-cell">
       <h3>Секция 2</h3>
       <p>Здесь текст второй секции</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="section-cell">
+      <h3>Секция 3</h3>
+      <p>Здесь текст третьей секции</p>
+    </td>
+
+    <td class="section-cell">
+      <h3>Секция 4</h3>
+      <p>Здесь текст четвертой секции</p>
     </td>
   </tr>
 </table>
