@@ -61,8 +61,8 @@
 <table class="sections-table">
   <tr>
     <td colspan="2" class="section-zero">
-      <h3>Секция 0</h3>
-      <p>Здесь текст нулевой секции</p>
+      <h3><strong> Блок 1 </strong></h3>
+      <p><strong> Неудачи и Испытания </strong></p>
     </td>
   </tr>
 
