@@ -605,6 +605,14 @@
 
 ---
 
+# В Столице все связано. Город ничего не забывает
+
+---
+  <a href="knowleges-and-contacts.html">Знания и Связи</a>
+  <a href="background-creation-example.html">Пример создания предыстории персонажа</a>
+
+---
+
 
 
 <a href="SistemaVT.html" class="button">← Назад </a>
