@@ -218,7 +218,7 @@
 
 
 <div class="subnav">
-  <a href="mutation.html">Мутация</a>
+  <a href="mutation.html">Подробнее о навыке Мутация</a>
 </div>
 
 ---
