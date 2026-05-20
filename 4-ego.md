@@ -207,12 +207,8 @@
 
 <div class="subnav">
   <a href="the-will.html">Подробнее о навыке Воля</a>
-
+</div>
 
 ---
-
-
-
-
 
 <a href="SistemaVT.html" class="button">← Назад </a>
