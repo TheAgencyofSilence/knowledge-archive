@@ -106,9 +106,10 @@
   </tr>
 
   <tr>
-    <td class="section-cell">
-      <h3><strong> 1 </strong></h3>
-    </td>
+     <td class="section-cell" align="center" valign="middle">
+       <h1>1</h1>
+     </td>
+ </tr>
 
     <td class="section-cell">
       <h3><strong>Выберите один вариант:</strong></h3>
