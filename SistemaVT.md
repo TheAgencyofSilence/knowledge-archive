@@ -15,7 +15,7 @@
   <a href="important-details.html">Важные детали</a>
   <a href="basics.html">Основы</a>
   <a href="characters-creation.html">Создание персонажей</a>
-  <a href="Create life-stats.html">Жизненные показатели персонажей</a>
+  <a href="life-stats.html">Жизненные показатели персонажей</a>
 </div>
 ---
 
