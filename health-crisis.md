@@ -73,9 +73,9 @@
 
 <table class="simple-table">
   <tr>
-    <th>Значение Травмы</th>
-    <th>Описание эффекта</th>
-    <th>Пример</th>
+    <th class="center">Значение Травмы</th>
+    <th class="center">Описание эффекта</th>
+    <th class="center">Пример</th>
   </tr>
 
   <tr>
