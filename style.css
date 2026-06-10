@@ -252,4 +252,15 @@ p {
 .simple-table th {
   background-color: #f6f8fa;
   font-weight: 600;
-} 
+}
+
+.simple-table.centered th,
+.simple-table.centered td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.center {
+  text-align: center;
+  vertical-align: middle;
+}
