@@ -254,8 +254,8 @@ p {
   font-weight: 600;
 }
 
-.simple-table.centered th,
-.simple-table.centered td {
+.simple-table th.center,
+.simple-table td.center {
   text-align: center;
   vertical-align: middle;
 }
