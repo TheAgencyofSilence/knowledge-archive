@@ -17,6 +17,7 @@
   <a href="characters-creation.html">Создание персонажей</a>
   <a href="life-stats.html">Жизненные показатели персонажей</a>
   <a href="characters-progress.html">Развитие персонажей</a>
+  <a href="fighting.html">Боевые сцены</a>
 </div>
 ---
 
