@@ -22,6 +22,11 @@ _**Зеленый**_
 
 <div class="subnav">
   <a href="fight-scene-start-and-turn-order.html">Начало боевой сцены: Очередность</a>
+  <a href="actions-in-fight.html">Действия в бою</a>
+  <a href="damage.html">Урон</a>
+  <a href="zones-armor-covers.html">Зоны боя. Броня и укрытия</a>
+  <a href="combat-skills.html">Особые возможности боевых навыков</a>
+  <a href="group-combat.html">Групповой бой</a>
 </div>
 
 ---
