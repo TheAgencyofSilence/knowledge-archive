@@ -253,11 +253,13 @@ p {
   font-weight: 600;
 }
 
-.simple-table tr:nth-child(odd) {
+.simple-table tr:nth-child(odd) > th,
+.simple-table tr:nth-child(odd) > td {
   background-color: #f6f8fa;
 }
 
-.simple-table tr:nth-child(even) {
+.simple-table tr:nth-child(even) > th,
+.simple-table tr:nth-child(even) > td {
   background-color: #ffffff;
 }
 
@@ -282,14 +284,6 @@ p {
 .simple-table td.left {
   text-align: left;
   vertical-align: top;
-}
-
-.simple-table tr:nth-child(odd) {
-  background-color: #f6f8fa;
-}
-
-.simple-table tr:nth-child(even) {
-  background-color: #ffffff;
 }
 
 /* Вложенная таблица */
