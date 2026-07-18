@@ -83,22 +83,46 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 </table>
 
 
-<table class="simple-table">
+<table class="simple-table centered">
 
+  <!-- Первая строка общей таблицы -->
   <tr>
-    <td class="center"><strong>Примеры правила трех сущностей</strong></td>
+    <td>
+      <strong>Примеры правила трех сущностей</strong>
+    </td>
   </tr>
 
+  <!-- Вторая строка общей таблицы -->
   <tr>
-    <td class="center"><img src="assets/images/first example.png.png" alt="Описание"></td>
-  </tr>
+    <td>
 
-  <tr>
-    <td class="center"><strong>Правило талантов</strong><br><br> Талант-техника заполняет все три  ячейки.</td>
-  </tr>
+      <table class="simple-table">
 
-  <tr>
-    <td class="center"><strong>Сущности и глубины</strong><br><br> Cразу для понимания скажем, что «+3 к фехтованию» и «+1 к фехтованию» это одна и та же сущность. Глубина разная, но сущность одна.</td>
+        <!-- Заголовок внутренней таблицы -->
+        <tr>
+          <td colspan="3" class="center">
+            <strong>Офицерская шпага</strong>
+          </td>
+        </tr>
+
+        <!-- Три столбца -->
+        <tr>
+          <td class="center">
+            Бонус к Фехтованию +1
+          </td>
+
+          <td class="center">
+            Пронзающий: 1
+          </td>
+
+          <td class="center">
+            Увесистый: 1
+          </td>
+        </tr>
+
+      </table>
+
+    </td>
   </tr>
 
 </table>
