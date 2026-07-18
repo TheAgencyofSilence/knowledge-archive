@@ -274,12 +274,6 @@ p {
   vertical-align: middle;
 }
 
-.simple-table th.center,
-.simple-table td.center {
-  text-align: center;
-  vertical-align: middle;
-}
-
 .simple-table th.left,
 .simple-table td.left {
   text-align: left;
