@@ -19,6 +19,7 @@
   <a href="characters-progress.html">Развитие персонажей</a>
   <a href="fighting.html">Боевые сцены</a>
   <a href="social.html">Социальные взаимодействия</a>
+  <a href="special-skills.html">Детальный разбор особых навыков</a>
 </div>
 ---
 
