@@ -83,6 +83,26 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 </table>
 
 
+<table class="simple-table">
+
+  <tr>
+    <td class="center"><strong>Примеры правила трех сущностей</strong></td>
+  </tr>
+
+  <tr>
+    <td class="center"><img src="assets/images/logo.png" alt="Описание"></td>
+  </tr>
+
+  <tr>
+    <td class="center"><strong>Правило талантов</strong><br><br> Талант-техника заполняет все три  ячейки.</td>
+  </tr>
+
+  <tr>
+    <td class="center"><strong>Сущности и глубины</strong><br><br> Cразу для понимания скажем, что «+3 к фехтованию» и «+1 к фехтованию» это одна и та же сущность. Глубина разная, но сущность одна.</td>
+  </tr>
+
+</table>
+
 
 
 
