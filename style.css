@@ -331,3 +331,10 @@ p {
   margin-left: 0;
   margin-right: 0;
 }
+
+
+.after-table-text {
+  margin-top: 16px;
+  margin-bottom: 0;
+  text-align: center;
+}
