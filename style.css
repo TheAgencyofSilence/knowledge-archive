@@ -270,3 +270,17 @@ p {
   text-align: center;
   vertical-align: middle;
 }
+
+.simple-table th.left,
+.simple-table td.left {
+  text-align: left;
+  vertical-align: top;
+}
+
+.simple-table tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.simple-table tr:nth-child(even) {
+  background-color: #f6f8fa;
+}
