@@ -92,7 +92,8 @@ _**Концовка пьесы “Ликующий Зодчий”**_
   </tr>
 
   <tr>
-    <td>
+    
+    <td class="nested-cell">
 
       <table class="inner-table">
 
@@ -116,7 +117,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
   </tr>
 
   <tr>
-    <td>
+    <td class="nested-cell">
 
       <table class="inner-table">
 
