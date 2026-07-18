@@ -96,7 +96,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
   <tr>
     <td>
 
-      <table class="simple-table">
+      <table class="inner-table">
 
         <!-- Заголовок внутренней таблицы -->
         <tr>
