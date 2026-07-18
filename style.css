@@ -250,8 +250,15 @@ p {
 }
 
 .simple-table th {
-  background-color: #f6f8fa;
   font-weight: 600;
+}
+
+.simple-table tr:nth-child(odd) {
+  background-color: #f6f8fa;
+}
+
+.simple-table tr:nth-child(even) {
+  background-color: #ffffff;
 }
 
 .simple-table th.center,
