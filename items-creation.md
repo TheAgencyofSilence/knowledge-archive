@@ -210,9 +210,11 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 
 <table class="simple-table">
 
-  <th>
-    <th>Однако здесь мы, для удобства, вводим единственную новую сущность, которую назовем <strong>«Условная единица крафта»</strong> или просто <strong>«Условная единица»</strong> или просто <strong>«УЕ»</strong>. Эти условные единицы равны пунктам вдохновения в соотношении 1 к 1.</th>
-  </th>
+    <tr>
+        <td>
+            Однако здесь мы, для удобства, вводим единственную новую сущность, которую назовем <strong>«Условная единица крафта»</strong> или просто <strong>«Условная единица»</strong> или просто <strong>«УЕ»</strong>. Эти условные единицы равны пунктам вдохновения в соотношении 1 к 1.
+        </td>
+    </tr>
 
 </table>
 
@@ -245,17 +247,17 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 <table class="simple-table">
 
   <tr>
-    <th class="center">1-2<br>условных единицы</th>
-    <th class="center">3-4<br>условных единицы</th>
-    <th class="center">5-6<br>условных единицы</th>
-    <th class="center">7-8<br>условных единицы</th>
+    <td class="center">1-2<br>условных единицы</td>
+    <td class="center">3-4<br>условных единицы</td>
+    <td class="center">5-6<br>условных единицы</td>
+    <td class="center">7-8<br>условных единицы</td>
   </tr>
 
   <tr>
-    <th class="center"><strong>Шестая</strong><br>Категория Технопакта</th>
-    <th class="center"><strong>Пятая</strong> <br>Категория Технопакта</th>
-    <th class="center"><strong>Четвертая</strong> <br>Категория Технопакта</th>
-    <th class="center"><strong>Третья</strong> <br>Категория Технопакта</th>
+    <td class="center"><strong>Шестая</strong><br>Категория Технопакта</td>
+    <td class="center"><strong>Пятая</strong> <br>Категория Технопакта</td>
+    <td class="center"><strong>Четвертая</strong> <br>Категория Технопакта</td>
+    <td class="center"><strong>Третья</strong> <br>Категория Технопакта</td>
   </tr>
 
 </table>
