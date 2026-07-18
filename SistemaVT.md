@@ -20,6 +20,7 @@
   <a href="fighting.html">Боевые сцены</a>
   <a href="social.html">Социальные взаимодействия</a>
   <a href="special-skills.html">Детальный разбор особых навыков</a>
+  <a href="items-creation.html">Процесс создания предметов</a>
 </div>
 ---
 
