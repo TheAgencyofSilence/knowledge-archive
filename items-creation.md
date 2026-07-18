@@ -86,7 +86,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 <table class="simple-table centered">
 
   <tr>
-    <td>
+    <td class="center">
       Примеры правила трех сущностей
     </td>
   </tr>
