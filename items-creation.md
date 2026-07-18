@@ -90,7 +90,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
   </tr>
 
   <tr>
-    <td class="center"><img src="assets/images/logo.png" alt="Описание"></td>
+    <td class="center"><img src="assets/images/first example.png" alt="Описание"></td>
   </tr>
 
   <tr>
