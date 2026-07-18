@@ -25,7 +25,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 • Этап 3. Процесс создания
 
 <div class="subnav">
-  <a href="Stage 1: Inspiration.html">Этап 1. Вдохновение</a>
+  <a href="Stage-1:Inspiration.html">Этап 1. Вдохновение</a>
   <a href="Stage-2.Blueprint.html">Этап 2. Чертеж</a>
 </div>
 
