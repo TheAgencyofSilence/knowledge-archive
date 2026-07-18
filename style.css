@@ -278,11 +278,11 @@ p {
 }
 
 .simple-table tr:nth-child(odd) {
-  background-color: #ffffff;
+  background-color: #f6f8fa;
 }
 
 .simple-table tr:nth-child(even) {
-  background-color: #f6f8fa;
+  background-color: #ffffff;
 }
 
 /* Вложенная таблица */
