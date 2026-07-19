@@ -115,7 +115,7 @@
 
     <div class="expand-content">
 
-        <table class="green-table">
+        <table class="pink-table">
 
             <colgroup>
                 <col style="width:20%;">
