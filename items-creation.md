@@ -23,6 +23,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
   <a href="stage-2.blueprint.html">Этап 2. Чертеж</a>
   <a href="stage-3.creation-processl.html">Этап 3. Процесс создания</a>
 </div>
+<br>
 
 ---
 
@@ -32,6 +33,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
   <a href="property-tables.html">Таблица пассивных свойств</a>
   <a href="сomponent-purchase-table.html">Таблица для покупки компонентов</a>
 </div>
+<br>
 
 ---
 
@@ -40,6 +42,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 <div class="subnav">
   <a href="prosthetic-installatio.html">Установка протезов</a>
 </div>
+<br>
 
 ---
 
