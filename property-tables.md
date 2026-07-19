@@ -209,7 +209,7 @@
 
     <div class="expand-content">
 
-        <table class="brown-1-table">
+        <table class="brown-table-1">
 
             <colgroup>
                 <col style="width:20%;">
