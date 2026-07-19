@@ -363,3 +363,27 @@ p {
   text-align: center;
   font-weight: 600;
 }
+
+/* Розовая таблица */
+
+.pink-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.pink-table td,
+.pink-table th {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #edc2c2;
+  text-align: left;
+  vertical-align: middle;
+}
+
+/* Заголовок */
+.pink-table .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
