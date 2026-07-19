@@ -96,9 +96,9 @@
 <table class="pink-table">
 
     <colgroup>
-        <col style="width:30%;">
-        <col style="width:50%;">
         <col style="width:20%;">
+        <col style="width:65%;">
+        <col style="width:15%;">
     </colgroup>
 
     <tr>
