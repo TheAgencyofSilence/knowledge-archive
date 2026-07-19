@@ -12,9 +12,9 @@
 <table class="green-table">
 
     <colgroup>
-        <col style="width:23%;">
-        <col style="width:65%;">
-        <col style="width:12%;">
+        <col style="width:20%;">
+        <col style="width:70%;">
+        <col style="width:10%;">
     </colgroup>
 
     <tr>
@@ -102,9 +102,9 @@
 <table class="pink-table">
 
     <colgroup>
-        <col style="width:23%;">
-        <col style="width:65%;">
-        <col style="width:12%;">
+        <col style="width:20%;">
+        <col style="width:70%;">
+        <col style="width:10%;">
     </colgroup>
 
     <tr>
