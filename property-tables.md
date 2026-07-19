@@ -203,7 +203,7 @@
 
 ---
 
-<details class="expand-block brown-1">
+<details class="expand-block expand-brown-1">
 
     <summary>Оружие ближнего боя</summary>
 
