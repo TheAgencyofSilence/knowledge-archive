@@ -443,6 +443,83 @@
 
 ---
 
+<details class="expand-block expand-brown-5">
+
+    <summary>Оружие дальнего боя/summary>
+
+    <div class="expand-content">
+
+        <table class="brown-table-5">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Оружие дальнего боя</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</details>
+
+---
+
+<details class="expand-block expand-brown-6">
+
+    <summary>Оружие дальнего боя/summary>
+
+    <div class="expand-content">
+
+        <table class="brown-table-6">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Свойства только для огнестрельного оружия</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</details>
 
 
 
