@@ -483,44 +483,85 @@ p {
   font-size: 1.4em;
 }
 
-/* Раскрывающийся блок */
+/* ========================================= */
+/* Раскрывающиеся блоки                      */
+/* ========================================= */
+
 .expand-block {
   margin: 24px 0;
 }
 
-/* Кнопка «Узнать больше» */
+/* Кнопка */
 .expand-block summary {
   display: block;
   width: fit-content;
   margin: 0 auto;
   padding: 12px 22px;
-  background-color: #14532d;
-  color: #ffffff;
+
+  color: #000;
+  border: 1px solid rgba(0,0,0,0.2);
   border-radius: 8px;
-  font-weight: 600;
+
+  font-weight: 700;
   cursor: pointer;
   text-align: center;
   list-style: none;
+
   transition: 0.2s;
 }
 
-/* Убираем стандартный треугольник в Chrome и Safari */
+/* Убираем стандартный треугольник */
 .expand-block summary::-webkit-details-marker {
   display: none;
 }
 
-/* Эффект при наведении */
+/* Небольшой эффект при наведении */
 .expand-block summary:hover {
-  background-color: #166534;
   transform: translateY(-2px);
+  filter: brightness(0.96);
 }
 
-/* Скрытая часть страницы */
+/* Скрытый текст */
 .expand-content {
   margin-top: 24px;
 }
 
-/* Кнопка после раскрытия */
+/* Отступ после раскрытия */
 .expand-block[open] summary {
   margin-bottom: 24px;
+}
+
+
+/* ========================================= */
+/* Цвета кнопок                              */
+/* ========================================= */
+
+/* Зеленая */
+.expand-green summary {
+  background-color: #b9d7a8;
+}
+
+/* Розовая */
+.expand-pink summary {
+  background-color: #edc2c2;
+}
+
+/* Светло-коричневая */
+.expand-brown-1 summary {
+  background-color: #F2C68D;
+}
+
+/* Коричневая */
+.expand-brown-2 summary {
+  background-color: #E3AD67;
+}
+
+/* Темнее */
+.expand-brown-3 summary {
+  background-color: #D69A52;
+}
+
+/* Самая темная */
+.expand-brown-4 summary {
+  background-color: #C88439;
 }
