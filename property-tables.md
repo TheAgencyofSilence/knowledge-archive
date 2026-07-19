@@ -11,21 +11,21 @@
 
 <details class="expand-block expand-green">
 
-    <summary>Универсальные свойства</summary>
+    <summary>Показать таблицу</summary>
 
     <div class="expand-content">
 
         <table class="green-table">
-        
+
             <colgroup>
                 <col style="width:20%;">
                 <col style="width:70%;">
                 <col style="width:10%;">
             </colgroup>
-        
+
             <tr>
                 <td colspan="3" class="title">
-                    <h3>Универсальные свойства</h3>
+                    <h3>Универсальные свойства</h3> 
                 </td>
             </tr>
             
