@@ -109,9 +109,9 @@
 
 ---
 
-<details class="expand-block expand-green">
+<details class="expand-block expand-pink">
 
-    <summary>Универсальные свойства</summary>
+    <summary>Универсальные негативные свойства</summary>
 
     <div class="expand-content">
 
