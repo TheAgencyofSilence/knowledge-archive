@@ -95,10 +95,10 @@
 
     <tr>
         <td colspan="3" class="title">
-            <h3>Универсальные негативные свойства</h3>
+            Заголовок таблицы
         </td>
     </tr>
-    
+
     <tr>
         <td class="center"><strong>Название</strong></td>
         <td class="center"><strong>Эффект</strong></td>
@@ -164,7 +164,7 @@
         <td>Наносит владельцу H пунктов Интоксикации когда используется.</td>
         <td>-1 УЕ</td>
     </tr>
-    
+
 </table>
 
 
