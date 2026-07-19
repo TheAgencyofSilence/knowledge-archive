@@ -340,3 +340,26 @@ p {
   background-color: #f6f8fa !important;
   padding: 20px !important;
 }
+
+/* Зеленая таблица */
+
+.green-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.green-table td,
+.green-table th {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #b9d7a8;
+  text-align: left;
+  vertical-align: middle;
+}
+
+/* Заголовок */
+.green-table .title {
+  text-align: center;
+  font-weight: 600;
+}
