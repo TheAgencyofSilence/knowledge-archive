@@ -91,7 +91,7 @@
     
 </table>
 
-<table class="green-table">
+<table class="pink-table">
 
     <tr>
         <td colspan="3" class="title">
