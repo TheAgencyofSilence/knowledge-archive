@@ -201,139 +201,247 @@
 
 </details>
 
-<table class="brown-table-1">
+---
 
-    <colgroup>
-        <col style="width:20%;">
-        <col style="width:70%;">
-        <col style="width:10%;">
-    </colgroup>
+<details class="expand-block brown-1">
 
-    <tr>
-        <td colspan="3" class="title">
-            <h3>Оружие ближнего боя</h3> 		
-        </td>
-    </tr>
+    <summary>Оружие ближнего боя</summary>
 
-    <tr>
-        <td class="center"><strong>Название</strong></td>
-        <td class="center"><strong>Эффект</strong></td>
-        <td class="center"><strong>Цена</strong></td>
-    </tr>
+    <div class="expand-content">
 
-    <tr>
-        <td>Громоздкое Н</td>
-        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
-        <td>- 2 УЕ</td>
-    </tr>
+        <table class="brown-1-table">
 
-</table>
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
 
-<table class="brown-table-2">
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Оружие ближнего боя</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
 
-    <colgroup>
-        <col style="width:20%;">
-        <col style="width:70%;">
-        <col style="width:10%;">
-    </colgroup>
-
-    <tr>
-        <td colspan="3" class="title">
-            <h3>Свойства только для Фехтовального оружия</h3> 		
-        </td>
-    </tr>
-
-    <tr>
-        <td class="center"><strong>Название</strong></td>
-        <td class="center"><strong>Эффект</strong></td>
-        <td class="center"><strong>Цена</strong></td>
-    </tr>
-
-    <tr>
-        <td>Громоздкое Н</td>
-        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
-        <td>- 2 УЕ</td>
-    </tr>
-
-</table>
-
-<table class="brown-table-3">
-
-    <colgroup>
-        <col style="width:20%;">
-        <col style="width:70%;">
-        <col style="width:10%;">
-    </colgroup>
-
-    <tr>
-        <td colspan="3" class="title">
-            <h3>Свойства только для оружия Рукопашного Боя</h3> 		
-        </td>
-    </tr>
-
-    <tr>
-        <td class="center"><strong>Название</strong></td>
-        <td class="center"><strong>Эффект</strong></td>
-        <td class="center"><strong>Цена</strong></td>
-    </tr>
-
-    <tr>
-        <td>Громоздкое Н</td>
-        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
-        <td>- 2 УЕ</td>
-    </tr>
-
-</table>
-
-<table class="brown-table-4">
-
-    <colgroup>
-        <col style="width:20%;">
-        <col style="width:70%;">
-        <col style="width:10%;">
-    </colgroup>
-
-    <tr>
-        <td colspan="3" class="title">
-            <h3>Свойства только для Тяжелого Оружия</h3> 		
-        </td>
-    </tr>
-
-    <tr>
-        <td class="center"><strong>Название</strong></td>
-        <td class="center"><strong>Эффект</strong></td>
-        <td class="center"><strong>Цена</strong></td>
-    </tr>
-
-    <tr>
-        <td>Громоздкое Н</td>
-        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
-        <td>- 2 УЕ</td>
-    </tr>
-
-</table>
-
-<details class="expand-block">
-
-  <summary>Узнать больше</summary>
-
-  <div class="expand-content">
-
-    <h2>Дополнительная информация</h2>
-
-    <p>
-      Этот текст изначально скрыт. После нажатия на кнопку
-      «Узнать больше» он появится на странице.
-    </p>
-
-    <p>
-      Здесь можно размещать обычный текст, изображения, таблицы,
-      ссылки и другие HTML-элементы.
-    </p>
-
-  </div>
+    </div>
 
 </details>
+
+---
+
+<details class="expand-block expand-brown-2">
+
+    <summary>Свойства только для Фехтовального оружия</summary>
+
+    <div class="expand-content">
+
+        <table class="brown-2-table">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Свойства только для Фехтовального оружия</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</details>
+
+---
+
+<details class="expand-block expand-brown-3">
+
+    <summary>Свойства только для оружия Рукопашного Боя</summary>
+
+    <div class="expand-content">
+
+        <table class="brown-3-table">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Свойства только для оружия Рукопашного Боя</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</details>
+
+---
+
+<details class="expand-block expand-brown-4">
+
+    <summary>Свойства только для Тяжелого Оружия</summary>
+
+    <div class="expand-content">
+
+        <table class="brown-4-table">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Свойства только для Тяжелого Оружия</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</details>
+
+---
+
+<details class="expand-block expand-pink">
+
+    <summary>Универсальные негативные свойства</summary>
+
+    <div class="expand-content">
+
+        <table class="pink-table">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Универсальные негативные свойства</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</details>
+
+---
+
+<details class="expand-block expand-pink">
+
+    <summary>Универсальные негативные свойства</summary>
+
+    <div class="expand-content">
+
+        <table class="pink-table">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Универсальные негативные свойства</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</details>
+
+---
 
 
 
