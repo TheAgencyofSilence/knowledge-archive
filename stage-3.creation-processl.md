@@ -5,7 +5,7 @@
   <a href="SistemaVT.html">Игровая система</a>
   <a href="Homerules.html">Домашние правила</a>
 </nav>
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Процесс создания предметов](items-creation.md) → 
+[Главная](index.md) → [Игровая система](SistemaVT.md) → [Процесс создания предметов](items-creation.md) → Этап 3. Создание
 
 # Этап 3. Создание
 
