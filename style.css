@@ -387,3 +387,98 @@ p {
   font-weight: 700;
   font-size: 1.4em;
 }
+
+/* ========================================= */
+/* Коричневые таблицы                        */
+/* ========================================= */
+
+/* Светло-песочная */
+.brown-table-1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.brown-table-1 td,
+.brown-table-1 th {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #F2C68D;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.brown-table-1 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+
+/* Светло-коричневая */
+.brown-table-2 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.brown-table-2 td,
+.brown-table-2 th {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #E3AD67;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.brown-table-2 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+
+/* Средне-коричневая */
+.brown-table-3 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.brown-table-3 td,
+.brown-table-3 th {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #D69A52;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.brown-table-3 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+
+/* Насыщенно-коричневая */
+.brown-table-4 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.brown-table-4 td,
+.brown-table-4 th {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #C88439;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.brown-table-4 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
