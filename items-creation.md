@@ -30,7 +30,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 
 <div class="subnav">
   <a href="property-tables.html">Таблица пассивных свойств</a>
-  <a href="сomponent-purchase-table.html">Таблица для покупки компонентове</a>
+  <a href="сomponent-purchase-table.html">Таблица для покупки компонентов</a>
 </div>
 
 ---
