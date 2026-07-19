@@ -482,3 +482,45 @@ p {
   font-weight: 700;
   font-size: 1.4em;
 }
+
+/* Раскрывающийся блок */
+.expand-block {
+  margin: 24px 0;
+}
+
+/* Кнопка «Узнать больше» */
+.expand-block summary {
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 12px 22px;
+  background-color: #14532d;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: center;
+  list-style: none;
+  transition: 0.2s;
+}
+
+/* Убираем стандартный треугольник в Chrome и Safari */
+.expand-block summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Эффект при наведении */
+.expand-block summary:hover {
+  background-color: #166534;
+  transform: translateY(-2px);
+}
+
+/* Скрытая часть страницы */
+.expand-content {
+  margin-top: 24px;
+}
+
+/* Кнопка после раскрытия */
+.expand-block[open] summary {
+  margin-bottom: 24px;
+}
