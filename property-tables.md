@@ -11,7 +11,7 @@
 
 <details class="expand-block expand-green">
 
-    <summary>Показать таблицу</summary>
+    <summary>Универсальные свойства</summary>
 
     <div class="expand-content">
 
