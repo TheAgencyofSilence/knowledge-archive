@@ -249,7 +249,7 @@
 
     <div class="expand-content">
 
-        <table class="brown-2-table">
+        <table class="brown-table-2">
 
             <colgroup>
                 <col style="width:20%;">
@@ -289,7 +289,7 @@
 
     <div class="expand-content">
 
-        <table class="brown-3-table">
+        <table class="brown-table-3">
 
             <colgroup>
                 <col style="width:20%;">
@@ -329,7 +329,7 @@
 
     <div class="expand-content">
 
-        <table class="brown-4-table">
+        <table class="brown-table-4">
 
             <colgroup>
                 <col style="width:20%;">
