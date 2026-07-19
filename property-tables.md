@@ -405,7 +405,7 @@
 
 <details class="expand-block expand-brown-6">
 
-    <summary>Оружие дальнего боя</summary>
+    <summary>Свойства только для огнестрельного оружия</summary>
 
     <div class="expand-content">
 
