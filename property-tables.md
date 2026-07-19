@@ -11,6 +11,12 @@
 
 <table class="green-table">
 
+    <colgroup>
+        <col style="width:23%;">
+        <col style="width:65%;">
+        <col style="width:12%;">
+    </colgroup>
+
     <tr>
         <td colspan="3" class="title">
             <h3>Универсальные свойства</h3>
@@ -96,9 +102,9 @@
 <table class="pink-table">
 
     <colgroup>
-        <col style="width:20%;">
+        <col style="width:23%;">
         <col style="width:65%;">
-        <col style="width:15%;">
+        <col style="width:12%;">
     </colgroup>
 
     <tr>
