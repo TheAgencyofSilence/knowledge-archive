@@ -109,7 +109,7 @@
 
     <tr>
         <td colspan="3" class="title">
-            Заголовок таблицы
+            <h3>Универсальные негативные свойства</h3> 
         </td>
     </tr>
 
@@ -177,6 +177,118 @@
         <td>Ядовитое H</td>
         <td>Наносит владельцу H пунктов Интоксикации когда используется.</td>
         <td>-1 УЕ</td>
+    </tr>
+
+</table>
+
+<table class="brown-table-1">
+
+    <colgroup>
+        <col style="width:20%;">
+        <col style="width:70%;">
+        <col style="width:10%;">
+    </colgroup>
+
+    <tr>
+        <td colspan="3" class="title">
+            <h3>Оружие ближнего боя</h3> 		
+        </td>
+    </tr>
+
+    <tr>
+        <td class="center"><strong>Название</strong></td>
+        <td class="center"><strong>Эффект</strong></td>
+        <td class="center"><strong>Цена</strong></td>
+    </tr>
+
+    <tr>
+        <td>Громоздкое Н</td>
+        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+        <td>- 2 УЕ</td>
+    </tr>
+
+</table>
+
+<table class="brown-table-2">
+
+    <colgroup>
+        <col style="width:20%;">
+        <col style="width:70%;">
+        <col style="width:10%;">
+    </colgroup>
+
+    <tr>
+        <td colspan="3" class="title">
+            <h3>Свойства только для Фехтовального оружия</h3> 		
+        </td>
+    </tr>
+
+    <tr>
+        <td class="center"><strong>Название</strong></td>
+        <td class="center"><strong>Эффект</strong></td>
+        <td class="center"><strong>Цена</strong></td>
+    </tr>
+
+    <tr>
+        <td>Громоздкое Н</td>
+        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+        <td>- 2 УЕ</td>
+    </tr>
+
+</table>
+
+<table class="brown-table-3">
+
+    <colgroup>
+        <col style="width:20%;">
+        <col style="width:70%;">
+        <col style="width:10%;">
+    </colgroup>
+
+    <tr>
+        <td colspan="3" class="title">
+            <h3>Свойства только для оружия Рукопашного Боя</h3> 		
+        </td>
+    </tr>
+
+    <tr>
+        <td class="center"><strong>Название</strong></td>
+        <td class="center"><strong>Эффект</strong></td>
+        <td class="center"><strong>Цена</strong></td>
+    </tr>
+
+    <tr>
+        <td>Громоздкое Н</td>
+        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+        <td>- 2 УЕ</td>
+    </tr>
+
+</table>
+
+<table class="brown-table-4">
+
+    <colgroup>
+        <col style="width:20%;">
+        <col style="width:70%;">
+        <col style="width:10%;">
+    </colgroup>
+
+    <tr>
+        <td colspan="3" class="title">
+            <h3>Свойства только для Тяжелого Оружия</h3> 		
+        </td>
+    </tr>
+
+    <tr>
+        <td class="center"><strong>Название</strong></td>
+        <td class="center"><strong>Эффект</strong></td>
+        <td class="center"><strong>Цена</strong></td>
+    </tr>
+
+    <tr>
+        <td>Громоздкое Н</td>
+        <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+        <td>- 2 УЕ</td>
     </tr>
 
 </table>
