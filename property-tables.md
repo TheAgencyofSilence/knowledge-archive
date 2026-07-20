@@ -403,13 +403,13 @@
 
 ---
 
-<details class="expand-block expand-gold">
+<details class="expand-block expand-gold-2">
 
     <summary>Свойства только для огнестрельного оружия</summary>
 
     <div class="expand-content">
 
-        <table class="gold">
+        <table class="gold-table-2">
 
             <colgroup>
                 <col style="width:20%;">
@@ -443,13 +443,13 @@
 
 ---
 
-<details class="expand-block expand-bronze">
+<details class="expand-block expand-blue-1">
 
-    <summary>Подробнее</summary>
+    <summary>"Дополнительные боевые качества<br><br>(Дополнительный боекомплект)"</summary>
 
     <div class="expand-content">
 
-        <table class="bronze">
+        <table class="blue-1">
 
             <colgroup>
                 <col style="width:20%;">
