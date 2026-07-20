@@ -403,13 +403,13 @@
 
 ---
 
-<details class="expand-block expand-gold-2">
+<details class="expand-block expand-blue-1">
 
     <summary>Свойства только для огнестрельного оружия</summary>
 
     <div class="expand-content">
 
-        <table class="gold-table-2">
+        <table class="gold-blue-1">
 
             <colgroup>
                 <col style="width:20%;">
@@ -445,24 +445,18 @@
 
 <details class="expand-block expand-blue-1">
 
-    <summary>"Дополнительные боевые качества<br><br>(Дополнительный боекомплект)"</summary>
+    <summary>Дополнительные боевые качества<br><br>(Дополнительный боекомплект)</summary>
 
     <div class="expand-content">
 
-        <table class="blue-1">
+        <table class="gold-table-2">
 
             <colgroup>
                 <col style="width:20%;">
                 <col style="width:70%;">
                 <col style="width:10%;">
             </colgroup>
-
-            <tr>
-                <td class="center"><strong>Название</strong></td>
-                <td class="center"><strong>Эффект</strong></td>
-                <td class="center"><strong>Цена</strong></td>
-            </tr>
-        
+      
             <tr>
                 <td>Громоздкое Н</td>
                 <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
