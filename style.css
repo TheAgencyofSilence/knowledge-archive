@@ -866,30 +866,39 @@ p {
 
 /* Кнопка "Детальнее" */
 
-.expand-lavender-1 summary {
-  background-color: #A9B5CB;
+details.expand-block.expand-lavender-1 > summary {
+  background-color: #A9B5CB !important;
+  color: #000000 !important;
 }
 
 
 /* Таблица */
 
-.lavender-table-1 {
+table.lavender-table-1 {
   width: 100%;
   border-collapse: collapse;
   margin: 24px 0;
 }
 
-.lavender-table-1 th,
-.lavender-table-1 td {
-  border: 1px solid #000;
+table.lavender-table-1 > tbody > tr > th,
+table.lavender-table-1 > tbody > tr > td,
+table.lavender-table-1 > tr > th,
+table.lavender-table-1 > tr > td {
+  border: 1px solid #000000;
   padding: 10px 14px;
-  background-color: #A9B5CB;
+  background-color: #A9B5CB !important;
   text-align: left;
   vertical-align: middle;
+  color: #000000 !important;
 }
 
-.lavender-table-1 .title {
+table.lavender-table-1 .title {
   text-align: center;
   font-weight: 700;
   font-size: 1.4em;
+}
+
+table.lavender-table-1 .title h3 {
+  margin: 0;
+  color: #000000;
 }
