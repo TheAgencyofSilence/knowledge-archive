@@ -790,3 +790,38 @@ p {
   font-weight: 700;
   font-size: 1.4em;
 }
+
+
+/* ========================================= */
+/* Кнопка                                    */
+/* ========================================= */
+
+.expand-gold-2 summary {
+  background-color: #E4BC4F;
+}
+
+
+/* ========================================= */
+/* Таблица                                   */
+/* ========================================= */
+
+.gold-table-2 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.gold-table-2 th,
+.gold-table-2 td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #E4BC4F;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.gold-table-2 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
