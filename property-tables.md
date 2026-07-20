@@ -243,13 +243,13 @@
 
 ---
 
-<details class="expand-block expand-gold">
+<details class="expand-block expand-steel-blue-1">
 
     <summary>Свойства только для Фехтовального оружия</summary>
 
     <div class="expand-content">
 
-        <table class="gold-table">
+        <table class="steel-blue-table-1">
 
             <colgroup>
                 <col style="width:20%;">
