@@ -859,3 +859,37 @@ p {
   font-weight: 700;
   font-size: 1.4em;
 }
+
+/* ========================================= */
+/* Lavender Blue                             */
+/* ========================================= */
+
+/* Кнопка "Детальнее" */
+
+.expand-lavender-1 summary {
+  background-color: #A9B5CB;
+}
+
+
+/* Таблица */
+
+.lavender-table-1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.lavender-table-1 th,
+.lavender-table-1 td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #A9B5CB;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.lavender-table-1 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
