@@ -513,7 +513,7 @@
 
 <details class="expand-block expand-lavender-1">
 
-    <summary>Приборы и аксессуары.</summary>
+    <summary>Приборы и аксессуары</summary>
 
     <div class="expand-content">
 
