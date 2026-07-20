@@ -975,46 +975,34 @@ table.lavender-table-1 .title h3 {
 /* Steel Blue Gray                           */
 /* ========================================= */
 
-/* Кнопка */
-
-details.expand-block.expand-steel-1 > summary {
-  background-color: #4F6D7A !important;
-  color: #ffffff !important;
+.expand-steel-1 summary {
+  background-color: #78909C;
+  color: #000000;
 }
 
-
-/* Таблица */
-
-table.steel-table-1 {
+.steel-table-1 {
   width: 100%;
   border-collapse: collapse;
   margin: 24px 0;
 }
 
-table.steel-table-1 th,
-table.steel-table-1 td {
-  border: 1px solid #000 !important;
+.steel-table-1 th,
+.steel-table-1 td {
+  border: 1px solid #000;
   padding: 10px 14px;
-  background: #4F6D7A !important;
-  background-color: #4F6D7A !important;
-  color: #ffffff !important;
+  background-color: #78909C;
+  color: #000000;
   text-align: left;
   vertical-align: middle;
 }
 
-table.steel-table-1 tr,
-table.steel-table-1 tbody,
-table.steel-table-1 thead {
-  background-color: #4F6D7A !important;
-}
-
-table.steel-table-1 .title {
+.steel-table-1 .title {
   text-align: center;
   font-weight: 700;
   font-size: 1.4em;
 }
 
-table.steel-table-1 .title h3 {
+.steel-table-1 .title h3 {
   margin: 0;
-  color: #ffffff !important;
+  color: #000000;
 }
