@@ -403,13 +403,13 @@
 
 ---
 
-<details class="expand-block expand-brown-6">
+<details class="expand-block expand-red-copper">
 
     <summary>Свойства только для огнестрельного оружия</summary>
 
     <div class="expand-content">
 
-        <table class="brown-table-6">
+        <table class="red-copper-table">
 
             <colgroup>
                 <col style="width:20%;">
@@ -443,13 +443,13 @@
 
 ---
 
-<details class="expand-block expand-blue-1">
+<details class="expand-block expand-bronze">
 
     <summary>Подробнее</summary>
 
     <div class="expand-content">
 
-        <table class="blue-table-1">
+        <table class="bronze">
 
             <colgroup>
                 <col style="width:20%;">
