@@ -323,13 +323,13 @@
 
 ---
 
-<details class="expand-block expand-bronze">
+<details class="expand-block expand-red-copper">
 
     <summary>Свойства только для Тяжелого Оружия</summary>
 
     <div class="expand-content">
 
-        <table class="bronze-table">
+        <table class="red-copper-table">
 
             <colgroup>
                 <col style="width:20%;">
