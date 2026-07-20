@@ -579,6 +579,40 @@
 
 ---
 
+<details class="expand-block expand-metal-1">
+
+    <summary>Протезы и прочие модификации тела</summary>
+
+    <div class="expand-content">
+
+        <table class="metal-table-1">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+      
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Протезы и прочие модификации тела</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+
+        </table>
+
+    </div>
+
+</details>
+
+---
+
 
 
 
