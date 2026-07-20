@@ -545,13 +545,13 @@
 
 ---
 
-<details class="expand-block expand-lavender-1">
+<details class="expand-block expand-periwinkle-1">
 
     <summary>Медицинское оборудование</summary>
 
     <div class="expand-content">
 
-        <table class="lavender-table-1">
+        <table class="periwinkle-table-1">
 
             <colgroup>
                 <col style="width:20%;">
