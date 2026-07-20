@@ -669,3 +669,124 @@ p {
   font-weight: 700;
   font-size: 1.4em;
 }
+
+/* ========================================= */
+/* Медный (#C96A1B)                          */
+/* ========================================= */
+
+.expand-copper summary {
+  background-color: #C96A1B;
+}
+
+.copper-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.copper-table th,
+.copper-table td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #C96A1B;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.copper-table .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+
+/* ========================================= */
+/* Золотистый (#E6A817)                      */
+/* ========================================= */
+
+.expand-gold summary {
+  background-color: #E6A817;
+}
+
+.gold-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.gold-table th,
+.gold-table td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #E6A817;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.gold-table .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+
+/* ========================================= */
+/* Красно-медный (#A64B2A)                   */
+/* ========================================= */
+
+.expand-red-copper summary {
+  background-color: #A64B2A;
+}
+
+.red-copper-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.red-copper-table th,
+.red-copper-table td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #A64B2A;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.red-copper-table .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+
+/* ========================================= */
+/* Темная бронза (#6E4B22)                   */
+/* ========================================= */
+
+.expand-bronze summary {
+  background-color: #6E4B22;
+  color: #ffffff;
+}
+
+.bronze-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.bronze-table th,
+.bronze-table td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #6E4B22;
+  text-align: left;
+  vertical-align: middle;
+  color: #ffffff;
+}
+
+.bronze-table .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
