@@ -409,7 +409,7 @@
 
     <div class="expand-content">
 
-        <table class="gold-2">
+        <table class="gold-table-2">
 
             <colgroup>
                 <col style="width:20%;">
@@ -449,7 +449,7 @@
 
     <div class="expand-content">
 
-        <table class="gold-table-2">
+        <table class="blue-table-1">
 
             <colgroup>
                 <col style="width:20%;">
