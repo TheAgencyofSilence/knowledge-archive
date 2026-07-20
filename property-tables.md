@@ -203,13 +203,13 @@
 
 ---
 
-<details class="expand-block expand-steel-1">
+<details class="expand-block expand-olive-1">
 
     <summary>Оружие ближнего боя</summary>
 
     <div class="expand-content">
 
-        <table class="steel-table-1">
+        <table class="olive-table-1">
 
             <colgroup>
                 <col style="width:20%;">
