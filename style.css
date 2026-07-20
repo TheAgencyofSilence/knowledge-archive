@@ -675,7 +675,7 @@ p {
 /* ========================================= */
 
 .expand-copper summary {
-  background-color: #C96A1B;
+  background-color: #C58A4F;
 }
 
 .copper-table {
@@ -688,7 +688,7 @@ p {
 .copper-table td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #C96A1B;
+  background-color: #C58A4F;
   text-align: left;
   vertical-align: middle;
 }
@@ -705,7 +705,7 @@ p {
 /* ========================================= */
 
 .expand-gold summary {
-  background-color: #E6A817;
+  background-color: #BC7E44;
 }
 
 .gold-table {
@@ -718,7 +718,7 @@ p {
 .gold-table td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #E6A817;
+  background-color: #BC7E44;
   text-align: left;
   vertical-align: middle;
 }
@@ -735,7 +735,7 @@ p {
 /* ========================================= */
 
 .expand-red-copper summary {
-  background-color: #A64B2A;
+  background-color: #B27239;
 }
 
 .red-copper-table {
@@ -748,7 +748,7 @@ p {
 .red-copper-table td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #A64B2A;
+  background-color: #B27239;
   text-align: left;
   vertical-align: middle;
 }
@@ -765,7 +765,7 @@ p {
 /* ========================================= */
 
 .expand-bronze summary {
-  background-color: #6E4B22;
+  background-color: #A86730;
   color: #ffffff;
 }
 
@@ -779,7 +779,7 @@ p {
 .bronze-table td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #6E4B22;
+  background-color: #A86730;
   text-align: left;
   vertical-align: middle;
   color: #ffffff;
