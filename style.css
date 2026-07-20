@@ -970,3 +970,44 @@ table.lavender-table-1 .title h3 {
   font-weight: 700;
   font-size: 1.4em;
 }
+
+/* ========================================= */
+/* Steel Blue Gray                           */
+/* ========================================= */
+
+/* Кнопка "Детальнее" */
+
+.expand-steel-1 summary {
+  background-color: #4F6D7A;
+  color: #ffffff;
+}
+
+
+/* Таблица */
+
+.steel-table-1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.steel-table-1 th,
+.steel-table-1 td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #4F6D7A;
+  color: #ffffff;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.steel-table-1 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.steel-table-1 .title h3 {
+  margin: 0;
+  color: #ffffff;
+}
