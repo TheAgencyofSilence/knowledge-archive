@@ -735,7 +735,7 @@ p {
 /* ========================================= */
 
 .expand-red-copper summary {
-  background-color: #B27239;
+  background-color: #BE7D3C;
 }
 
 .red-copper-table {
@@ -748,7 +748,7 @@ p {
 .red-copper-table td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #B27239;
+  background-color: #BE7D3C;
   text-align: left;
   vertical-align: middle;
 }
@@ -765,7 +765,7 @@ p {
 /* ========================================= */
 
 .expand-bronze summary {
-  background-color: #A86730;
+  background-color: #AF6B31;
   color: #ffffff;
 }
 
@@ -779,7 +779,7 @@ p {
 .bronze-table td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #A86730;
+  background-color: #AF6B31;
   text-align: left;
   vertical-align: middle;
   color: #ffffff;
