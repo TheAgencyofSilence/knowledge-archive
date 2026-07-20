@@ -403,13 +403,13 @@
 
 ---
 
-<details class="expand-block expand-blue-1">
+<details class="expand-block expand-gold-2">
 
     <summary>Свойства только для огнестрельного оружия</summary>
 
     <div class="expand-content">
 
-        <table class="gold-blue-1">
+        <table class="gold-2">
 
             <colgroup>
                 <col style="width:20%;">
