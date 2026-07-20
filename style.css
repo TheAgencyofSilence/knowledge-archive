@@ -1006,3 +1006,44 @@ table.lavender-table-1 .title h3 {
   margin: 0;
   color: #000000;
 }
+
+/* ========================================= */
+/* Olive Bronze                              */
+/* ========================================= */
+
+/* Кнопка "Детальнее" */
+
+.expand-olive-1 summary {
+  background-color: #70784B;
+  color: #ffffff;
+}
+
+
+/* Таблица */
+
+.olive-table-1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.olive-table-1 th,
+.olive-table-1 td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #70784B;
+  color: #ffffff;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.olive-table-1 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.olive-table-1 .title h3 {
+  margin: 0;
+  color: #ffffff;
+}
