@@ -203,13 +203,13 @@
 
 ---
 
-<details class="expand-block expand-brown-1">
+<details class="expand-block expand-copper">
 
     <summary>Оружие ближнего боя</summary>
 
     <div class="expand-content">
 
-        <table class="brown-table-1">
+        <table class="copper-table">
 
             <colgroup>
                 <col style="width:20%;">
@@ -243,13 +243,13 @@
 
 ---
 
-<details class="expand-block expand-brown-2">
+<details class="expand-block expand-gold">
 
     <summary>Свойства только для Фехтовального оружия</summary>
 
     <div class="expand-content">
 
-        <table class="brown-table-2">
+        <table class="gold-table">
 
             <colgroup>
                 <col style="width:20%;">
@@ -283,13 +283,13 @@
 
 ---
 
-<details class="expand-block expand-brown-3">
+<details class="expand-block expand-red-copper">
 
     <summary>Свойства только для оружия Рукопашного Боя</summary>
 
     <div class="expand-content">
 
-        <table class="brown-table-3">
+        <table class="red-copper-table">
 
             <colgroup>
                 <col style="width:20%;">
@@ -323,13 +323,13 @@
 
 ---
 
-<details class="expand-block expand-brown-4">
+<details class="expand-block expand-bronze">
 
     <summary>Свойства только для Тяжелого Оружия</summary>
 
     <div class="expand-content">
 
-        <table class="brown-table-4">
+        <table class="bronze-table">
 
             <colgroup>
                 <col style="width:20%;">
