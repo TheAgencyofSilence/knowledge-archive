@@ -547,7 +547,7 @@
 
 <details class="expand-block expand-periwinkle-1">
 
-    <summary>Медицинское оборудование</summary>
+    <summary>Детальнее</summary>
 
     <div class="expand-content">
 
