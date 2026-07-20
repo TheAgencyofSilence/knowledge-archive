@@ -203,13 +203,13 @@
 
 ---
 
-<details class="expand-block expand-olive-1">
+<details class="expand-block expand-steel-1">
 
     <summary>Оружие ближнего боя</summary>
 
     <div class="expand-content">
 
-        <table class="olive-table-1">
+        <table class="steel-table-1">
 
             <colgroup>
                 <col style="width:20%;">
@@ -283,13 +283,13 @@
 
 ---
 
-<details class="expand-block expand-red-copper">
+<details class="expand-block expand-olive-1">
 
     <summary>Свойства только для оружия Рукопашного Боя</summary>
 
     <div class="expand-content">
 
-        <table class="red-copper-table">
+        <table class="olive-table-1">
 
             <colgroup>
                 <col style="width:20%;">
