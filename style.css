@@ -1047,3 +1047,44 @@ table.lavender-table-1 .title h3 {
   margin: 0;
   color: #ffffff;
 }
+
+/* ========================================= */
+/* Steel Blue                                */
+/* ========================================= */
+
+/* Кнопка "Детальнее" */
+
+.expand-steel-blue-1 summary {
+  background-color: #6B6980;
+  color: #ffffff;
+}
+
+
+/* Таблица */
+
+.steel-blue-table-1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.steel-blue-table-1 th,
+.steel-blue-table-1 td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #6B6980;
+  color: #ffffff;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.steel-blue-table-1 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.steel-blue-table-1 .title h3 {
+  margin: 0;
+  color: #ffffff;
+}
