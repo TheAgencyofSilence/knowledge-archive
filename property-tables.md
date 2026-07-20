@@ -475,7 +475,41 @@
 
 </details>
 
+---
 
+<details class="expand-block expand-purple-1">
+
+    <summary>Броня и Одежда</summary>
+
+    <div class="expand-content">
+
+        <table class="purple-table-1">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+      
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>Броня и Одежда</h3> 
+                </td>
+            </tr>
+            
+            <tr>
+                <td>Громоздкое Н</td>
+                <td>Требует Силу Н чтоб не получать помеху Н на все навыки проворства при переноске. <br><br>С таким предметом невозможно скользить. (Суммируется по инвентарю)</td>
+                <td>- 2 УЕ</td>
+            </tr>
+
+        </table>
+
+    </div>
+
+</details>
+
+---
 
 
 
