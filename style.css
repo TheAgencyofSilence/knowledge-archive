@@ -975,39 +975,46 @@ table.lavender-table-1 .title h3 {
 /* Steel Blue Gray                           */
 /* ========================================= */
 
-/* Кнопка "Детальнее" */
+/* Кнопка */
 
-.expand-steel-1 summary {
-  background-color: #4F6D7A;
-  color: #ffffff;
+details.expand-block.expand-steel-1 > summary {
+  background-color: #4F6D7A !important;
+  color: #ffffff !important;
 }
 
 
 /* Таблица */
 
-.steel-table-1 {
+table.steel-table-1 {
   width: 100%;
   border-collapse: collapse;
   margin: 24px 0;
 }
 
-.steel-table-1 th,
-.steel-table-1 td {
-  border: 1px solid #000;
+table.steel-table-1 th,
+table.steel-table-1 td {
+  border: 1px solid #000 !important;
   padding: 10px 14px;
-  background-color: #4F6D7A;
-  color: #ffffff;
+  background: #4F6D7A !important;
+  background-color: #4F6D7A !important;
+  color: #ffffff !important;
   text-align: left;
   vertical-align: middle;
 }
 
-.steel-table-1 .title {
+table.steel-table-1 tr,
+table.steel-table-1 tbody,
+table.steel-table-1 thead {
+  background-color: #4F6D7A !important;
+}
+
+table.steel-table-1 .title {
   text-align: center;
   font-weight: 700;
   font-size: 1.4em;
 }
 
-.steel-table-1 .title h3 {
+table.steel-table-1 .title h3 {
   margin: 0;
-  color: #ffffff;
+  color: #ffffff !important;
 }
