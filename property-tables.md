@@ -1093,7 +1093,7 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="3" class="center">
+                <td colspan="3" style="text-align: center;">
                   (создаются навыком Медицина )
                 </td>
             </tr>
