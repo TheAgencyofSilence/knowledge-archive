@@ -1015,7 +1015,7 @@ table.lavender-table-1 .title h3 {
 
 .expand-olive-1 summary {
   background-color: #a6ad7a;
-  color: #ffffff;
+  color: #000000 !important;
 }
 
 
@@ -1032,7 +1032,7 @@ table.lavender-table-1 .title h3 {
   border: 1px solid #000;
   padding: 10px 14px;
   background-color: #a6ad7a;
-  color: #ffffff;
+  color: #000000 !important;
   text-align: left;
   vertical-align: middle;
 }
@@ -1045,7 +1045,7 @@ table.lavender-table-1 .title h3 {
 
 .olive-table-1 .title h3 {
   margin: 0;
-  color: #ffffff;
+  color: #000000 !important;
 }
 
 /* ========================================= */
