@@ -867,7 +867,7 @@ p {
 /* Кнопка "Детальнее" */
 
 details.expand-block.expand-lavender-1 > summary {
-  background-color: #A9B5CB !important;
+  background-color: #8C7352 !important;
   color: #000000 !important;
 }
 
@@ -886,7 +886,7 @@ table.lavender-table-1 > tr > th,
 table.lavender-table-1 > tr > td {
   border: 1px solid #000000;
   padding: 10px 14px;
-  background-color: #A9B5CB !important;
+  background-color: #8C7352 !important;
   text-align: left;
   vertical-align: middle;
   color: #000000 !important;
