@@ -297,6 +297,33 @@
             
             
         </table>
+        <table class="pink-table">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <strong>Негативные свойства оружия ближнего боя</strong>
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Застревающее</td>
+                <td>В случае промаха (когда при атаке не было засчитано ни одного успеха) игрок отправляется на внешний круг инициативы (фактически это пропуск хода, он не может даже блокировать атаки проворством)</td>
+                <td>- 3 УЕ</td>
+            </tr>
+            
+        </table>
 
     </div>
 
@@ -346,33 +373,6 @@
                 <td>Гибкое</td>
                 <td>Если при сравнении значения атаки противника и блока персонажа с этим оружием значение блока выше на 1 или больше, противник получает 1 единицу урона.</td>
                 <td>1 УЕ</td>
-            </tr>
-            
-        </table>
-                <table class="pink-table">
-
-            <colgroup>
-                <col style="width:20%;">
-                <col style="width:70%;">
-                <col style="width:10%;">
-            </colgroup>
-
-            <tr>
-                <td colspan="3" class="title">
-                    <strong>Негативные свойства оружия ближнего боя</strong>
-                </td>
-            </tr>
-            
-            <tr>
-                <td class="center"><strong>Название</strong></td>
-                <td class="center"><strong>Эффект</strong></td>
-                <td class="center"><strong>Цена</strong></td>
-            </tr>
-        
-            <tr>
-                <td>Застревающее</td>
-                <td>В случае промаха (когда при атаке не было засчитано ни одного успеха) игрок отправляется на внешний круг инициативы (фактически это пропуск хода, он не может даже блокировать атаки проворством)</td>
-                <td>- 3 УЕ</td>
             </tr>
             
         </table>
