@@ -891,33 +891,6 @@
             </tr>
 
         </table>
-        <table class="pink-table">
-
-            <colgroup>
-                <col style="width:20%;">
-                <col style="width:70%;">
-                <col style="width:10%;">
-            </colgroup>
-
-            <tr>
-                <td colspan="3" class="title">
-                    <strong>Негативные свойства инструментов и аксессуаров</strong>
-                </td>
-            </tr>
-            
-            <tr>
-                <td class="center"><strong>Название</strong></td>
-                <td class="center"><strong>Эффект</strong></td>
-                <td class="center"><strong>Цена</strong></td>
-            </tr>
-        
-            <tr>
-                <td>Конкретная задача</td>
-                <td>Такие предметы имеют существенные ограничения в использовании. Например, набор инструментов только для ремонтных работ.</td>
-                <td>- 2 УЕ</td>
-            </tr>
-            
-        </table>
 
     </div>
 
@@ -1065,6 +1038,33 @@
                 <td>1 УЕ</td>
             </tr>
 
+        </table>
+        <table class="pink-table">
+
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:70%;">
+                <col style="width:10%;">
+            </colgroup>
+
+            <tr>
+                <td colspan="3" class="title">
+                    <strong>Негативные свойства инструментов и аксессуаров</strong>
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="center"><strong>Название</strong></td>
+                <td class="center"><strong>Эффект</strong></td>
+                <td class="center"><strong>Цена</strong></td>
+            </tr>
+        
+            <tr>
+                <td>Конкретная задача</td>
+                <td>Такие предметы имеют существенные ограничения в использовании. Например, набор инструментов только для ремонтных работ.</td>
+                <td>- 2 УЕ</td>
+            </tr>
+            
         </table>
 
     </div>
