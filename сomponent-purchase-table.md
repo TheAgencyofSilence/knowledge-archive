@@ -15,7 +15,7 @@
 
     <div class="expand-content">
 
-                <table class="blue-gray-table-1">
+          <table class="blue-gray-table-1">
 
             <colgroup>
                 <col style="width:20%;">
@@ -41,9 +41,13 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
-                    Текст посередине ячейки
+            <td colspan="2">
+                <div class="big-cell-center">
+                    <div>
+                        <strong>Ячейка 4</strong><br><br>
+                        Текст посередине ячейки
+                    </div>
+                </div>
                 </td>
 
 
