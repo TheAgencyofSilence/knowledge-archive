@@ -260,7 +260,7 @@ p {
 
 .simple-table tr:nth-child(even) > th,
 .simple-table tr:nth-child(even) > td {
-  background-color: #ffffff;
+  background-color: #000000 !important;
 }
 
 .simple-table th.center,
@@ -293,7 +293,7 @@ p {
 .inner-table td {
   border: 1px solid #d0d7de;
   padding: 12px 16px;
-  background-color: #ffffff;
+  background-color: #000000 !important;
   text-align: center;
   vertical-align: middle;
 }
@@ -303,7 +303,7 @@ p {
 .inner-table tr:nth-child(odd) td,
 .inner-table tr:nth-child(even) th,
 .inner-table tr:nth-child(even) td {
-  background-color: #ffffff;
+  background-color: #000000 !important;
 }
 
 /* Центрируем текстовые элементы внутри ячеек */
@@ -766,7 +766,7 @@ p {
 
 .expand-bronze summary {
   background-color: #AF6B31;
-  color: #ffffff;
+  color: #000000 !important;
 }
 
 .bronze-table {
@@ -782,7 +782,7 @@ p {
   background-color: #AF6B31;
   text-align: left;
   vertical-align: middle;
-  color: #ffffff;
+  color: #000000 !important;;
 }
 
 .bronze-table .title {
@@ -1097,7 +1097,7 @@ table.lavender-table-1 .title h3 {
 
 .expand-blue-gray-1 summary {
   background-color: #4E79A7;
-  color: #ffffff;
+  color: #000000 !important;
 }
 
 
@@ -1114,7 +1114,7 @@ table.lavender-table-1 .title h3 {
   border: 1px solid #000;
   padding: 10px 14px;
   background-color: #4E79A7;
-  color: #ffffff;
+  color: #000000 !important;
   text-align: left;
   vertical-align: middle;
 }
@@ -1127,7 +1127,7 @@ table.lavender-table-1 .title h3 {
 
 .blue-gray-table-1 .title h3 {
   margin: 0;
-  color: #ffffff;
+  color: #000000 !important;
 }
 
 
@@ -1150,7 +1150,7 @@ table.lavender-table-1 .title h3 {
   border: 1px solid #000;
   padding: 10px 14px;
   background-color: #4E79A7 !important;
-  color: #ffffff;
+  color: #000000 !important;
   text-align: left;
   vertical-align: middle;
 }
