@@ -15,7 +15,7 @@
 
     <div class="expand-content">
 
-          <table class="blue-gray-table-1">
+        <table class="blue-gray-table-1">
 
             <colgroup>
                 <col style="width:20%;">
@@ -32,9 +32,9 @@
 
             <!-- Первая строка -->
             <tr>
-                <td>1</td>
-                <td>2</td>
-                <td class="center">3</td>
+                <td>Цена:</td>
+                <td>0000</td>
+                <td class="center">Необходимые связи для покупки:</td>
             </tr>
 
             <!-- Основная часть -->
@@ -60,54 +60,41 @@
                         </colgroup>
 
                         <tr>
-                            <td>5</td>
-                            <td>6</td>
-                            <td>7</td>
-                            <td>8</td>
+                            <td>Академии</td>
+                            <td>000</td>
+                            <td>Армия</td>
+                            <td>000</td>
                         </tr>
 
                         <tr>
-                            <td>9</td>
-                            <td>10</td>
-                            <td>11</td>
-                            <td>12</td>
+                            <td>Власть и Закон</td>
+                            <td>000</td>
+                            <td>Криминал</td>
+                            <td>000</td>
                         </tr>
 
                         <tr>
-                            <td>13</td>
-                            <td>14</td>
-                            <td>15</td>
-                            <td>16</td>
+                            <td>Аристократия</td>
+                            <td>000</td>
+                            <td>Оккультизм</td>
+                            <td>000</td>
                         </tr>
 
                         <tr>
-                            <td>17</td>
-                            <td>18</td>
-                            <td>19</td>
-                            <td>20</td>
+                            <td>Деловые круги</td>
+                            <td>000</td>
+                            <td>Инфраструктуры</td>
+                            <td>000</td>
                         </tr>
 
                         <tr>
-                            <td>21</td>
-                            <td>22</td>
-                            <td>23</td>
-                            <td>24</td>
+                            <td>Искусство</td>
+                            <td>000</td>
+                            <td>Степь</td>
+                            <td>000</td>
                         </tr>
 
                     </table>
-
-                </td>
-
-            </tr>
-
-            <!-- Нижняя строка -->
-            <tr>
-                <td colspan="3">
-                    Описание: 
-                </td>
-            </tr>
-
-        </table>
         <table class="blue-gray-table-1">
 
             <colgroup>
@@ -125,9 +112,9 @@
 
             <!-- Первая строка -->
             <tr>
-                <td>1</td>
-                <td>2</td>
-                <td class="center">3</td>
+                <td>Цена:</td>
+                <td>0000</td>
+                <td class="center">Необходимые связи для покупки:</td>
             </tr>
 
             <!-- Основная часть -->
@@ -305,9 +292,9 @@
 
             <!-- Первая строка -->
             <tr>
-                <td>1</td>
-                <td>2</td>
-                <td class="center">3</td>
+                <td>Цена:</td>
+                <td>0000</td>
+                <td class="center">Необходимые связи для покупки:</td>
             </tr>
 
             <!-- Основная часть -->
@@ -389,7 +376,7 @@
                 <col style="width:60%;">
             </colgroup>
 
-            <!-- Заголовок -->
+           <!-- Заголовок -->
             <tr>
                 <td colspan="3" class="title">
                     <h3>ОГЛАВЛЕНИЕ</h3>
@@ -398,9 +385,9 @@
 
             <!-- Первая строка -->
             <tr>
-                <td>1</td>
-                <td>2</td>
-                <td class="center">3</td>
+                <td>Цена:</td>
+                <td>0000</td>
+                <td class="center">Необходимые связи для покупки:</td>
             </tr>
 
             <!-- Основная часть -->
