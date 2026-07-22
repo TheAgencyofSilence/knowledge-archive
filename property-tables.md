@@ -1499,8 +1499,6 @@
       
         </table>
 
-        </table>
-
         <table class="metal-table-1">
 
             <colgroup>
