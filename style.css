@@ -1228,3 +1228,17 @@ table.lavender-table-1 .title h3 {
     align-items: center;
     text-align: center;
 }
+
+.sand-table-1 .half-cell-center {
+  width: 50%;
+  height: 180px;
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+.blue-gray-1 .half-cell-center {
+  width: 50%;
+  height: 180px;
+  text-align: center !important;
+  vertical-align: middle !important;
+}
