@@ -15,7 +15,7 @@
 
     <div class="expand-content">
 
-        <table class="blue-gray-table-1">
+                <table class="blue-gray-table-1">
 
             <colgroup>
                 <col style="width:20%;">
@@ -41,9 +41,11 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
                     Текст посередине ячейки
                 </td>
+
 
                 <!-- Правая вложенная таблица -->
                 <td style="padding:0;">
@@ -132,7 +134,8 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
                     Текст посередине ячейки
                 </td>
 
@@ -308,7 +311,8 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
                     Текст посередине ячейки
                 </td>
 
@@ -399,7 +403,8 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
                     Текст посередине ячейки
                 </td>
 
