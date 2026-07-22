@@ -253,12 +253,14 @@
         
             <!-- Две большие ячейки -->
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
+                    Текст посередине<br>
+                    ячейки
                 </td>
         
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
+                    Текст посередине<br>
+                    ячейки
                 </td>
             </tr>
         
@@ -523,11 +525,13 @@
             <!-- Две большие ячейки -->
             <tr>
                 <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                    Текст посередине<br>
+                    ячейки
                 </td>
         
                 <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                    Текст посередине<br>
+                    ячейки
                 </td>
             </tr>
         
