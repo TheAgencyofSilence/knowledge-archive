@@ -199,6 +199,78 @@
             </tr>
 
         </table>
+        <table class="blue-gray-table-1">
+        
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>ОГЛАВЛЕНИЕ</h3>
+                </td>
+            </tr>
+        
+            <tr>
+                <td colspan="3" class="center" style="height:180px; vertical-align:top; padding-top:14px;">
+                    Текст посередине ячейки
+                </td>
+            </tr>
+        
+            <tr>
+                <td colspan="3">
+                    Описание
+                </td>
+            </tr>
+        
+        </table>
+        <table class="blue-gray-table-1">
+        
+            <tr>
+                <td colspan="3" class="title">
+                    <h3>ОГЛАВЛЕНИЕ</h3>
+                </td>
+            </tr>
+        
+            <tr>
+                <td colspan="3" class="center" style="height:180px; vertical-align:top; padding-top:14px;">
+                    Текст посередине ячейки
+                </td>
+            </tr>
+        
+            <tr>
+                <td colspan="3">
+                    Описание
+                </td>
+            </tr>
+        
+        </table>
+        <table class="blue-gray-table-1">
+        
+            <!-- Заголовок -->
+            <tr>
+                <td colspan="2" class="title">
+                    <h3>Оглавление</h3>
+                </td>
+            </tr>
+        
+            <!-- Две большие ячейки -->
+            <tr>
+                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
+                    Текст посередине<br>
+                    ячейки
+                </td>
+        
+                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
+                    Текст посередине<br>
+                    ячейки
+                </td>
+            </tr>
+        
+            <!-- Нижняя строка -->
+            <tr>
+                <td colspan="2">
+                    <strong>Описание:</strong>
+                </td>
+            </tr>
+        
+        </table>
   
 
     </div>
