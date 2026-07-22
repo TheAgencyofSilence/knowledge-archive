@@ -14,7 +14,7 @@
 <table class="simple-table">
 
   <tr>
-    <td class="left"> Консультация в родной сфере крафта может:</td>
+    <td class="left"> <strong> Консультация в родной сфере крафта может:</strong></td>
   </tr>
 
   <tr>
