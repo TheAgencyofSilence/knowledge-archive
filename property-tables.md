@@ -1211,67 +1211,6 @@
 
     <div class="expand-content">
 
-    <details class="expand-block expand-metal-1">
-
-        <summary>Протезы и прочие модификации тела</summary>
-    
-        <div class="expand-content">
-    
-            <table class="metal-table-1">
-    
-                <colgroup>
-                    <col style="width:20%;">
-                    <col style="width:70%;">
-                    <col style="width:10%;">
-                </colgroup>
-          
-                <tr>
-                    <td colspan="3" class="title">
-                        <h3>Протезы и прочие модификации тела</h3> 
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="3">
-                        <i>Примечание: воздействие высокого напряжения может привести к выходу протезов и модификаторов из строя. <br><br>Постарайтесь не попадать под удары разрядным оружием, а также избегайте подзарядки от неизвестных антарных источников.<br><br>В протезы часто можно встроить свойства из раздела Приборы и аксессуары по стандартной цене, например дальнозор или темновизор</i>
-                    </td>
-                </tr>
-            
-                <tr>
-                    <td>Компенсация травмы N</td>
-                    <td>Травма уровня N более не приносит недостатков.<br>Возвращает возможности: видеть, слышать, говорить. Возвращение моторно двигательных функций.</td>
-                    <td>1 УЕ</td>
-                </tr>
-            </table>
-            <table class="metal-table-1">
-    
-                <colgroup>
-                    <col style="width:20%;">
-                    <col style="width:70%;">
-                    <col style="width:10%;">
-                </colgroup>
-          
-                <tr>
-                    <td colspan="3" class="title">
-                        <strong>Глаза</strong> 
-                    </td>
-                </tr>
-            
-                <tr>
-                    <td>Веритальный окуляр H</td>
-                    <td>Отслеживаем малейшие изменения в мимики и перепады температур лица, (визуальный детектор лжи). <br><br>Бонус H на проверку Психоанализа</td>
-                    <td>2 УЕ</td>
-                </tr>
-            
-                <tr>
-                    <td>Искусственный хрусталик H</td>
-                    <td>Бонус Н на проверки, связанные со зрением</td>
-                    <td>2 УЕ</td>
-                </tr>
-            </table>
-            
-            <table class="metal-table-1">
-        
-    </details>
         <table class="metal-table-1">
             <colgroup>
                 <col style="width:20%;">
