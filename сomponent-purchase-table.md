@@ -41,8 +41,7 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
+                <td colspan="3" class="center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
 
@@ -133,8 +132,7 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
+                <td colspan="3" class="center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
 
@@ -208,7 +206,7 @@
             </tr>
         
             <tr>
-                <td colspan="3" class="center" style="height:180px; vertical-align:top; padding-top:14px;">
+                <td colspan="3" class="center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
             </tr>
@@ -252,14 +250,12 @@
         
             <!-- Две большие ячейки -->
             <tr>
-                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="3" class="center" style="height:180px;">
+                    Текст посередине ячейки
                 </td>
         
-                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="3" class="center" style="height:180px;">
+                    Текст посередине ячейки
                 </td>
             </tr>
         
@@ -312,8 +308,7 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
+                <td colspan="3" class="center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
 
@@ -404,8 +399,7 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
+                <td colspan="3" class="center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
 
