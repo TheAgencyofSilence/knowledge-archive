@@ -202,8 +202,8 @@
         <table class="blue-gray-table-1">
         
             <tr>
-                <td colspan="3" class="center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="3" class="title">
+                    <h3>ОГЛАВЛЕНИЕ</h3>
                 </td>
             </tr>
         
