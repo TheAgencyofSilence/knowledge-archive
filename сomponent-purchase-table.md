@@ -41,21 +41,17 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-            <td colspan="2">
-                <div class="big-cell-center">
-                    <div>
-                        <strong>Ячейка 4</strong><br><br>
-                        Текст посередине ячейки
-                    </div>
-                </div>
+                <td colspan="2" class="big-table-cell">
+                    <strong>Ячейка 4</strong>
+                    <br><br>
+                    Текст посередине ячейки
                 </td>
-
-
+            
                 <!-- Правая вложенная таблица -->
-                <td style="padding:0;">
-
+                <td class="inner-table-cell">
+            
                     <table class="inner-table">
-
+            
                         <colgroup>
                             <col style="width:38%;">
                             <col style="width:12%;">
