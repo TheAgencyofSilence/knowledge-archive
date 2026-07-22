@@ -1154,3 +1154,70 @@ table.lavender-table-1 .title h3 {
   text-align: left;
   vertical-align: middle;
 }
+
+
+/* ========================================= */
+/* Sand Gold                                 */
+/* ========================================= */
+
+/* Кнопка */
+
+.expand-sand-1 summary {
+  background-color: #E6B96A;
+  color: #000000 !important;
+}
+
+
+/* Основная таблица */
+
+.sand-table-1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.sand-table-1 th,
+.sand-table-1 td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #E6B96A;
+  color: #000000 !important;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.sand-table-1 .title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.sand-table-1 .title h3 {
+  margin: 0;
+  color: #000000 !important;
+}
+
+
+/* ========================================= */
+/* Вложенная таблица                         */
+/* ========================================= */
+
+.sand-table-1 .inner-table {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.sand-table-1 .inner-table th,
+.sand-table-1 .inner-table td,
+.sand-table-1 .inner-table tr:nth-child(odd) th,
+.sand-table-1 .inner-table tr:nth-child(odd) td,
+.sand-table-1 .inner-table tr:nth-child(even) th,
+.sand-table-1 .inner-table tr:nth-child(even) td {
+  border: 1px solid #000;
+  padding: 10px 14px;
+  background-color: #E6B96A !important;
+  color: #000000 !important;
+  text-align: left;
+  vertical-align: middle;
+}
