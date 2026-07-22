@@ -125,25 +125,26 @@
 
             <!-- Первая строка -->
             <tr>
-                <td>Цена:</td>
-                <td>00000000000</td>
-                <td class="center">Необходимые связи для покупки:</td>
+                <td>1</td>
+                <td>2</td>
+                <td class="center">3</td>
             </tr>
 
             <!-- Основная часть -->
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
+                <td colspan="2" class="big-table-cell">
+                    <strong>Ячейка 4</strong>
+                    <br><br>
                     Текст посередине ячейки
                 </td>
-
+            
                 <!-- Правая вложенная таблица -->
-                <td style="padding:0;">
-
+                <td class="inner-table-cell">
+            
                     <table class="inner-table">
-
+            
                         <colgroup>
                             <col style="width:38%;">
                             <col style="width:12%;">
@@ -304,25 +305,26 @@
 
             <!-- Первая строка -->
             <tr>
-                <td>Цена:</td>
-                <td>00000000000</td>
-                <td class="center">Необходимые связи для покупки:</td>
+                <td>1</td>
+                <td>2</td>
+                <td class="center">3</td>
             </tr>
 
             <!-- Основная часть -->
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
+                <td colspan="2" class="big-table-cell">
+                    <strong>Ячейка 4</strong>
+                    <br><br>
                     Текст посередине ячейки
                 </td>
-
+            
                 <!-- Правая вложенная таблица -->
-                <td style="padding:0;">
-
+                <td class="inner-table-cell">
+            
                     <table class="inner-table">
-
+            
                         <colgroup>
                             <col style="width:38%;">
                             <col style="width:12%;">
@@ -396,25 +398,26 @@
 
             <!-- Первая строка -->
             <tr>
-                <td>Цена:</td>
-                <td>00000000000</td>
-                <td class="center">Необходимые связи для покупки:</td>
+                <td>1</td>
+                <td>2</td>
+                <td class="center">3</td>
             </tr>
 
             <!-- Основная часть -->
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td colspan="2" class="center" style="vertical-align: top;">
-                    <strong>Ячейка 4</strong><br><br>
+                <td colspan="2" class="big-table-cell">
+                    <strong>Ячейка 4</strong>
+                    <br><br>
                     Текст посередине ячейки
                 </td>
-
+            
                 <!-- Правая вложенная таблица -->
-                <td style="padding:0;">
-
+                <td class="inner-table-cell">
+            
                     <table class="inner-table">
-
+            
                         <colgroup>
                             <col style="width:38%;">
                             <col style="width:12%;">
