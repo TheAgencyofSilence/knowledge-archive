@@ -1271,9 +1271,8 @@
             
             <table class="metal-table-1">
         
-
-        <table class="metal-table-1">
     </details>
+        <table class="metal-table-1">
             <colgroup>
                 <col style="width:20%;">
                 <col style="width:70%;">
