@@ -209,7 +209,7 @@
             </tr>
         
             <tr>
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="3" class="cell-center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
             </tr>
@@ -230,7 +230,7 @@
             </tr>
         
             <tr>
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="3" class="cell-center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
             </tr>
@@ -253,11 +253,11 @@
         
             <!-- Две большие ячейки -->
             <tr>
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="3" class="cell-center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
         
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="3" class="cell-center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
             </tr>
@@ -478,7 +478,7 @@
             </tr>
         
             <tr>
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="3" class="cell-center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
             </tr>
@@ -499,7 +499,7 @@
             </tr>
         
             <tr>
-                <td colspan="3" class="center" style="height:180px;">
+                <td colspan="3" class="cell-center" style="height:180px;">
                     Текст посередине ячейки
                 </td>
             </tr>
@@ -522,14 +522,12 @@
         
             <!-- Две большие ячейки -->
             <tr>
-                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="3" class="cell-center" style="height:180px;">
+                    Текст посередине ячейки
                 </td>
         
-                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="3" class="cell-center" style="height:180px;">
+                    Текст посередине ячейки
                 </td>
             </tr>
         
