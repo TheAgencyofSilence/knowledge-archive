@@ -41,10 +41,11 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
+                    Текст посередине ячейки
                 </td>
+
 
                 <!-- Правая вложенная таблица -->
                 <td style="padding:0;">
@@ -133,9 +134,9 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
+                    Текст посередине ячейки
                 </td>
 
                 <!-- Правая вложенная таблица -->
@@ -312,9 +313,9 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
+                    Текст посередине ячейки
                 </td>
 
                 <!-- Правая вложенная таблица -->
@@ -404,9 +405,9 @@
             <tr>
 
                 <!-- Большая левая ячейка -->
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="2" class="center" style="vertical-align: top;">
+                    <strong>Ячейка 4</strong><br><br>
+                    Текст посередине ячейки
                 </td>
 
                 <!-- Правая вложенная таблица -->
