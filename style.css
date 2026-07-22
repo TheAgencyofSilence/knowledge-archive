@@ -1236,6 +1236,16 @@ table.lavender-table-1 .title h3 {
   vertical-align: middle !important;
 }
 
+.sand-table-1 .big-table-cell {
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+.sand-table-1 .inner-table-cell {
+  padding: 0 !important;
+  vertical-align: top !important;
+}
+
 .blue-gray-table-1 .half-cell-center {
   width: 50%;
   height: 180px;
@@ -1243,16 +1253,12 @@ table.lavender-table-1 .title h3 {
   vertical-align: middle !important;
 }
 
-.big-cell-center {
-    display: flex;
-    justify-content: center;   /* по горизонтали */
-    align-items: center;       /* по вертикали */
-    width: 100%;
-    height: 100%;
-    min-height: 275px;         /* подгони под высоту правой таблицы */
-    text-align: center;
+.blue-gray-table-1 .big-table-cell {
+  text-align: center !important;
+  vertical-align: middle !important;
 }
 
-.big-cell-center strong {
-    display: block;
+.blue-gray-table-1 .inner-table-cell {
+  padding: 0 !important;
+  vertical-align: top !important;
 }
