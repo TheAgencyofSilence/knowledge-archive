@@ -1221,3 +1221,10 @@ table.lavender-table-1 .title h3 {
   text-align: left;
   vertical-align: middle;
 }
+
+.cell-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
