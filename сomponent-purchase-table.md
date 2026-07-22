@@ -251,14 +251,14 @@
                 </td>
             </tr>
         
-            <!-- Две большие ячейки -->
+            <!-- Две ячейки по 50% -->
             <tr>
-                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
+                <td class="half-cell-center">
                     Текст посередине<br>
                     ячейки
                 </td>
         
-                <td class="center" style="width:50%; height:220px; vertical-align:top; padding-top:14px;">
+                <td class="half-cell-center">
                     Текст посередине<br>
                     ячейки
                 </td>
@@ -522,14 +522,14 @@
                 </td>
             </tr>
         
-            <!-- Две большие ячейки -->
+            <!-- Две ячейки по 50% -->
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
+                <td class="half-cell-center">
                     Текст посередине<br>
                     ячейки
                 </td>
         
-                <td colspan="3" class="cell-center" style="height:180px;">
+                <td class="half-cell-center">
                     Текст посередине<br>
                     ячейки
                 </td>
