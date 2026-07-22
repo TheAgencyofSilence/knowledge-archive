@@ -38,7 +38,7 @@ _**Концовка пьесы “Ликующий Зодчий”**_
 <h2>Правила установки протезов</h2> 
 
 <div class="subnav">
-  <a href="prosthetic-installatio.html">Установка протезов</a>
+  <a href="prosthetic-installation.html">Установка протезов</a>
 </div>
 
 ---
