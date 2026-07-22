@@ -11,7 +11,7 @@
 
 <details class="expand-block expand-blue-gray-1">
 
-    <summary>Технические компоненты.</summary>
+    <summary>Технические компоненты</summary>
 
     <div class="expand-content">
 
