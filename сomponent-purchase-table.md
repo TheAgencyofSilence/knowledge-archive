@@ -9,13 +9,13 @@
 
 # Таблица для покупки компонентов
 
-<details class="expand-block expand-brown-5">
+<details class="expand-block expand-blue-gray-1">
 
     <summary>Оглавление</summary>
 
     <div class="expand-content">
 
-        <table class="brown-table-5">
+        <table class="blue-gray-table-1">
 
             <colgroup>
                 <col style="width:20%;">
