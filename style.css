@@ -1096,7 +1096,7 @@ table.lavender-table-1 .title h3 {
 /* Кнопка */
 
 .expand-blue-gray-1 summary {
-  background-color: #4E79A7;
+  background-color: #5B7488;
   color: #000000 !important;
 }
 
@@ -1113,7 +1113,7 @@ table.lavender-table-1 .title h3 {
 .blue-gray-table-1 td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #4E79A7;
+  background-color: #5B7488;
   color: #000000 !important;
   text-align: left;
   vertical-align: middle;
@@ -1149,7 +1149,7 @@ table.lavender-table-1 .title h3 {
 .blue-gray-table-1 .inner-table tr:nth-child(even) td {
   border: 1px solid #000;
   padding: 10px 14px;
-  background-color: #4E79A7 !important;
+  background-color: #5B7488 !important;
   color: #000000 !important;
   text-align: left;
   vertical-align: middle;
