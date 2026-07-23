@@ -39,7 +39,7 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <img src="assets/images/Tehno6.png" alt="Tehno6" width="600">
+                    <img src="assets/images/Tehno6.png" alt="Tehno66" width="600">
                 </td>
 
                 <td class="inner-table-cell">
