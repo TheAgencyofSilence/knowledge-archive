@@ -39,9 +39,7 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Tehno6.png" alt="Tehno6" width="600">
                 </td>
 
                 <td class="inner-table-cell">
