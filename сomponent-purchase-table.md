@@ -41,7 +41,7 @@
                 <td colspan="2" class="big-table-cell">
                     <img src="assets/images/Tehno666.png"
                          alt="Tehno66"
-                         style="width:120px !important; height:auto !important; display:block;">
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
