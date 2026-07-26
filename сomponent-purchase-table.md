@@ -39,7 +39,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <img src="assets/images/Tehno6.png" alt="Tehno66" width="600">
+                    <img src="assets/images/Tehno666.png"
+                         alt="Tehno66"
+                         style="width:120px !important; height:auto !important; display:block;">
                 </td>
 
                 <td class="inner-table-cell">
