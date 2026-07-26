@@ -1460,3 +1460,10 @@ table.lavender-table-1 .title h3 {
   padding: 0 !important;
   vertical-align: top !important;
 }
+
+.table-icon {
+    width: 165px;
+    max-width: 90%;
+    height: auto;
+    display: inline-block;
+}
