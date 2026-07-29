@@ -127,7 +127,7 @@
 
                 <td colspan="2" class="big-table-cell">
                     <img src="assets/images/Tehno555.png"
-                         alt="Tehno66"
+                         alt="Tehno555"
                          class="table-icon">
                 </td>
 
