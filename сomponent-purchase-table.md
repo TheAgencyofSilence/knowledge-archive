@@ -126,9 +126,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Tehno555.png"
+                         alt="Tehno66"
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
