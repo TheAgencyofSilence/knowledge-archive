@@ -852,9 +852,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Kult666.png"
+                         alt="Kult666"
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
@@ -939,9 +939,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Kult555.png"
+                         alt="Kult555"
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
@@ -1015,8 +1015,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Kult444.png"
+                         alt="Kult444"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -1039,8 +1041,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Kult333.png"
+                         alt="Kult333"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -1063,15 +1067,19 @@
             </tr>
 
             <tr>
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
-                </td>
 
                 <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                    <img src="assets/images/Kult222.png"
+                         alt="Kult222"
+                         class="table-icon">
                 </td>
+            
+                <td class="half-cell-center">
+                    <img src="assets/images/Kult111.png"
+                         alt="Kult111"
+                         class="table-icon">
+                </td>
+            
             </tr>
 
             <tr>
