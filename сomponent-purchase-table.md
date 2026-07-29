@@ -265,6 +265,7 @@
                          alt="Tehno111"
                          class="table-icon">
                 </td>
+            </tr>
 
             <tr>
                 <td colspan="2">
