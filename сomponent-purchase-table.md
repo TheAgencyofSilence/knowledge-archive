@@ -254,16 +254,14 @@
             </tr>
 
             <tr>
-                <td colspan="2" class="big-table-cell">
-                    <img src="assets/images/Tehno222.png"
-                         alt="Tehno222"
-                         class="table-icon">
+                <td class="half-cell-center">
+                    Текст посередине<br>
+                    ячейки
                 </td>
 
-                <td colspan="2" class="big-table-cell">
-                    <img src="assets/images/Tehno111.png"
-                         alt="Tehno111"
-                         class="table-icon">
+                <td class="half-cell-center">
+                    Текст посередине<br>
+                    ячейки
                 </td>
             </tr>
 
