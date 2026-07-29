@@ -202,8 +202,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Tehno444.png"
+                         alt="Tehno444"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -226,8 +228,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Tehno333.png"
+                         alt="Tehno333"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -250,16 +254,17 @@
             </tr>
 
             <tr>
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Tehno222.png"
+                         alt="Tehno333"
+                         class="table-icon">
                 </td>
 
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Tehno333.png"
+                         alt="Tehno111"
+                         class="table-icon">
                 </td>
-            </tr>
 
             <tr>
                 <td colspan="2">
