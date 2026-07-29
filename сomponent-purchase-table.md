@@ -586,9 +586,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Him666.png"
+                         alt="Him666"
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
@@ -673,9 +673,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Him555.png"
+                         alt="Him555"
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
@@ -749,8 +749,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Him444.png"
+                         alt="Him444"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -773,8 +775,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Him333.png"
+                         alt="Him333"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -797,15 +801,19 @@
             </tr>
 
             <tr>
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
-                </td>
 
                 <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                    <img src="assets/images/Him222.png"
+                         alt="Him222"
+                         class="table-icon">
                 </td>
+            
+                <td class="half-cell-center">
+                    <img src="assets/images/Him111.png"
+                         alt="Him111"
+                         class="table-icon">
+                </td>
+            
             </tr>
 
             <tr>
