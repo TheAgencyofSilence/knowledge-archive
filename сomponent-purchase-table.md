@@ -312,9 +312,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Tvor666.png"
+                         alt="Tvor666"
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
@@ -399,9 +399,9 @@
             <tr>
 
                 <td colspan="2" class="big-table-cell">
-                    <strong>Ячейка 4</strong>
-                    <br><br>
-                    Текст посередине ячейки
+                    <img src="assets/images/Tvor555.png"
+                         alt="Tvor555"
+                         class="table-icon">
                 </td>
 
                 <td class="inner-table-cell">
@@ -475,8 +475,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Tvor444.png"
+                         alt="Tvor444"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -499,8 +501,10 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="cell-center" style="height:180px;">
-                    Текст посередине ячейки
+                <td colspan="2" class="big-table-cell">
+                    <img src="assets/images/Tvor333.png"
+                         alt="Tvor333"
+                         class="table-icon">
                 </td>
             </tr>
 
@@ -523,15 +527,19 @@
             </tr>
 
             <tr>
-                <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
-                </td>
 
                 <td class="half-cell-center">
-                    Текст посередине<br>
-                    ячейки
+                    <img src="assets/images/Tvor222.png"
+                         alt="Tvor222"
+                         class="table-icon">
                 </td>
+            
+                <td class="half-cell-center">
+                    <img src="assets/images/Tvor111.png"
+                         alt="Tvor111"
+                         class="table-icon">
+                </td>
+            
             </tr>
 
             <tr>
