@@ -21,6 +21,7 @@
   <a href="social.html">Социальные взаимодействия</a>
   <a href="special-skills.html">Детальный разбор особых навыков</a>
   <a href="items-creation.html">Процесс создания предметов</a>
+  <a href="madness.html">Безумие</a>
 </div>
 ---
 
