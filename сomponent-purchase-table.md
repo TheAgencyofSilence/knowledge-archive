@@ -40,7 +40,7 @@
 
                 <td colspan="2" class="big-table-cell">
                     <img src="assets/images/Tehno666.png"
-                         alt="Tehno66"
+                         alt="Tehno666"
                          class="table-icon">
                 </td>
 
