@@ -1467,3 +1467,11 @@ table.lavender-table-1 .title h3 {
     height: auto;
     display: inline-block;
 }
+
+
+.bezum-icon-large {
+    width: 280px;
+    max-width: 90%;
+    height: auto;
+    display: inline-block;
+}
