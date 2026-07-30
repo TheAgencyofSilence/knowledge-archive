@@ -61,7 +61,7 @@ _“Я не возьму в руки оружия”_ звучит как дов
         <td class="center">
             <img src="assets/images/Bezum1.png"
                  alt="Bezum1"
-                 class="table-icon">
+                 class="bezum-icon-large">
         </td>
 
         <td class="center">
