@@ -66,6 +66,19 @@ _“Я не возьму в руки оружия”_ звучит как дов
                  class="bezum-icon-large">
         </td>
 
+    </tr>
+
+</table>
+
+<table class="simple-table">
+
+    <colgroup>
+        <col style="width:50%;">
+        <col style="width:50%;">
+    </colgroup>
+
+    <tr>
+
         <td class="center">
             <img src="assets/images/Bezum2.png"
                  alt="Bezum2"
