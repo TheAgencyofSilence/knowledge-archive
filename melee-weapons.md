@@ -262,7 +262,7 @@
 
 </details>
 
-
+---
 
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
