@@ -36,8 +36,8 @@
     <colgroup>
       <col style="width:16%;">
       <col style="width:28%;">
-      <col style="width:28%;">
-      <col style="width:28%;">
+      <col style="width:34%;">
+      <col style="width:22%;">
     </colgroup>
 
     <tr>
