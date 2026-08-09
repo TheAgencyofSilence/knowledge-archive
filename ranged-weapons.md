@@ -41,8 +41,8 @@
 
             <colgroup>
               <col style="width:20%;">
-              <col style="width:28%;">
-              <col style="width:52%;">
+              <col style="width:26%;">
+              <col style="width:54%;">
             </colgroup>
         
             <tr>
@@ -81,8 +81,8 @@
 
             <colgroup>
               <col style="width:20%;">
-              <col style="width:28%;">
-              <col style="width:52%;">
+              <col style="width:26%;">
+              <col style="width:54%;">
             </colgroup>
         
             <tr>
@@ -103,8 +103,8 @@
 
             <colgroup>
               <col style="width:20%;">
-              <col style="width:28%;">
-              <col style="width:52%;">
+              <col style="width:26%;">
+              <col style="width:54%;">
             </colgroup>
         
             <tr>
@@ -155,8 +155,8 @@
 
             <colgroup>
               <col style="width:20%;">
-              <col style="width:28%;">
-              <col style="width:52%;">
+              <col style="width:26%;">
+              <col style="width:54%;">
             </colgroup>
         
             <tr>
@@ -201,8 +201,8 @@
 
             <colgroup>
               <col style="width:20%;">
-              <col style="width:28%;">
-              <col style="width:52%;">
+              <col style="width:26%;">
+              <col style="width:54%;">
             </colgroup>
         
             <tr>
