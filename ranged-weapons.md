@@ -40,8 +40,9 @@
         <table class="simple-table">
 
             <colgroup>
-              <col style="width:30%;">
-              <col style="width:70%;">
+              <col style="width:20%;">
+              <col style="width:25%;">
+              <col style="width:55%;">
             </colgroup>
         
             <tr>
@@ -51,22 +52,26 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Кустарник</strong> <br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Кустарник</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Одно- и чуть реже двух- и более зарядное оружие разных калибров, сделанное в “домашних” условиях.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Лук</strong> <br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Лук</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Как самодельное, так и специализированное оружие. Используется бандами степняков из-за доступности или культового смысла, а специалистами из-за возможности стрельбы особыми типами боеприпасов.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Рогатки, пращи</strong> <br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Рогатки, пращи</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Не используют стандартные боеприпасы, но могут эффективно использоваться для метания камней, гранат, насекомых, бомб и прочего</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Пневмометы</strong> <br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Пневмометы</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Чаще всего самодельное оружие, использующее различные сжатые газы для стрельбы</td>
             </tr>
         
@@ -75,8 +80,9 @@
         <table class="simple-table">
 
             <colgroup>
-              <col style="width:30%;">
-              <col style="width:70%;">
+              <col style="width:20%;">
+              <col style="width:25%;">
+              <col style="width:55%;">
             </colgroup>
         
             <tr>
@@ -86,7 +92,8 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Револьвер</strong><br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Револьвер</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Самое обычное и распространенное заводское оружие Столицы</td>
             </tr>
         
@@ -95,8 +102,9 @@
         <table class="simple-table">
 
             <colgroup>
-              <col style="width:30%;">
-              <col style="width:70%;">
+              <col style="width:20%;">
+              <col style="width:25%;">
+              <col style="width:55%;">
             </colgroup>
         
             <tr>
@@ -106,32 +114,38 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Мультикамерный револьвер</strong><br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Мультикамерный револьвер</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Револьвер с несколькими стволами или несколькими переключаемыми барабанами.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Полуавтоматический пистолет</strong><br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Полуавтоматический пистолет</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Обычный пистолет армейского или гражданского образца</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Карабин</strong><br><br>[Неподалеку, Далеко]</td>
+              <td class="vertical-center"><strong>Карабин</strong></td>
+              <td class="vertical-center">[Неподалеку, Далеко]</td>
               <td class="vertical-center">Штурмовое полуавтоматическое оружие</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Арбалеты/гарпуны</strong><br><br>[Неподалеку, Далеко]</td>
+              <td class="vertical-center"><strong>Арбалеты/гарпуны</strong>]</td>
+              <td class="vertical-center">[Неподалеку, Далеко]</td>
               <td class="vertical-center">Штатное оружие многих банд и спецслужб в условиях невозможности использования открытых источников пламени или необходимости тихих действий</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Винтовка</strong><br><br>[Неподалеку, Далеко]</td>
+              <td class="vertical-center"><strong>Винтовка</strong></td>
+              <td class="vertical-center">[Неподалеку, Далеко]</td>
               <td class="vertical-center">Обычное оружие смотрителей крыш, охотников из Степи или военных</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Протезное стрелковое оружие</strong><br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Протезное стрелковое оружие</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Огнестрельное или метательное оружие, встроенное в различные механические протезы или устройства</td>
             </tr>
         
@@ -140,8 +154,9 @@
         <table class="simple-table">
 
             <colgroup>
-              <col style="width:30%;">
-              <col style="width:70%;">
+              <col style="width:20%;">
+              <col style="width:25%;">
+              <col style="width:55%;">
             </colgroup>
         
             <tr>
@@ -151,27 +166,32 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Автоматический пистолет</strong><br><br>[Близко, Неподалеку]</td>
+              <td class="vertical-center"><strong>Автоматический пистолет</strong></td>
+              <td class="vertical-center">[Близко, Неподалеку]</td>
               <td class="vertical-center">Пистолет с функцией автоматического огня</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Пистолет-пулемет</strong><br><br>[Неподалеку]</td>
+              <td class="vertical-center"><strong>Пистолет-пулемет</strong></td>
+              <td class="vertical-center">[Неподалеку]</td>
               <td class="vertical-center">Оружие с внушительным боезапасом</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Автоматический карабин</strong><br><br>[Неподалеку, Далеко]</td>
+              <td class="vertical-center"><strong>Автоматический карабин</strong></td>
+              <td class="vertical-center">[Неподалеку, Далеко]</td>
               <td class="vertical-center">Среднекалиберное оружие, позволяющее вести огонь по нескольким целям. Большое количество боеприпасов.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Крупнокалиберная винтовка</strong><br><br>[Далеко, Очень Далеко]</td>
+              <td class="vertical-center"><strong>Крупнокалиберная винтовка</strong></td>
+              <td class="vertical-center">[Далеко, Очень Далеко]</td>
               <td class="vertical-center">Оружие для пробития перекрытий, поражения техники или экстремально далекой стрельбы</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Составники и поточники</strong><br><br>[Неподалеку]</td>
+              <td class="vertical-center"><strong>Составники и поточники</strong></td>
+              <td class="vertical-center">[Неподалеку]</td>
               <td class="vertical-center">Оружие, испускающее поток различных веществ, от твердеющих масс до огня или кислот.</td>
             </tr>
         
@@ -180,8 +200,9 @@
         <table class="simple-table">
 
             <colgroup>
-              <col style="width:30%;">
-              <col style="width:70%;">
+              <col style="width:20%;">
+              <col style="width:25%;">
+              <col style="width:55%;">
             </colgroup>
         
             <tr>
@@ -191,7 +212,8 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Минометы и гранатометы</strong><br><br>[Далеко, Очень Далеко]</td>
+              <td class="vertical-center"><strong>Минометы и гранатометы</strong></td>
+              <td class="vertical-center">[Далеко, Очень Далеко]</td>
               <td class="vertical-center">Оружие, доставляющее различные снаряды особых поражающих свойств</td>
             </tr>
         
