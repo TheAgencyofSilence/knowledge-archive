@@ -191,7 +191,7 @@
 
 ---
 
-<details class="expand-block expand-blue-gray-1">
+<details class="expand-block expand-gold-beige-1">
 
     <summary>Известные марки оружия ближнего боя</summary>
 
