@@ -48,6 +48,11 @@
                 <td class="center">Четвертая</td>
             </tr>
 
+
+</table>
+
+          <table class="simple-table">
+
             <tr>
                 <td colspan="3" class="title center">
                     <h3>Броня, доступная только игровым npc</h3> 
