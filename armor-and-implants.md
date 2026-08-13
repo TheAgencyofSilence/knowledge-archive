@@ -24,7 +24,7 @@
             </colgroup>
 
             <tr>
-                <td colspan="3" class="title">
+                <td colspan="3" class="title center">
                     <h3>Броня, доступная агентам "Тишины"</h3> 
                 </td>
             </tr>
@@ -49,9 +49,15 @@
             </tr>
 
             <tr>
-                <td colspan="3" class="title">
+                <td colspan="3" class="title center">
                     <h3>Броня, доступная только игровым npc</h3> 
                 </td>
+            </tr>
+
+            <tr>
+                <td class="center"><strong>Уровень брони</strong></td>
+                <td class="center"><strong>Тип брони</strong></td>
+                <td class="center"><strong>Технологическая категория</strong></td>
             </tr>
 
             <tr>
