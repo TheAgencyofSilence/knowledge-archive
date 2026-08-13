@@ -51,7 +51,8 @@
 
 </table>
 
-          <table class="simple-table">
+
+<table class="simple-table">
 
             <tr>
                 <td colspan="3" class="title center">
@@ -83,7 +84,7 @@
                 <td class="center">Выше</td>
             </tr>
 
-        </table>
+</table>
 
 О создании брони можно почитать здесь. О покупке брони можно почитать здесь. (Необходимо добавить сюда ссылки после добавления соотвествующих глав)
 
