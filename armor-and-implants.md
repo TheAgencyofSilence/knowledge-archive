@@ -54,6 +54,12 @@
 
 <table class="simple-table">
 
+            <colgroup>
+                <col style="width:20%;">
+                <col style="width:60%;">
+                <col style="width:20%;">
+            </colgroup>
+
             <tr>
                 <td colspan="3" class="title center">
                     <h3>Броня, доступная только игровым npc</h3> 
