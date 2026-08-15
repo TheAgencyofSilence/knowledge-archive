@@ -1685,22 +1685,24 @@ table.lavender-table-1 .title h3 {
 
 
 /* Пергаментная ячейка */
-.parchment-cell {
+.simple-table td.parchment-cell {
     background-color: #E8D5A3 !important;
     color: #000000 !important;
-    text-align: left;
-    vertical-align: middle;
-}
-
-.center-all-table th,
-.center-all-table td {
     text-align: center !important;
     vertical-align: middle !important;
 }
 
 .center-all-table {
-    table-layout: fixed;
-    width: 100%;
+    width: 100% !important;
+    table-layout: fixed !important;
+    display: table !important;
+}
+
+.center-all-table td,
+.center-all-table th {
+    box-sizing: border-box;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .center-all-table td,
