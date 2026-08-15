@@ -1691,3 +1691,9 @@ table.lavender-table-1 .title h3 {
     text-align: left;
     vertical-align: middle;
 }
+
+.center-all-table th,
+.center-all-table td {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
