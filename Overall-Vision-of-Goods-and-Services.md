@@ -18,14 +18,14 @@
 <table class="simple-table center-all-table">
 
     <colgroup>
-        <col style="width:25%;">
-        <col style="width:15%;">
-        <col style="width:13%;">
-        <col style="width:13%;">
-        <col style="width:13%;">
-        <col style="width:13%;">
-        <col style="width:13%;">
-    </colgroup>
+      <col style="width:25%;">
+      <col style="width:15%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+   </colgroup>
 
      <!-- Новая верхняя строка -->
     <tr>
@@ -51,7 +51,7 @@
         <td class="parchment-cell">Пергаментный текст</td>
         <td>Ячейка 5</td>
         <td>Ячейка 6</td>
-        <td>Ячейка 6</td>
+        <td>Ячейка 8</td>
     </tr>
 
     <!-- Строка 2 -->
@@ -67,7 +67,7 @@
         <td class="parchment-cell">Пергаментный текст</td>
         <td>Ячейка 11</td>
         <td>Ячейка 12</td>
-        <td>Ячейка 6</td>
+        <td>Ячейка 13</td>
     </tr>
 
     <!-- Строка 3 -->
@@ -83,23 +83,12 @@
         <td class="parchment-cell">Пергаментный текст</td>
         <td>Ячейка 17</td>
         <td>Ячейка 18</td>
-        <td>Ячейка 6</td>
+        <td>Ячейка 19</td>
     </tr>
 
 </table>
 
 
-
-
-
-
-
-
-
-<div class="subnav">
-  <a href="Overall-Vision-of-Goods-and-Services.html">Общее виденье товаров и услуг</a>
-  <a href="Finance.html">Вкладка "Финансы" в Листе Персонажа</a>
-</div>
 
 ---
 
