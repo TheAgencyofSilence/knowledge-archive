@@ -55,7 +55,7 @@
                  class="table-icon">
         </td>
 
-        <td>Банка биопита</td>
+        <td><strong>Банка биопита</strong></td>
         <td>Ячейка 3</td>
         <td>Ячейка 3</td>
         <td class="parchment-cell">1 крона</td>
@@ -72,7 +72,7 @@
                  class="table-icon">
         </td>
 
-        <td>Обед в столовой</td>
+        <td><strong>Обед в столовой</strong></td>
         <td>Ячейка 9</td>
         <td>Ячейка 3</td>
         <td class="parchment-cell">2-3 кроны</td>
@@ -88,7 +88,7 @@
                  class="table-icon">
         </td>
 
-        <td>Ужин в приличном ресторане</td>
+        <td><strong>Ужин в приличном ресторане</strong></td>
         <td>Ячейка 15</td>
         <td>Ячейка 3</td>
         <td class="parchment-cell">5-10 крон</td>
@@ -104,7 +104,7 @@
                  class="table-icon">
         </td>
 
-        <td>Ужин в элитном ресторане</td>
+        <td><strong>Ужин в элитном ресторане</strong></td>
         <td>Ячейка 15</td>
         <td>Ячейка 15</td>
         <td class="parchment-cell">100-250 крон</td>
