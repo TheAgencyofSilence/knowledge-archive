@@ -57,9 +57,10 @@
                  class="table-icon">
         </td>
 
-        <td>Легкий перекус</td>
+        <td>Банка биопита</td>
         <td>Ячейка 3</td>
-        <td class="parchment-cell">Пергаментный текст</td>
+        <td>Ячейка 3</td>
+        <td class="parchment-cell">1 крона</td>
         <td>Ячейка 5</td>
         <td>Ячейка 6</td>
         <td>Ячейка 8</td>
@@ -73,9 +74,10 @@
                  class="table-icon">
         </td>
 
-        <td>Ячейка 8</td>
+        <td>Обед в столовой</td>
         <td>Ячейка 9</td>
-        <td class="parchment-cell">Пергаментный текст</td>
+        <td>Ячейка 3</td>
+        <td class="parchment-cell">2-3 кроны</td>
         <td>Ячейка 11</td>
         <td>Ячейка 12</td>
         <td>Ячейка 13</td>
@@ -89,9 +91,27 @@
                  class="table-icon">
         </td>
 
-        <td>Ячейка 14</td>
+        <td>Ужин в приличном ресторане</td>
         <td>Ячейка 15</td>
-        <td class="parchment-cell">Пергаментный текст</td>
+        <td>Ячейка 3</td>
+        <td class="parchment-cell">5-10 крон</td>
+        <td>Ячейка 17</td>
+        <td>Ячейка 18</td>
+        <td>Ячейка 19</td>
+    </tr>
+
+    <!-- Строка 4 -->
+    <tr>
+        <td>
+            <img src="assets/images/Image3.png"
+                 alt="Image3"
+                 class="table-icon">
+        </td>
+
+        <td>Ужин в элитном ресторане</td>
+        <td>Ячейка 15</td>
+        <td>Ячейка 15</td>
+        <td class="parchment-cell">100-250 крон</td>
         <td>Ячейка 17</td>
         <td>Ячейка 18</td>
         <td>Ячейка 19</td>
