@@ -67,8 +67,8 @@
     <!-- Строка 2 -->
     <tr>
         <td>
-            <img src="assets/images/restoran.jpg"
-                 alt="restoran.jpg"
+            <img src="assets/images/stolovaya.jpg"
+                 alt="stolovaya.jpg"
                  class="table-icon">
         </td>
 
@@ -83,8 +83,8 @@
     <!-- Строка 3 -->
     <tr>
         <td>
-            <img src="assets/images/Image3.png"
-                 alt="Image3"
+            <img src="assets/images/restoran.jpg"
+                 alt="restoran.jpg"
                  class="table-icon">
         </td>
 
@@ -99,8 +99,8 @@
     <!-- Строка 4 -->
     <tr>
         <td>
-            <img src="assets/images/Image3.png"
-                 alt="Image3"
+            <img src="assets/images/elitrestoran.jpg"
+                 alt="elitrestoran.jpg"
                  class="table-icon">
         </td>
 
