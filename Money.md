@@ -60,6 +60,18 @@
 
 Лист Персонажа автоматически учитывает все внесённые вами доходы и расходы и пересчитывает содержимое бумажника. Таким образом, в нём всегда отображается актуальная сумма средств вашего персонажа.
 
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td>
+            <img src="assets/images/Vallet.png"
+                 alt="Vallet.png"
+                 class="table-icon">
+        </td>
+    </tr>
+
+</table>
+
 ---
 
 **Круговые диараммы**
@@ -67,6 +79,29 @@
 Справа от таблицы расположены графики, позволяющие увидеть основные источники ваших доходов и статьи расходов, а также их соотношение между собой.
 
 Эти графики не имеют игрового значения. Они предназначены исключительно для того, чтобы вы могли наблюдать за экономикой своего персонажа и при желании анализировать, откуда приходят и куда уходят его деньги.
+
+<table class="simple-table center-all-table">
+
+    <colgroup>
+        <col style="width:50%;">
+        <col style="width:50%;">
+    </colgroup>
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/Dioram1.png"
+                 alt="Dioram1.png"
+                 class="single-table-image">
+        </td>
+
+        <td class="center">
+            <img src="assets/images/Dioram2.png"
+                 alt="Dioram1.png"
+                 class="single-table-image">
+        </td>
+    </tr>
+
+</table>
 
 ---
 
