@@ -378,6 +378,54 @@
     <tr>
     
        <td class="center">
+            <img src="assets/images/badfiltr.jpg"
+                 alt="badfiltr.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Фильтр низкого качества</strong></td>
+        <td class="center">10–15 крон</td>
+        <td class="center">4–6 крон</td>
+        <td class="parchment-cell">2-3 кроны</td>
+        <td class="center">1–2 кроны</td>
+        <td class="center">10 либр</td>
+    </tr>
+    <!-- Строка 2 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/111111111.jpg"
+                 alt="11111111111111.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Качественный фильтр среднего качества</strong></td>
+        <td class="center">60–80 крон</td>
+        <td class="center">30–40 крон</td>
+        <td class="parchment-cell">15-20 крон</td>
+        <td class="center">7–10 крон</td>
+        <td class="center">3–5 крон</td>
+    </tr>
+    <!-- Строка 3 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/goodfiltr.jpg"
+                 alt="goodfiltr.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Высококлассный и филигранный фильтр</strong></td>
+        <td class="center">1-2 тысячи крон</td>
+        <td class="center">500-800 крон</td>
+        <td class="parchment-cell">300-400 крон</td>
+        <td class="center">150-200 крон</td>
+        <td class="center">75-100 крон</td>
+    </tr>
+    <!-- Строка 4 -->
+    <tr>
+    
+       <td class="center">
             <img src="assets/images/hummer.jpg"
                  alt="hummer.jpg"
                  class="table-icon">
@@ -391,7 +439,7 @@
         <td class="center">10 либр</td>
     </tr>
 
-    <!-- Строка 2 -->
+    <!-- Строка 5 -->
     <tr>
     
        <td class="center">
@@ -408,7 +456,7 @@
         <td class="center">2-3 кроны</td>
     </tr>
 
-    <!-- Строка 3 -->
+    <!-- Строка 6 -->
     <tr>
     
        <td class="center">
@@ -425,7 +473,7 @@
         <td class="center">7–10 крон</td>
     </tr>
 
-    <!-- Строка 4 -->
+    <!-- Строка 7 -->
     <tr>
     
        <td class="center">
@@ -442,7 +490,7 @@
         <td class="center">17–25 крон</td>
     </tr>
 
-    <!-- Строка 5 -->
+    <!-- Строка 8 -->
     <tr>
     
        <td class="center">
@@ -459,7 +507,7 @@
         <td class="center">2-3 кроны</td>
     </tr>
 
-    <!-- Строка 6 -->
+    <!-- Строка 9 -->
     <tr>
     
        <td class="center">
@@ -476,7 +524,7 @@
         <td class="center">10–15 крон</td>
     </tr>
 
-    <!-- Строка 6 -->
+    <!-- Строка 10 -->
     <tr>
     
        <td class="center">
@@ -491,6 +539,23 @@
         <td class="parchment-cell">700 крон</td>
         <td class="center">350 крон</td>
         <td class="center">175 крон</td>
+    </tr>
+
+    <!-- Строка 11 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/ring.jpg"
+                 alt="ring.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Золотое кольцо</strong></td>
+        <td class="center">1-2 тысячи крон</td>
+        <td class="center">600-1000 крон</td>
+        <td class="parchment-cell">300-500 крон</td>
+        <td class="center">150-250 крон</td>
+        <td class="center">75-100 крон</td>
     </tr>
 
 
