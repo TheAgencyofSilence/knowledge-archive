@@ -21,12 +21,12 @@
 
     <colgroup>
       <col style="width:25%;">
-      <col style="width:15%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
+      <col style="width:20%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
    </colgroup>
 
    <!-- Оглавление -->
@@ -157,12 +157,12 @@
 
     <colgroup>
       <col style="width:25%;">
-      <col style="width:15%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
+      <col style="width:20%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
    </colgroup>
 
    <!-- Оглавление -->
@@ -226,7 +226,7 @@
                  class="table-icon">
         </td>
 
-        <td class="center"><strong>Посещение оперы или театра</strong></td>
+        <td class="center"><strong>Культурное мероприятие</strong></td>
         <td class="center">150–200 крон</td>
         <td class="center">80–100 крон</td>
         <td class="parchment-cell">40-50 крон</td>
@@ -235,6 +235,23 @@
     </tr>
 
     <!-- Строка 4 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/vzyatka.jpg"
+                 alt="vzyatka.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Средняя взятка Исполнителю</strong></td>
+        <td class="center">100-150 крон</td>
+        <td class="center">40–60 крон</td>
+        <td class="parchment-cell">20-30 крон</td>
+        <td class="center">10–15 крон</td>
+        <td class="center">5-7 крон</td>
+    </tr>
+
+    <!-- Строка 5 -->
     <tr>
     
        <td class="center">
@@ -251,6 +268,8 @@
         <td class="center">12–17 крон</td>
     </tr>
 
+    
+
 
 </table>
 
@@ -260,12 +279,12 @@
 
     <colgroup>
       <col style="width:25%;">
-      <col style="width:15%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
+      <col style="width:20%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
    </colgroup>
 
    <!-- Оглавление -->
