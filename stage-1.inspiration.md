@@ -22,7 +22,11 @@
 <table class="simple-table">
 
   <tr>
-    <th class="center">Соотношение такого превращения: 2 азарта = 1 вдохновение.</th>
+    <td class="center">
+            <img src="assets/images/biopit.jpg"
+                 alt="biopit.jpg"
+                 class="table-icon">
+        </td>
   </tr>
 
 </table>
