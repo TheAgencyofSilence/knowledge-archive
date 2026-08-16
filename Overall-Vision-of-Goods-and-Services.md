@@ -329,12 +329,12 @@
 
     <colgroup>
       <col style="width:25%;">
-      <col style="width:15%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
-      <col style="width:12%;">
+      <col style="width:20%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
+      <col style="width:11%;">
    </colgroup>
 
    <!-- Оглавление -->
