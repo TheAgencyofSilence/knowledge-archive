@@ -256,7 +256,6 @@
 
 ---
 
-
 <table class="simple-table center-all-table">
 
     <colgroup>
@@ -322,6 +321,164 @@
     </tr>
 
 </table>
+
+---
+
+
+<table class="simple-table center-all-table">
+
+    <colgroup>
+      <col style="width:25%;">
+      <col style="width:15%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+   </colgroup>
+
+   <!-- Оглавление -->
+    <tr>
+        <td colspan="7" class="title center">
+            <h3>Стоимость перемещения</h3>
+        </td>
+    </tr>
+
+     <!-- Новая верхняя строка -->
+    <tr>
+        <td class="center">ㅤ</td>
+        <td class="center">Предмет или услуга</td>
+        <td class="center">В 1м кольце</td>
+        <td class="center">В 2м кольце</td>
+        <td class="parchment-cell">В 3м-4м кольце</td>
+        <td class="center">В 5м-6м кольце</td>
+        <td class="center">В 7м-8м кольце</td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/hummer.jpg"
+                 alt="hummer.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Молоток</strong></td>
+        <td class="center">10–20 крон</td>
+        <td class="center">5–10 крон</td>
+        <td class="parchment-cell">2-5 крон</td>
+        <td class="center">1–2 кроны</td>
+        <td class="center">10 либр</td>
+    </tr>
+
+    <!-- Строка 2 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/book.jpg"
+                 alt="book.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Художественная книга</strong></td>
+        <td class="center">50–70 крон</td>
+        <td class="center">20–30 крон</td>
+        <td class="parchment-cell">10-15 крон</td>
+        <td class="center">5–8 крон</td>
+        <td class="center">2-3 кроны</td>
+    </tr>
+
+    <!-- Строка 3 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/drug.jpg"
+                 alt="drug.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center">Одна доза <strong>наркотика</strong> среднего качества</td>
+        <td class="center">120–160 крон</td>
+        <td class="center">60–80 крон</td>
+        <td class="parchment-cell">30-40 крон</td>
+        <td class="center">15–20 крон</td>
+        <td class="center">7–10 крон</td>
+    </tr>
+
+    <!-- Строка 4 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/stebl.jpg"
+                 alt="stebl.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong><i>"Хрустальный Стебель"</i></strong></td>
+        <td class="center">250–400 крон</td>
+        <td class="center">150–200 крон</td>
+        <td class="parchment-cell">70-100 крон</td>
+        <td class="center">35–50 крон</td>
+        <td class="center">17–25 крон</td>
+    </tr>
+
+    <!-- Строка 5 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/roba.jpg"
+                 alt="roba.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Обычная роба рабочего</strong></td>
+        <td class="center">50–70 крон</td>
+        <td class="center">20–30 крон</td>
+        <td class="parchment-cell">10-15 крон</td>
+        <td class="center">5–8 крон</td>
+        <td class="center">2-3 кроны</td>
+    </tr>
+
+    <!-- Строка 6 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/klerk.jpg"
+                 alt="klerk.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Стандартный деловой костюм клерка</strong></td>
+        <td class="center">150–200 крон</td>
+        <td class="center">80–100 крон</td>
+        <td class="parchment-cell">40-50 крон</td>
+        <td class="center">20–25 крон</td>
+        <td class="center">10–15 крон</td>
+    </tr>
+
+    <!-- Строка 6 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/frant.jpg"
+                 alt="frant.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Костюм модного франта</strong></td>
+        <td class="center">2-3 тысячи крон</td>
+        <td class="center">1-2 тысячи крон</td>
+        <td class="parchment-cell">700 крон</td>
+        <td class="center">350 крон</td>
+        <td class="center">175 крон</td>
+    </tr>
+
+
+</table>
+
+
+
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
 
