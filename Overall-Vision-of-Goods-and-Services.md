@@ -38,78 +38,78 @@
 
      <!-- Новая верхняя строка -->
     <tr>
-        <td>ㅤ</td>
-        <td>Предмет или услуга</td>
-        <td>В 1м кольце</td>
-        <td>В 2м кольце</td>
-        <td>В 3м-4м кольце</td>
-        <td>В 5м-6м кольце</td>
-        <td>В 7м-8м кольце</td>
+        <td class="center">ㅤ</td>
+        <td class="center">Предмет или услуга</td>
+        <td class="center">В 1м кольце</td>
+        <td class="center">В 2м кольце</td>
+        <td class="center">В 3м-4м кольце</td>
+        <td class="center">В 5м-6м кольце</td>
+        <td class="center">В 7м-8м кольце</td>
     </tr>
 
     <!-- Строка 1 -->
     <tr>
     
-       <td>
+       <td class="center">
             <img src="assets/images/biopit.jpg"
                  alt="biopit.jpg"
                  class="table-icon">
         </td>
 
-        <td><strong>Банка биопита</strong></td>
-        <td>Ячейка 3</td>
-        <td>Ячейка 3</td>
+        <td class="center"><strong>Банка биопита</strong></td>
+        <td class="center">Ячейка 3</td>
+        <td class="center">Ячейка 3</td>
         <td class="parchment-cell">1 крона</td>
-        <td>Ячейка 5</td>
-        <td>Ячейка 6</td>
+        <td class="center">Ячейка 5</td>
+        <td class="center">Ячейка 6</td>
     </tr>
 
     <!-- Строка 2 -->
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/stolovaya.jpg"
                  alt="stolovaya.jpg"
                  class="table-icon">
         </td>
 
-        <td><strong>Обед в столовой</strong></td>
-        <td>Ячейка 9</td>
-        <td>Ячейка 3</td>
+        <td class="center"><strong>Обед в столовой</strong></td>
+        <td class="center">Ячейка 9</td>
+        <td class="center">Ячейка 3</td>
         <td class="parchment-cell">2-3 кроны</td>
-        <td>Ячейка 11</td>
-        <td>Ячейка 12</td>
+        <td class="center">Ячейка 11</td>
+        <td class="center">Ячейка 12</td>
     </tr>
 
     <!-- Строка 3 -->
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/restoran.jpg"
                  alt="restoran.jpg"
                  class="table-icon">
         </td>
 
-        <td><strong>Ужин в приличном ресторане</strong></td>
-        <td>Ячейка 15</td>
-        <td>Ячейка 3</td>
+        <td class="center"><strong>Ужин в приличном ресторане</strong></td>
+        <td class="center">Ячейка 15</td>
+        <td class="center">Ячейка 3</td>
         <td class="parchment-cell">5-10 крон</td>
-        <td>Ячейка 17</td>
-        <td>Ячейка 18</td>
+        <td class="center">Ячейка 17</td>
+        <td class="center">Ячейка 18</td>
     </tr>
 
     <!-- Строка 4 -->
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/elitrestoran.jpg"
                  alt="elitrestoran.jpg"
                  class="table-icon">
         </td>
 
-        <td><strong>Ужин в элитном ресторане</strong></td>
-        <td>Ячейка 15</td>
-        <td>Ячейка 15</td>
+        <td class="center"><strong>Ужин в элитном ресторане</strong></td>
+        <td class="center">Ячейка 15</td>
+        <td class="center">Ячейка 15</td>
         <td class="parchment-cell">100-250 крон</td>
-        <td>Ячейка 17</td>
-        <td>Ячейка 18</td>
+        <td class="center">Ячейка 17</td>
+        <td class="center">Ячейка 18</td>
     </tr>
 
 </table>
