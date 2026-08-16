@@ -42,7 +42,7 @@
         <td class="center">Предмет или услуга</td>
         <td class="center">В 1м кольце</td>
         <td class="center">В 2м кольце</td>
-        <td class="center">В 3м-4м кольце</td>
+        <td class="parchment-cell">В 3м-4м кольце</td>
         <td class="center">В 5м-6м кольце</td>
         <td class="center">В 7м-8м кольце</td>
     </tr>
@@ -178,7 +178,7 @@
         <td class="center">Предмет или услуга</td>
         <td class="center">В 1м кольце</td>
         <td class="center">В 2м кольце</td>
-        <td class="center">В 3м-4м кольце</td>
+        <td class="parchment-cell">В 3м-4м кольце</td>
         <td class="center">В 5м-6м кольце</td>
         <td class="center">В 7м-8м кольце</td>
     </tr>
@@ -226,7 +226,7 @@
                  class="table-icon">
         </td>
 
-        <td class="center"><strong>Культурное мероприятие</strong></td>
+        <td class="center"><strong>Посещение оперы или театра</strong></td>
         <td class="center">Ячейка 3</td>
         <td class="center">Ячейка 3</td>
         <td class="parchment-cell">40-50 крон</td>
