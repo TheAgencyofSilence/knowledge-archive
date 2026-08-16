@@ -25,7 +25,7 @@
 
 <div class="subnav">
   <a href="Overall-Vision-of-Goods-and-Services.html">Общее виденье товаров и услуг</a>
-  <a href="Finance.html">Вкладка "Финансы" в Листе Персонажа</a>
+  <a href="Money.html">Вкладка "Финансы" в Листе Персонажа</a>
 </div>
 
 ---
