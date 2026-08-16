@@ -27,7 +27,7 @@ _**Фитц и Павел Шасс**_
   <a href="special-tools.html">Спец.оборудование</a>
   <a href="hitech-weapons.html">Высокотехнологичное оружие</a>
   <a href="meds.html">Медикаменты и препараты</a>
-  <a href="money.html">Деньги</a>
+  <a href="Finance.html">Финансы</a>
 </div>
 
 ---
