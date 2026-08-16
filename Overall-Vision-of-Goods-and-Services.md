@@ -126,7 +126,7 @@
         <td class="center">200-500 крон</td>
         <td class="parchment-cell">100-250 крон</td>
         <td class="center">50-100 крон</td>
-        <td class="center"> - </td>
+        <td class="center">25-50 крон</td>
     </tr>
     
     <!-- Строка 5 -->
@@ -142,7 +142,7 @@
         <td class="center">150–200 крон</td>
         <td class="parchment-cell">70-100 крон</td>
         <td class="center">35–50 крон</td>
-        <td class="center">25 крон</td>
+        <td class="center">20 крон</td>
     </tr>
 
 
@@ -193,11 +193,11 @@
         </td>
 
         <td class="center"><strong>Обычная стрижка</strong></td>
-        <td class="center">Ячейка 3</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">10–15 крон</td>
+        <td class="center">4–6 крон</td>
         <td class="parchment-cell">2-3 кроны</td>
-        <td class="center">Ячейка 5</td>
-        <td class="center">Ячейка 6</td>
+        <td class="center">1–2 кроны</td>
+        <td class="center">10 либр</td>
     </tr>
 
     <!-- Строка 1 -->
@@ -210,11 +210,11 @@
         </td>
 
         <td class="center"><strong>Модная стрижка</strong></td>
-        <td class="center">Ячейка 3</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">60–80 крон</td>
+        <td class="center">30–40 крон</td>
         <td class="parchment-cell">15-20 крон</td>
-        <td class="center">Ячейка 5</td>
-        <td class="center">Ячейка 6</td>
+        <td class="center">7–10 крон</td>
+        <td class="center">3–5 крон</td>
     </tr>
 
     <!-- Строка 1 -->
@@ -227,11 +227,11 @@
         </td>
 
         <td class="center"><strong>Посещение оперы или театра</strong></td>
-        <td class="center">Ячейка 3</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">150–200 крон</td>
+        <td class="center">80–100 крон</td>
         <td class="parchment-cell">40-50 крон</td>
-        <td class="center">Ячейка 5</td>
-        <td class="center">Ячейка 6</td>
+        <td class="center">20–25 крон</td>
+        <td class="center">10–12 крон</td>
     </tr>
 
     <!-- Строка 1 -->
@@ -244,11 +244,11 @@
         </td>
 
         <td class="center"><strong>Ночь в хорошем отеле</strong></td>
-        <td class="center">Ячейка 3</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">200–300 крон</td>
+        <td class="center">100–150</td>
         <td class="parchment-cell">50-70 крон</td>
-        <td class="center">Ячейка 5</td>
-        <td class="center">Ячейка 6</td>
+        <td class="center">25–35 крон</td>
+        <td class="center">12–17 крон</td>
     </tr>
 
 
