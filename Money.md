@@ -15,10 +15,10 @@
 
 **Доходы**. Каждый раз, когда вы получаете деньги из любого источника, укажите полученную сумму в графе «Доходы», а также выберите соответствующий тип дохода. Вы можете использовать уже существующие типы или создать собственный, если подходящего варианта нет.
 
-<table class="simple-table center-all-table">
+<table class="simple-table">
 
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/Dohod.png"
                  alt="Dohod.png"
                  class="table-icon">
@@ -29,10 +29,10 @@
 
 **Расходы**. Точно так же фиксируются и траты. Каждый раз, когда вы расходуете деньги, укажите потраченную сумму и выберите тип расхода.
 
-<table class="simple-table center-all-table">
+<table class="simple-table">
 
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/Rashod.png"
                  alt="Rashod.png"
                  class="table-icon">
