@@ -5,7 +5,7 @@
   <a href="SistemaVT.html">Игровая система</a>
   <a href="Homerules.html">Домашние правила</a>
 </nav>
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Инвентарь](inventory.md) →  → [3](inventory.md) → Общее виденье товаров и услуг
+[Главная](index.md) → [Игровая система](SistemaVT.md) → [Инвентарь](inventory.md) →  → [Деньги](money.md) → Общее виденье товаров и услуг
 
 # Общее виденье товаров и услуг
 
