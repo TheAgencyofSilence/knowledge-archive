@@ -23,6 +23,7 @@
   <a href="items-creation.html">Процесс создания предметов</a>
   <a href="madness.html">Безумие</a>
   <a href="umbra.html">Морок</a>
+  <a href="inventory.html">Инвентарь</a>
   <a href="afterwords.html">Послесловие</a>
   <a href="glossary.html">Глоссарий</a>
 </div>
