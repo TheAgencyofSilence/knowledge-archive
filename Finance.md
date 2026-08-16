@@ -5,9 +5,9 @@
   <a href="SistemaVT.html">Игровая система</a>
   <a href="Homerules.html">Домашние правила</a>
 </nav>
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Инвентарь](inventory.md) → Деньги
+[Главная](index.md) → [Игровая система](SistemaVT.md) → [Инвентарь](inventory.md) → Финансы
 
-# Деньги
+# Финансы
 
 Участники игр **<u>любят вещи.</u>**
 
