@@ -49,9 +49,10 @@
 
     <!-- Строка 1 -->
     <tr>
-        <td>
-            <img src="assets/images/Image1.png"
-                 alt="Image1"
+    
+        <td colspan="2" class="big-table-cell">
+            <img src="assets/images/biopit.png"
+                 alt="biopit"
                  class="table-icon">
         </td>
 
