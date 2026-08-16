@@ -1713,3 +1713,11 @@ table.lavender-table-1 .title h3 {
 .center-all-table th {
     overflow-wrap: break-word;
 }
+
+.single-table-image {
+    width: 300px;
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
