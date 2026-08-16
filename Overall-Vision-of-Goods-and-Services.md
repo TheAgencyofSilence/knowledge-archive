@@ -67,8 +67,8 @@
     <!-- Строка 2 -->
     <tr>
         <td>
-            <img src="assets/images/Image2.png"
-                 alt="Image2"
+            <img src="assets/images/restoran.jpg"
+                 alt="restoran.jpg"
                  class="table-icon">
         </td>
 
