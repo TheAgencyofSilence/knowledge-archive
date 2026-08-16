@@ -1687,12 +1687,11 @@ table.lavender-table-1 .title h3 {
 /* Пергаментная ячейка */
 .simple-table tr:nth-child(odd) > td.parchment-cell,
 .simple-table tr:nth-child(even) > td.parchment-cell {
-    background-color: #E8D5A3 !important;
+    background-color: #C9D8E3 !important;
     color: #000000 !important;
     text-align: center !important;
     vertical-align: middle !important;
-
-    border: 2px solid #B89B55 !important;
+    border: 2px solid #8FA8BA !important;
 }
 
 
