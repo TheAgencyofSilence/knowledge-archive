@@ -51,7 +51,7 @@
     <tr>
     
         <td colspan="2" class="big-table-cell">
-            <img src="assets/images/biopit.png"
+            <img src="assets/images/biopit.jpg"
                  alt="biopit"
                  class="table-icon">
         </td>
