@@ -18,10 +18,10 @@
 <table class="simple-table center-all-table">
 
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/Dohod.png"
                  alt="Dohod.png"
-                 class="table-icon">
+                 class="single-table-image">
         </td>
     </tr>
 
@@ -32,10 +32,10 @@
 <table class="simple-table center-all-table">
 
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/Rashod.png"
                  alt="Rashod.png"
-                 class="table-icon">
+                 class="single-table-image">
         </td>
     </tr>
 
@@ -64,7 +64,7 @@
 <table class="simple-table center-all-table">
 
     <tr>
-        <td>
+        <td class="center">
             <img src="assets/images/Vallet.png"
                  alt="Vallet.png"
                  class="table-icon">
@@ -87,7 +87,7 @@
         <col style="width:50%;">
         <col style="width:50%;">
     </colgroup>
-
+    
     <tr>
         <td class="center">
             <img src="assets/images/Dioram1.png"
