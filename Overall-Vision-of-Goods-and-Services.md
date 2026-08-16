@@ -116,6 +116,22 @@
     <!-- Строка 5 -->
     <tr>
         <td class="center">
+            <img src="assets/images/elitalkogol.jpg"
+                 alt="elitalkogol.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Дорогой алкоголь</strong></td>
+        <td class="center">Ячейка 15</td>
+        <td class="center">Ячейка 15</td>
+        <td class="parchment-cell">70-100 крон</td>
+        <td class="center">Ячейка 17</td>
+        <td class="center">Ячейка 18</td>
+    </tr>
+    
+    <!-- Строка 6 -->
+    <tr>
+        <td class="center">
             <img src="assets/images/elitrestoran.jpg"
                  alt="elitrestoran.jpg"
                  class="table-icon">
@@ -129,21 +145,6 @@
         <td class="center">Ячейка 18</td>
     </tr>
 
-    <!-- Строка 6 -->
-    <tr>
-        <td class="center">
-            <img src="assets/images/elitalkogol.jpg"
-                 alt="elitalkogol.jpg"
-                 class="table-icon">
-        </td>
-
-        <td class="center"><strong>Дорогой алкоголь</strong></td>
-        <td class="center">Ячейка 15</td>
-        <td class="center">Ячейка 15</td>
-        <td class="parchment-cell">70-100 крон</td>
-        <td class="center">Ячейка 17</td>
-        <td class="center">Ячейка 18</td>
-    </tr>
 
 </table>
 
