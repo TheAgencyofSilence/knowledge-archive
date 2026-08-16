@@ -50,9 +50,9 @@
     <!-- Строка 1 -->
     <tr>
     
-        <td colspan="2" class="big-table-cell">
+       <td>
             <img src="assets/images/biopit.jpg"
-                 alt="biopit"
+                 alt="biopit.jpg"
                  class="table-icon">
         </td>
 
