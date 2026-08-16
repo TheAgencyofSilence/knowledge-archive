@@ -245,7 +245,7 @@
 
         <td class="center"><strong>Ночь в хорошем отеле</strong></td>
         <td class="center">200–300 крон</td>
-        <td class="center">100–150</td>
+        <td class="center">100–150 крон</td>
         <td class="parchment-cell">50-70 крон</td>
         <td class="center">25–35 крон</td>
         <td class="center">12–17 крон</td>
