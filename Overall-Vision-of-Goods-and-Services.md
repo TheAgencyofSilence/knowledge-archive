@@ -113,22 +113,6 @@
         <td class="center">Ячейка 18</td>
     </tr>
 
-    <!-- Строка 5 -->
-    <tr>
-        <td class="center">
-            <img src="assets/images/elitalkogol.jpg"
-                 alt="elitalkogol.jpg"
-                 class="table-icon">
-        </td>
-
-        <td class="center"><strong>Дорогой алкоголь</strong></td>
-        <td class="center">Ячейка 15</td>
-        <td class="center">Ячейка 15</td>
-        <td class="parchment-cell">70-100 крон</td>
-        <td class="center">Ячейка 17</td>
-        <td class="center">Ячейка 18</td>
-    </tr>
-    
     <!-- Строка 6 -->
     <tr>
         <td class="center">
@@ -144,6 +128,22 @@
         <td class="center">Ячейка 17</td>
         <td class="center">Ячейка 18</td>
     </tr>
+    
+    <!-- Строка 5 -->
+    <tr>
+        <td class="center">
+            <img src="assets/images/elitalkogol.jpg"
+                 alt="elitalkogol.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Дорогой алкоголь</strong></td>
+        <td class="center">Ячейка 15</td>
+        <td class="center">Ячейка 15</td>
+        <td class="parchment-cell">70-100 крон</td>
+        <td class="center">Ячейка 17</td>
+        <td class="center">Ячейка 18</td>
+    </tr>
 
 
 </table>
@@ -151,6 +151,108 @@
 
 
 ---
+
+
+<table class="simple-table center-all-table">
+
+    <colgroup>
+      <col style="width:25%;">
+      <col style="width:15%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+   </colgroup>
+
+   <!-- Оглавление -->
+    <tr>
+        <td colspan="7" class="title center">
+            <h3>Стоимость услуг и ночлега</h3>
+        </td>
+    </tr>
+
+     <!-- Новая верхняя строка -->
+    <tr>
+        <td class="center">ㅤ</td>
+        <td class="center">Предмет или услуга</td>
+        <td class="center">В 1м кольце</td>
+        <td class="center">В 2м кольце</td>
+        <td class="center">В 3м-4м кольце</td>
+        <td class="center">В 5м-6м кольце</td>
+        <td class="center">В 7м-8м кольце</td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/strizhka.jpg"
+                 alt="strizhka.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Обычная стрижка</strong></td>
+        <td class="center">Ячейка 3</td>
+        <td class="center">Ячейка 3</td>
+        <td class="parchment-cell">2-3 кроны</td>
+        <td class="center">Ячейка 5</td>
+        <td class="center">Ячейка 6</td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/modnayastrizhka.jpg"
+                 alt="modnayastrizhka.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Модная стрижка</strong></td>
+        <td class="center">Ячейка 3</td>
+        <td class="center">Ячейка 3</td>
+        <td class="parchment-cell">15-20 крон</td>
+        <td class="center">Ячейка 5</td>
+        <td class="center">Ячейка 6</td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/event.jpg"
+                 alt="event.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Культурное мероприятие</strong></td>
+        <td class="center">Ячейка 3</td>
+        <td class="center">Ячейка 3</td>
+        <td class="parchment-cell">40-50 крон</td>
+        <td class="center">Ячейка 5</td>
+        <td class="center">Ячейка 6</td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/hotel.jpg"
+                 alt="hotel.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Ночь в хорошем отеле</strong></td>
+        <td class="center">Ячейка 3</td>
+        <td class="center">Ячейка 3</td>
+        <td class="parchment-cell">50-70 крон</td>
+        <td class="center">Ячейка 5</td>
+        <td class="center">Ячейка 6</td>
+    </tr>
+
+
+</table>
 
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
