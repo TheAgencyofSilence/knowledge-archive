@@ -200,7 +200,7 @@
         <td class="center">10 либр</td>
     </tr>
 
-    <!-- Строка 1 -->
+    <!-- Строка 2 -->
     <tr>
     
        <td class="center">
@@ -217,7 +217,7 @@
         <td class="center">3–5 крон</td>
     </tr>
 
-    <!-- Строка 1 -->
+    <!-- Строка 3 -->
     <tr>
     
        <td class="center">
@@ -234,7 +234,7 @@
         <td class="center">10–12 крон</td>
     </tr>
 
-    <!-- Строка 1 -->
+    <!-- Строка 4 -->
     <tr>
     
        <td class="center">
@@ -254,6 +254,74 @@
 
 </table>
 
+---
+
+
+<table class="simple-table center-all-table">
+
+    <colgroup>
+      <col style="width:25%;">
+      <col style="width:15%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+      <col style="width:12%;">
+   </colgroup>
+
+   <!-- Оглавление -->
+    <tr>
+        <td colspan="7" class="title center">
+            <h3>Стоимость перемещения</h3>
+        </td>
+    </tr>
+
+     <!-- Новая верхняя строка -->
+    <tr>
+        <td class="center">ㅤ</td>
+        <td class="center">Предмет или услуга</td>
+        <td class="center">В 1м кольце</td>
+        <td class="center">В 2м кольце</td>
+        <td class="parchment-cell">В 3м-4м кольце</td>
+        <td class="center">В 5м-6м кольце</td>
+        <td class="center">В 7м-8м кольце</td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/Antarohod.jpg"
+                 alt="Antarohod.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Проезд на антароходе</strong></td>
+        <td class="center">-</td>
+        <td class="center">4 кроны</td>
+        <td class="parchment-cell">3 кроны</td>
+        <td class="center">2 кроны</td>
+        <td class="center">1 крона</td>
+    </tr>
+
+    <!-- Строка 2 -->
+    <tr>
+    
+       <td class="center">
+            <img src="assets/images/MezhKolcami.jpg"
+                 alt="MezhKolcami.jpg"
+                 class="table-icon">
+        </td>
+
+        <td class="center"><strong>Проезд в соседнее Кольцо</strong></td>
+        <td class="center">150–250 крон</td>
+        <td class="center">70–120 крон</td>
+        <td class="parchment-cell">35-60 крон</td>
+        <td class="center">15–30 крон</td>
+        <td class="center">8–15 крон</td>
+    </tr>
+
+</table>
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
 
