@@ -57,11 +57,11 @@
         </td>
 
         <td class="center"><strong>Банка биопита</strong></td>
-        <td class="center">Ячейка 3</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">5 крон</td>
+        <td class="center">2 кроны</td>
         <td class="parchment-cell">1 крона</td>
-        <td class="center">Ячейка 5</td>
-        <td class="center">Ячейка 6</td>
+        <td class="center">10 либр</td>
+        <td class="center">5 лир</td>
     </tr>
 
     <!-- Строка 2 -->
@@ -74,11 +74,11 @@
         </td>
 
         <td class="center"><strong>Дешевый алкоголь</strong></td>
-        <td class="center">Ячейка 3</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">5 крон</td>
+        <td class="center">2 кроны</td>
         <td class="parchment-cell">1 крона</td>
-        <td class="center">Ячейка 5</td>
-        <td class="center">Ячейка 6</td>
+        <td class="center">10 либр</td>
+        <td class="center">5 лир</td>
     </tr>
 
     <!-- Строка 3 -->
@@ -90,11 +90,11 @@
         </td>
 
         <td class="center"><strong>Обед в столовой</strong></td>
-        <td class="center">Ячейка 9</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">10-15 крон</td>
+        <td class="center">5-10 крон</td>
         <td class="parchment-cell">2-3 кроны</td>
-        <td class="center">Ячейка 11</td>
-        <td class="center">Ячейка 12</td>
+        <td class="center">1-2 кроны 11</td>
+        <td class="center">10-20 либр</td>
     </tr>
 
     <!-- Строка 4 -->
@@ -106,11 +106,11 @@
         </td>
 
         <td class="center"><strong>Ужин в приличном ресторане</strong></td>
-        <td class="center">Ячейка 15</td>
-        <td class="center">Ячейка 3</td>
+        <td class="center">20-50 крон</td>
+        <td class="center">10-20 крон</td>
         <td class="parchment-cell">5-10 крон</td>
-        <td class="center">Ячейка 17</td>
-        <td class="center">Ячейка 18</td>
+        <td class="center">2-5 крон</td>
+        <td class="center">1-2 кроны</td>
     </tr>
 
     <!-- Строка 6 -->
@@ -122,11 +122,11 @@
         </td>
 
         <td class="center"><strong>Ужин в элитном ресторане</strong></td>
-        <td class="center">Ячейка 15</td>
-        <td class="center">Ячейка 15</td>
+        <td class="center">400-1000 крон</td>
+        <td class="center">200-500 крон</td>
         <td class="parchment-cell">100-250 крон</td>
-        <td class="center">Ячейка 17</td>
-        <td class="center">Ячейка 18</td>
+        <td class="center">50-100 крон</td>
+        <td class="center"> - </td>
     </tr>
     
     <!-- Строка 5 -->
@@ -138,11 +138,11 @@
         </td>
 
         <td class="center"><strong>Дорогой алкоголь</strong></td>
-        <td class="center">Ячейка 15</td>
-        <td class="center">Ячейка 15</td>
+        <td class="center">300-400 крон</td>
+        <td class="center">150–200 крон</td>
         <td class="parchment-cell">70-100 крон</td>
-        <td class="center">Ячейка 17</td>
-        <td class="center">Ячейка 18</td>
+        <td class="center">35–50 крон</td>
+        <td class="center">25 крон</td>
     </tr>
 
 
