@@ -17,8 +17,6 @@
 
 ---
 
-<h2>Питание и выпивка</h2>
-
 <table class="simple-table center-all-table">
 
     <colgroup>
@@ -80,7 +78,6 @@
         <td class="parchment-cell">2-3 кроны</td>
         <td>Ячейка 11</td>
         <td>Ячейка 12</td>
-        <td>Ячейка 13</td>
     </tr>
 
     <!-- Строка 3 -->
@@ -97,7 +94,6 @@
         <td class="parchment-cell">5-10 крон</td>
         <td>Ячейка 17</td>
         <td>Ячейка 18</td>
-        <td>Ячейка 19</td>
     </tr>
 
     <!-- Строка 4 -->
@@ -114,7 +110,6 @@
         <td class="parchment-cell">100-250 крон</td>
         <td>Ячейка 17</td>
         <td>Ячейка 18</td>
-        <td>Ячейка 19</td>
     </tr>
 
 </table>
