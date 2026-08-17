@@ -1721,3 +1721,53 @@ table.lavender-table-1 .title h3 {
     display: block;
     margin: 0 auto;
 }
+
+
+/* Таблица с большим изображением справа */
+
+.three-column-image-table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+
+/* Первый столбец — по центру */
+
+.three-column-image-table .first-col {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+
+/* Второй столбец — слева, но по центру сверху-вниз */
+
+.three-column-image-table .second-col {
+    text-align: left !important;
+    vertical-align: middle !important;
+}
+
+
+/* Заголовок второго столбца тоже по центру */
+
+.three-column-image-table .header-center {
+    text-align: center !important;
+}
+
+
+/* Большая ячейка с изображением */
+
+.three-column-image-table .image-column {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+
+/* Само изображение */
+
+.three-column-image-table .three-column-image {
+    width: 90%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
