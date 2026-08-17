@@ -31,8 +31,8 @@
 
     <!-- Первая / заглавная строка -->
     <tr>
-        <td class="first-col">Заголовок 1</td>
-        <td class="second-col header-center">Заголовок 2</td>
+        <td class="first-col">Значение навыка</td>
+        <td class="second-col header-center">Уровень компетентности</td>
 
         <!-- Изображение занимает весь третий столбец -->
         <td class="image-column" rowspan="8">
@@ -43,38 +43,38 @@
     </tr>
 
     <tr>
-        <td class="first-col">1</td>
-        <td class="second-col">Текст строки 1</td>
+        <td class="first-col"><strong>0</strong></td>
+        <td class="second-col">Ужасно</td>
     </tr>
 
     <tr>
-        <td class="first-col">2</td>
-        <td class="second-col">Текст строки 2</td>
+        <td class="first-col"><strong>1</strong></td>
+        <td class="second-col">Плохо</td>
     </tr>
 
     <tr>
-        <td class="first-col">3</td>
-        <td class="second-col">Текст строки 3</td>
+        <td class="first-col"><strong>2</strong></td>
+        <td class="second-col">Ниже среднего</td>
     </tr>
 
     <tr>
-        <td class="first-col">4</td>
-        <td class="second-col">Текст строки 4</td>
+        <td class="first-col"><strong>3</strong></td>
+        <td class="second-col">Средне</td>
     </tr>
 
     <tr>
-        <td class="first-col">5</td>
-        <td class="second-col">Текст строки 5</td>
+        <td class="first-col"><strong>4</strong></td>
+        <td class="second-col">Выше среднего</td>
     </tr>
 
     <tr>
-        <td class="first-col">6</td>
-        <td class="second-col">Текст строки 6</td>
+        <td class="first-col"><strong>5</strong></td>
+        <td class="second-col">Хорошо</td>
     </tr>
 
     <tr>
-        <td class="first-col">7</td>
-        <td class="second-col">Текст строки 7</td>
+        <td class="first-col"><strong>6</strong></td>
+        <td class="second-col">Отлично</td>
     </tr>
 
 </table>
