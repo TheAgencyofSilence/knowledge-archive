@@ -24,7 +24,7 @@
   <a href="madness.html">Безумие</a>
   <a href="umbra.html">Морок</a>
   <a href="inventory.html">Инвентарь</a>
-  <a href="afterwords.html">Послесловие</a>
+  <a href="gamevision.html">Общее виденье игромеханики</a>
   <a href="glossary.html">Глоссарий</a>
 </div>
 ---
