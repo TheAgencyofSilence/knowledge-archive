@@ -133,8 +133,8 @@
     <!-- Строка 4 -->
     <tr>
         <td class="image-cell">
-            <img src="assets/images/robber.jpg"
-                 alt="robber"
+            <img src="assets/images/robber1.jpg"
+                 alt="robber1"
                  class="image-text-picture">
         </td>
 
