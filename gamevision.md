@@ -212,8 +212,96 @@
 </table>
 
 
+---
 
+<h2>Экономика. Примеры</h2> 
 
+<table class="simple-table image-text-table">
+
+    <colgroup>
+        <col style="width:40%;">
+        <col style="width:60%;">
+    </colgroup>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/lord.png"
+                 alt="lord"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что у Лорда-Секретаря водятся сотни тысяч крон.
+        </td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/kabat.png"
+                 alt="kabat"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что у кабатчика при себе примерно 600-900 крон.
+        </td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/klerk.png"
+                 alt="klerk"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что у среднего жителя Четвертого Кольца при себе может быть примерно 100-300 крон.
+        </td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/zavod.png"
+                 alt="zavod"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что заработная плата заводчанина Четвертого Кольца в месяц примерно 100-150 крон.
+        </td>
+    </tr>
+
+</table>
+
+---
+
+<h2>Технопакт</h2> 
+
+<table class="simple-table image-text-table">
+
+    <colgroup>
+        <col style="width:40%;">
+        <col style="width:60%;">
+    </colgroup>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/111111111111.png"
+                 alt="1111111111"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что у Лорда-Секретаря водятся сотни тысяч крон.
+        </td>
+    </tr>
+
+</table>
 
 
 
