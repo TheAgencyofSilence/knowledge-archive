@@ -1771,3 +1771,39 @@ table.lavender-table-1 .title h3 {
     display: block;
     margin: 0 auto;
 }
+
+/* ========================================= */
+/* Таблица: изображение + текст              */
+/* ========================================= */
+
+.image-text-table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+
+/* Ячейки с изображениями */
+
+.image-text-table .image-cell {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+
+/* Ячейки с текстом */
+
+.image-text-table .text-cell {
+    text-align: left !important;
+    vertical-align: middle !important;
+}
+
+
+/* Изображения */
+
+.image-text-table .image-text-picture {
+    width: 300px;
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
