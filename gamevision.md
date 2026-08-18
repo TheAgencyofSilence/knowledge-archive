@@ -331,6 +331,46 @@
 
 </table>
 
+---
+
+<h2>Технопакт. Примеры</h2> 
+
+<table class="simple-table image-text-table">
+
+    <colgroup>
+        <col style="width:40%;">
+        <col style="width:60%;">
+    </colgroup>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/spric.jpg"
+                 alt="spric"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что Шприц Изымателей – это инструмент Первой Категории Технопакта (КТ1).
+        </td>
+    </tr>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/protez.jpg"
+                 alt="protez"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что Протез Фитца – это Третья Категория Технопакта (КТ3).
+        </td>
+    </tr>
+  
+
+</table>
+
 
 
 
