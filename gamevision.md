@@ -80,6 +80,77 @@
 </table>
 
 
+---
+
+<h2>Примеры из произведения</h2> 
+
+<table class="simple-table image-text-table">
+
+    <colgroup>
+        <col style="width:40%;">
+        <col style="width:60%;">
+    </colgroup>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/alan.jpg"
+                 alt="alan"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что с учетом всех навыков и талантов Алан Хеймс выбросит на броске химии примерно 10-11 кубов.
+        </td>
+    </tr>
+
+    <!-- Строка 2 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/Red.jpg"
+                 alt="Red"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что у Красного примерно 10 пунктов в навыке планирования.
+        </td>
+    </tr>
+
+    <!-- Строка 3 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/evelina.jpg"
+                 alt="evelina"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы сошлись на том, что у Эвелины Ван Кейн – ректора самой влиятельной академии в Столице – 12 пунктов Знаний и Связей в сфере «Академии». Потому мы считаем 12 – максимальным значением  Знания и Связей в принципе. <br><br>Такими ЗиС обладают самые влиятельные и легендарные люди в Столице.
+        </td>
+    </tr>
+
+    <!-- Строка 4 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/robber.jpg"
+                 alt="robber"
+                 class="image-text-picture">
+        </td>
+
+        <td class="text-cell">
+            Мы считаем, что уровень меткости бандита с Продольной равен примерно 3 пунктам навыка. 
+        </td>
+    </tr>
+
+</table>
+
+
+
+
+
+
+
 
 
 
