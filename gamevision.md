@@ -467,8 +467,8 @@
     <!-- Строка 1 -->
     <tr>
         <td class="image-cell">
-            <img src="assets/images/ruki.jpg"
-                 alt="ruki"
+            <img src="assets/images/Dead.jpg"
+                 alt="Dead"
                  class="image-text-picture">
         </td>
 
