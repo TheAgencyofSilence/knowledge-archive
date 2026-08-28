@@ -396,8 +396,8 @@
     <tr>
     
        <td class="center">
-            <img src="assets/images/111111111.jpg"
-                 alt="11111111111111.jpg"
+            <img src="assets/images/sredfiltr.png"
+                 alt="sredfiltr.png"
                  class="table-icon">
         </td>
 
