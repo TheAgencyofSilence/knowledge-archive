@@ -5,7 +5,7 @@
   <a href="SistemaVT.html">Игровая система</a>
   <a href="Homerules.html">Домашние правила</a>
 </nav>
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг первый: Фенотип](1-phenotype.md) → [Иные обитатели Столицы](other-inhabitant.md) → Менталы
+[Главная](index.md) → [Игровая система](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг первый: Фенотип](1-phenotype.md) → Менталы
 
 # Менталы
 
