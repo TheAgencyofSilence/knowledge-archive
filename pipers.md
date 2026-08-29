@@ -28,9 +28,6 @@
 
 <h2>Исключение из правила</h2>  
 
----
-
-<h2>Примеры из произведения</h2> 
 
 <table class="simple-table image-text-table">
 
