@@ -52,17 +52,8 @@
 </table>
 
 
+---
 
-<table class="simple-table centered">
-
-
-
-
-
-    </tr>
-
-
-</table>
 
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
