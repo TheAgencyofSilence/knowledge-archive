@@ -179,9 +179,6 @@
             
         </table>
 
-    </div>
-
-</details>
 
 
 
