@@ -1958,3 +1958,21 @@ table.lavender-table-1 .title h3 {
     padding: 6px 5px;
   }
 }
+/* ========================================= */
+/* Простая таблица с одной ячейкой            */
+/* ========================================= */
+
+.single-cell-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.single-cell-table td {
+  border: 1px solid #000000;
+  padding: 14px 18px;
+  text-align: left;
+  vertical-align: middle;
+  font-weight: 400;
+  color: #000000;
+}
