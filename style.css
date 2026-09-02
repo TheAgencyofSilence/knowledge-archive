@@ -1875,7 +1875,7 @@ table.lavender-table-1 .title h3 {
 
 .hypnosis-table th:nth-child(1),
 .hypnosis-table td:nth-child(1) {
-  width: 15%;
+  width: 20%;
 }
 
 .hypnosis-table th:nth-child(2),
@@ -1890,7 +1890,7 @@ table.lavender-table-1 .title h3 {
 
 .hypnosis-table th:nth-child(4),
 .hypnosis-table td:nth-child(4) {
-  width: 35%;
+  width: 30%;
 }
 
 .hypnosis-table th:nth-child(5),
