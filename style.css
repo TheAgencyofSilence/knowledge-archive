@@ -1875,27 +1875,27 @@ table.lavender-table-1 .title h3 {
 
 .hypnosis-table th:nth-child(1),
 .hypnosis-table td:nth-child(1) {
-  width: 14%;
+  width: 15%;
 }
 
 .hypnosis-table th:nth-child(2),
 .hypnosis-table td:nth-child(2) {
-  width: 12%;
+  width: 15%;
 }
 
 .hypnosis-table th:nth-child(3),
 .hypnosis-table td:nth-child(3) {
-  width: 28%;
+  width: 25%;
 }
 
 .hypnosis-table th:nth-child(4),
 .hypnosis-table td:nth-child(4) {
-  width: 33%;
+  width: 35%;
 }
 
 .hypnosis-table th:nth-child(5),
 .hypnosis-table td:nth-child(5) {
-  width: 13%;
+  width: 10%;
 }
 
 /* ========================================= */
