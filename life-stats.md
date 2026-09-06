@@ -22,8 +22,7 @@ _**Кресты**_
   <a href="health-crisis.html">Кризис: Здоровье</a>
   <a href="sanity.html">Рассудок</a>
   <a href="sanity-crisis">Кризис: Рассудок</a>
-  <a href="health-restoration.html">Лечение. Восстановление Здоровья</a>
-  <a href="sanity-restoration.html">Отдых и восстановление рассудка</a>
+  <a href="health-restoration.html">Лечение. Восстановление Здоровья и Рассудка</a>
   <a href="life-stats-and-how-to-play.html">Состояния персонажа и как с ними играть</a>
 </div>
 
