@@ -20,7 +20,7 @@
 
 <div class="subnav">
   <a href="Recovery-During-the-Game.html">Восстановление во время игры</a>
-  <a href="important-details.html">Важные детали</a>
+  <a href="Recovery-Between-Games.html">Восстановление между играми</a>
 </div>
 
  ---
