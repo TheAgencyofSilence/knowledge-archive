@@ -283,7 +283,7 @@
 
 <h2>Восстановление между играми</h2> 
 
-Напомним, что <a href="https://theagencyofsilence.github.io/knowledge-archive/Recovery-Between-Games.html)">Восстановление Здоровья и Рассудка</a> между партиями тоже является частью системы Даунтайма. 
+Напомним, что <a href="https://theagencyofsilence.github.io/knowledge-archive/Recovery-Between-Games.html">Восстановление Здоровья и Рассудка</a> между партиями тоже является частью системы Даунтайма. 
 
 ---
 
