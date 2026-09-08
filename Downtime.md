@@ -74,6 +74,63 @@
 
   •  **Необходимое количество Тиков** - количество Тиков, которое необходимо вложить для завершения Возможности. После вложения последнего необходимого Тика Возможность производит указанный эффект и, если это предусмотрено её описанием, удаляется с Доски возможностей.
 
+
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/Gostinnaya.png"
+                 alt="Gostinnaya"
+                 class="single-table-image">
+        </td>
+    </tr>
+
+</table>
+
+Пример Возможности: она имеет срок действия и утратит силу в указанную дату, не предъявляет требований к герою и требует вложения 5 Тиков. Герои, вложившие свои Тики в эту Возможность, отмечены на карточке.
+
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/Lekar.png"
+                 alt="Lekar.png"
+                 class="single-table-image">
+        </td>
+    </tr>
+
+</table>
+
+Пример возможности; она не утраивает силу, не имеет требований к герою,  и занимает всего 1 тик
+
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/pochinka.png"
+                 alt="pochinka"
+                 class="single-table-image">
+        </td>
+    </tr>
+
+</table>
+
+Пример возможности; она не утратит силу,  но имеет требование к герою, и требует вложить 7 тиков; вложившие свои тики герои отмечены
+
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/Vitabint.png"
+                 alt="Vitabint"
+                 class="single-table-image">
+        </td>
+    </tr>
+
+</table>
+
+Пример инициативы; она не утратит силу, имеет требования к герою,  и занимает всего 7 тиков; никто пока не вложил свои тики.
+
 ---
 
 <h2>Получение Возможностей</h2>
@@ -199,6 +256,18 @@
 Однако за простоту и безопасность приходится платить меньшим доходом: заработок от подработок значительно ниже, чем доход от развитого Личного дела или выполнения особых заданий во время игровых сессий.
 
 Ниже приведены примеры подработок, которыми герой может заниматься во время Даунтайма.
+
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/podrabotka.png"
+                 alt="podrabotka"
+                 class="single-table-image">
+        </td>
+    </tr>
+
+</table>
 
 ---
 
