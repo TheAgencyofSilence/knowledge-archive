@@ -1986,3 +1986,8 @@ table.lavender-table-1 .title h3 {
     width: 50% !important;
     height: auto !important;
 }
+
+.center-right-column {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
