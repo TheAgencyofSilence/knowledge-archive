@@ -81,7 +81,7 @@
         <td class="center">
             <img src="assets/images/Gostinnaya.png"
                  alt="Gostinnaya"
-                 class="single-table-image">
+                 class="single-table-image half-size-image">
         </td>
     </tr>
 
@@ -95,7 +95,7 @@
         <td class="center">
             <img src="assets/images/Lekar.png"
                  alt="Lekar.png"
-                 class="single-table-image">
+                 class="single-table-image half-size-image">
         </td>
     </tr>
 
@@ -109,7 +109,7 @@
         <td class="center">
             <img src="assets/images/pochinka.png"
                  alt="pochinka"
-                 class="single-table-image">
+                 class="single-table-image half-size-image">
         </td>
     </tr>
 
@@ -123,7 +123,7 @@
         <td class="center">
             <img src="assets/images/Vitabint.png"
                  alt="Vitabint"
-                 class="single-table-image">
+                 class="single-table-image half-size-image">
         </td>
     </tr>
 
@@ -263,7 +263,7 @@
         <td class="center">
             <img src="assets/images/podrabotka.png"
                  alt="podrabotka"
-                 class="single-table-image">
+                 class="single-table-image half-size-image">
         </td>
     </tr>
 
