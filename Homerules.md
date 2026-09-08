@@ -17,7 +17,7 @@
   <a href="Agent-Statuses.html">Развитие и звания агентов</a>
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Downtime.html">Инициативы, возможности и свободное время</a>
-  <a href="Audit-Log.html">Склад агентства</a>
+  <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
   <a href="1111111111111.html">Слово Агента</a>
   <a href="1111111111111.html">Сегменты</a>
   <a href="1111111111111.html">Правила поведения</a>
