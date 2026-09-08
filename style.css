@@ -1976,3 +1976,13 @@ table.lavender-table-1 .title h3 {
   font-weight: 400;
   color: #000000;
 }
+
+/* ========================================= */
+/* Средняя таблица со средними изображениями          */
+/* ========================================= */
+
+
+.half-size-image {
+    width: 50% !important;
+    height: auto !important;
+}
