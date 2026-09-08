@@ -19,7 +19,7 @@
   <a href="Downtime.html">Инициативы, возможности и свободное время</a>
   <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
   <a href="Agent-Word.html">Слово Агента</a>
-  <a href="1111111111111.html">Сегменты</a>
+  <a href="segments.html">Сегменты</a>
   <a href="1111111111111.html">Правила поведения</a>
   <a href="1111111111111.html">Полезные ссылки</a>
 </div>
