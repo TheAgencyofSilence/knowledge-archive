@@ -109,27 +109,27 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>0 (начальное)</strong></td>
+              <td class="first-col"><strong>0 (начальное)</strong></td>
               <td class="vertical-center">Только сам агент, работающий в одиночку.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>1</strong></td>
+              <td class="first-col"><strong>1</strong></td>
               <td class="vertical-center">Агент и еще 1 человек, например, агент с помощником или секретарем.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>2</strong></td>
+              <td class="first-col"><strong>2</strong></td>
               <td class="vertical-center">Агент и до 3 человек, включая помощника и, возможно, двух мастеров.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>3</strong></td>
+              <td class="first-col"><strong>3</strong></td>
               <td class="vertical-center">Агент и штат до 5 человек, что позволяет включить больше квалифицированного персонала и специалистов.</td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>4</strong></td>
+              <td class="first-col"><strong>4</strong></td>
               <td class="vertical-center">Агент и до 10 сотрудников, обеспечивающих комплексную поддержку и разнообразие навыков и заполнить дополнительные роли в команде.</td>
             </tr>
 
