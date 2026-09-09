@@ -22,7 +22,7 @@
   <a href="segments.html">Сегменты</a>
   <a href="Community-Code-of-Conduct.html">Правила поведения в сообществе</a> 
   <a href="Parallelism.html">Параллелизм</a>
-  <a href="1111111111111.html">Полезные ссылки</a>
+  <a href="Useful-Links.html">Полезные ссылки</a>
 </div>
 
 ---
