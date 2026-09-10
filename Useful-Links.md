@@ -55,13 +55,17 @@
 
 ---
 
-<h2>Ознакомится с сеттингом:</h2> 
+<h2>Ознакомится с сеттингом</h2> 
 
   •  <a href="https://t.me/innershadows_archive">Оригинальное произведение</a>
 
   •  <a href="https://novel.fandom.com/ru/wiki/%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB_%22%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5_%D0%A2%D0%B5%D0%BD%D0%B8%22">Вики по сеттингу и произведению</a>
 
-<a href="https://youtube.com/@agency-silence?si=BrxMPUu4uQY_3APY">Наш ютюб-канал</a> (там иногда выходят видео)
+---
+
+<h2>Ютуб</h2> 
+
+  •  <a href="https://youtube.com/@agency-silence?si=BrxMPUu4uQY_3APY">Наш ютюб-канал</a> (там иногда выходят видео)
 
 ---
 
