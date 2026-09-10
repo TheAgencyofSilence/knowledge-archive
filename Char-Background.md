@@ -25,7 +25,7 @@
         <td class="center">
             <img src="assets/images/Vehi-predistorii.png"
                  alt="Vehi-predistorii"
-                 class="single-table-image">
+                 class="single-table-image vehi-predistorii-image">
         </td>
     </tr>
 
@@ -53,7 +53,7 @@
         <td class="center">
             <img src="assets/images/Veha.png"
                  alt="Veha"
-                 class="single-table-image">
+                 class="single-table-image vehi-predistorii-image">
         </td>
     </tr>
 
