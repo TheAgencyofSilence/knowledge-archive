@@ -1991,3 +1991,9 @@ table.lavender-table-1 .title h3 {
     text-align: center !important;
     vertical-align: middle !important;
 }
+
+.vehi-predistorii-image {
+    width: 800px !important;
+    max-width: 90% !important;
+    height: auto !important;
+}
