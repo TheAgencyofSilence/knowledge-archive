@@ -13,7 +13,7 @@
 
 
 <div class="subnav">
-  <a href="1111111111111.html">Лист Персонажа</a>
+  <a href="Character-Sheet.html">Лист Персонажа</a>
   <a href="Agent-Statuses.html">Развитие и звания агентов</a>
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Downtime.html">Инициативы, возможности и свободное время</a>
@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад на главную](index.md)
+<a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
