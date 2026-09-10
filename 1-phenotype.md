@@ -39,6 +39,7 @@ _**Фитц**_
   <a href="steppers.html">Степняки</a>
   <a href="mounters.html">Горняки</a>
   <a href="halfblooded.html">Полукровки</a>
+  <a href="Tunuhs.html">Тунухи</a>
 </div>
 
 **Иные обитатели города**
