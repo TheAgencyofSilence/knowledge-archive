@@ -30,16 +30,16 @@
 ---
 
 <div class="subnav">
-  <a href="Char-Background.html">Предыстория</a>
-  <a href="Char-Dossier.html">Дело</a>
-  <a href="Char-Money.html">Деньги</a>
-  <a href="Char-Talents.html">Таланты и Особенности</a>
-  <a href="Char-Crafting-Calculator.html">Калькулятор Крафта</a>
-  <a href="Char-Career.html">Карьера и Вершина Карьеры</a>
-  <a href="Char-Relationships.html">Отношения</a>
-  <a href="Char-Suppliers.html">Поставщики</a>
-  <a href="Char-Rooms-and-Specialists.html">Комнаты и Спецы</a>
-  <a href="Char-Storage.html">Склад</a>
+  <a href="Char-Background.html"> Вкладка «Предыстория»</a>
+  <a href="Char-Dossier.html">Вкладка «Дело»</a>
+  <a href="Char-Money.html">Вкладка «Деньги»</a>
+  <a href="Char-Talents.html">Вкладка «Таланты и Особенности»</a>
+  <a href="Char-Crafting-Calculator.html">Вкладка «Калькулятор Крафта»</a>
+  <a href="Char-Career.html">Вкладка «Карьера и Вершина Карьеры»</a>
+  <a href="Char-Relationships.html">Вкладка «Отношения»</a>
+  <a href="Char-Suppliers.html">Вкладка «Поставщики»</a>
+  <a href="Char-Rooms-and-Specialists.html">Вкладка «Комнаты и Спецы»</a>
+  <a href="Char-Storage.html">Вкладка «Склад»</a>
 
 </div>
 
