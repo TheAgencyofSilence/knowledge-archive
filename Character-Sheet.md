@@ -41,10 +41,9 @@
   <a href="Char-Rooms-and-Specialists.html">Комнаты и Спецы</a>
   <a href="Char-Storage.html">Склад</a>
 
----
-
-
 </div>
+
+---
 
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
