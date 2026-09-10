@@ -131,7 +131,7 @@
 
 Если стандартного размера ячейки недостаточно для описания Травмы, вы можете воспользоваться вкладкой ячейки, чтобы разместить там более подробную информацию.
 
-Подробнее о правилах и последствиях Травм <a href="https://theagencyofsilence.github.io/knowledge-archive/health-crisis.html">Травм</a>.
+Подробнее о правилах и последствиях <a href="https://theagencyofsilence.github.io/knowledge-archive/health-crisis.html">Травм</a>.
 
 **Безумия**
 
