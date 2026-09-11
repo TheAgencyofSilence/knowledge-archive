@@ -302,28 +302,22 @@
 
 **Травмы**
 
-<table class="simple-table image-text-table">
+<table class="simple-table center-all-table">
 
-    <colgroup>
-        <col style="width:50%;">
-        <col style="width:50%;">
-    </colgroup>
-
-    <!-- Строка 1 -->
     <tr>
-        <td class="text-cell">
-            В блоке Травм укажите глубину каждой Травмы, выберите её тип и кратко опишите полученное повреждение.<br><br>Если стандартного размера ячейки недостаточно для описания Травмы, вы можете воспользоваться вкладкой ячейки, чтобы разместить там более подробную информацию.
-        </td>
-
-        <td class="image-cell">
+        <td class="center">
             <img src="assets/images/travmaprimer.png"
                  alt="travmaprimer"
-                 class="image-text-picture">
+                 class="single-table-image vehi-predistorii-image">
         </td>
     </tr>
 
 </table>
 
+В блоке Травм укажите глубину каждой Травмы, выберите её тип и кратко опишите полученное повреждение. 
+
+Если стандартного размера ячейки недостаточно для описания Травмы, вы можете воспользоваться вкладкой ячейки, чтобы разместить там более подробную информацию.
+        
 Подробнее о правилах и последствиях <a href="https://theagencyofsilence.github.io/knowledge-archive/health-crisis.html">Травм</a>.
 
 **Безумия**
