@@ -498,7 +498,7 @@
         <td class="center">
             <img src="assets/images/ZIS.png"
                  alt="ZIS"
-                 class="single-table-image vehi-predistorii-image">
+                 class="single-table-image">
         </td>
     </tr>
 
