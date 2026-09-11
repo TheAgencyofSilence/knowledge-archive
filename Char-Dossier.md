@@ -47,7 +47,7 @@
 
 ---
 
-<h2>Гафа «Я»</h2> 
+<h2>Графа «Я»</h2> 
 
 <table class="simple-table image-text-table">
 
