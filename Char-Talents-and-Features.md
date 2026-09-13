@@ -22,7 +22,7 @@
         <td class="center">
             <img src="assets/images/Lilittalant.png"
                  alt="Lilittalant"
-                 class="single-table-image vehi-predistorii-image">
+                 class="single-table-image vehi-predistorii-image2">
         </td>
     </tr>
 
