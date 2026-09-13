@@ -33,7 +33,7 @@
   <a href="Char-Background.html"> Вкладка «Предыстория»</a>
   <a href="Char-Dossier.html">Вкладка «Дело»</a>
   <a href="Char-Money.html">Вкладка «Деньги»</a>
-  <a href="Char-Talents.html">Вкладка «Таланты и Особенности»</a>
+  <a href="Char-Talents-and-Features.html">Вкладка «Таланты и Особенности»</a>
   <a href="Char-Crafting-Calculator.html">Вкладка «Калькулятор Крафта»</a>
   <a href="Char-Career.html">Вкладка «Карьера и Вершина Карьеры»</a>
   <a href="Char-Relationships.html">Вкладка «Отношения»</a>
