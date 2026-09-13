@@ -5,7 +5,9 @@
   <a href="SistemaVT.html">Игровая система</a>
   <a href="Homerules.html">Домашние правила</a>
 </nav>
-[Главная](index.md) → [Домашние правила](Homerules.md) → Вкладка «Дело»
+[Главная](index.md) → [Домашние правила](Homerules.md) → Лист Персонажа(Character-Sheet.md) → Вкладка «Дело»
+
+--
 
 # Вкладка «Дело»
 
