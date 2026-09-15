@@ -55,15 +55,15 @@
 
     <tr>
         <td class="center">
-            <img src="assets/images/Bonus1.png"
-                 alt="Bonus1"
+            <img src="assets/images/Bonus2.png"
+                 alt="Bonus2"
                  class="single-table-image vehi-predistorii-image2">
         </td>
     </tr>
     <tr>
         <td class="center">
-            <img src="assets/images/Bonus2.png"
-                 alt="Bonus2"
+            <img src="assets/images/Bonus1.png"
+                 alt="Bonus1"
                  class="single-table-image vehi-predistorii-image2">
         </td>
     </tr>
