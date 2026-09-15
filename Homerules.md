@@ -14,7 +14,7 @@
 
 <div class="subnav">
   <a href="Character-Sheet.html">Лист Персонажа</a>
-  <a href="Agent-Statuses.html">Развитие и звания агентов</a>
+  <a href="Agent-Statuses.html">Статусы агентов</a>
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Downtime.html">Инициативы, возможности и свободное время</a>
   <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
