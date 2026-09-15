@@ -39,9 +39,9 @@
 
 В нём отдельно учитываются Постоянное и Расходуемое имущество:
 
-  •  <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit#gid=1022322606&range=A1">Постоянное имущество</a>
+  •  <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=2016364686#gid=2016364686">Постоянное имущество</a>
 
-  •  <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit#gid=1265714328&range=A1">Расходуемое имущество</a>
+  •  <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=1265714328#gid=1265714328">Расходуемое имущество</a>
 
 ---
 
