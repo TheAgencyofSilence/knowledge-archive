@@ -2004,8 +2004,10 @@ table.lavender-table-1 .title h3 {
     height: auto !important;
 }
 
-.image-left {
+.simon-image {
   float: left;
-  width: 250px;
+  width: 220px !important;
+  max-width: 220px !important;
+  height: auto !important;
   margin: 0 20px 10px 0;
 }
