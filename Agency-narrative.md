@@ -27,7 +27,7 @@
 
     <tr>
         <td class="center">
-            <img src="assets/images/photo1.png"
+            <img src="assets/images/photo1.PNG"
                  alt="photo1"
                  class="single-table-image half-size-image">
         </td>
