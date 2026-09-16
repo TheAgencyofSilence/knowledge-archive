@@ -23,6 +23,18 @@
 
 ---
 
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/photo1.png"
+                 alt="photo1"
+                 class="single-table-image half-size-image">
+        </td>
+    </tr>
+
+</table>
+
 Девиз агентства: **"Ваши тайны - наша репутация"**
 
 ---
