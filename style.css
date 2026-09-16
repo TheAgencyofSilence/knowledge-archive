@@ -2003,3 +2003,9 @@ table.lavender-table-1 .title h3 {
     max-width: 95% !important;
     height: auto !important;
 }
+
+.image-left {
+  float: left;
+  width: 250px;
+  margin: 0 20px 10px 0;
+}
