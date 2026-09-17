@@ -27,5 +27,9 @@
 </div>
 
 ---
+<div class="subnav">
+  <a href="Project-guidelines.html">Управление Проектом</a>
+</div>
+---
 
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
