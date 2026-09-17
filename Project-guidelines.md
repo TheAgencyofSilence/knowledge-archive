@@ -5,7 +5,7 @@
   <a href="SistemaVT.html">Игровая система</a>
   <a href="Homerules.html">Домашние правила</a>
 </nav>
-[Главная](index.md) → [Домашние правила](Homerules.md) → [Лист Персонажа](Character-Sheet.md) → Управление Проектом
+[Главная](index.md) → [Домашние правила](Homerules.md) → Управление Проектом
 ---
 
 
@@ -223,7 +223,7 @@
 <h2>Роли в Группе Управления</h2>
 
 <div class="subnav">
-  <a href="Management-Roles.html"> Роли в Группе Управлени</a>
+  <a href="Management-Roles.html"> Роли в Группе Управления</a>
 </div>
 
 ---
