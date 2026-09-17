@@ -21,6 +21,7 @@
 ---
 
 <div class="subnav">
+  <a href="Project-Vision.html">Общее виденье проекта</a>
   <a href="Project-guidelines.html">Управление Проектом</a>
   <a href="Management-Roles.html"> Роли в Группе Управления</a>
 </div>
