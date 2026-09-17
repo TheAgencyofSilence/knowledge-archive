@@ -4,7 +4,7 @@
   <a href="index.html">Главная</a>
   <a href="SistemaVT.html">Основные правила</a>
   <a href="Homerules.html">Правила «Тишины»</a>
-  <a href="Homerules.html">Кодекс Мастеров</a>
+  <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
