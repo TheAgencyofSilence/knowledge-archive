@@ -7,6 +7,7 @@
   <a href="Homerules.html">Кодекс Мастеров</a>
   <a href="Homerules.html">Организация проекта</a>
 </nav>
+
 [Главная](index.md) → Правила "Тишины"
 
 ---
