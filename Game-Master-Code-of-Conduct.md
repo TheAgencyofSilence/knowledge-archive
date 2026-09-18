@@ -22,7 +22,7 @@
   <a href="General-GM-Rules.html">Общие правила для Мастеров</a>
   <a href="Character-Creation-Guidelines.html">Основные принципы создания персонажей</a>
   <a href="Character-Creation-Tracking.html">Учет Генережек</a>
-  <a href="Payout System.html">Систематизация выплат</a>
+  <a href="Payout-System.html">Систематизация выплат</a>
 </div>
 
 ---
