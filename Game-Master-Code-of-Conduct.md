@@ -18,6 +18,7 @@
 
 <div class="subnav">
   <a href="Becoming-a-Game-Master.html">Порядок становления Мастером</a>
+  <a href="Game-Listing-Guidelines.html">Правила написания обьявлений об играх</a>
   <a href="General-GM-Rules.html">Общие правила для Мастеров</a>
   <a href="Character-Creation-Guidelines.html">Основные принципы создания персонажей</a>
   <a href="Character-Creation-Tracking.html">Учет Генережек</a>
