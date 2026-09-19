@@ -120,4 +120,8 @@
 
 ---
 
+Смотрите также:  <a href="https://theagencyofsilence.github.io/knowledge-archive/segments.html">Список существующих Сегментов</a> 
+
+--
+
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
