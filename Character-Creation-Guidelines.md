@@ -28,7 +28,7 @@
   <a href="Basic-Principles-of-Character-Creation.html">Основные принципы создания персонажей</a>
   <a href="Creation-Organizational-Rules.html">Организационные правила</a>
   <a href="Character-Creation-Process.html">Процесс создания персонажа</a>
-  <a href="111111111111.html">1111111111</a>
+  <a href="Master-Ethics.html">Мастерская этика</a>
 </div>
 
 
