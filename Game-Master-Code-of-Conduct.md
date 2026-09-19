@@ -20,6 +20,7 @@
   <a href="Becoming-a-Game-Master.html">Порядок становления Мастером</a>
   <a href="Game-Listing-Guidelines.html">Правила написания обьявлений об играх</a>
   <a href="General-GM-Rules.html">Общие правила для Мастеров</a>
+  <a href="Creation-and-Rules-of-Segments.html">Создание и правила Сегментов</a>
   <a href="Character-Creation-Guidelines.html">Основные принципы создания персонажей</a>
   <a href="Character-Creation-Tracking.html">Учет Генережек</a>
   <a href="Payout-System.html">Систематизация выплат</a>
