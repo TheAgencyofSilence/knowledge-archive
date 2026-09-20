@@ -2029,15 +2029,31 @@ table.lavender-table-1 .title h3 {
   color: #000000;
 }
 
+.third-category-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+  table-layout: fixed;
+
+  background-color: var(--table-color);
+
+  color: #000000;
+}
+
 .third-category-table th,
 .third-category-table td {
   border: 1px solid #000000;
   padding: 12px 14px;
 
-  /* ЦВЕТ ЯЧЕЕК — ЗАМЕНИ НА СВОЙ */
-  background-color: #fff4df !important; /* ← ТВОЙ ЦВЕТ */
+  background-color: var(--table-color) !important;
 
   color: #000000 !important;
+
+  font-family: inherit !important;
+  font-size: inherit;
+
+  vertical-align: middle;
+}
 
   /* Используем тот же шрифт, что и остальной текст */
   font-family: inherit !important;
