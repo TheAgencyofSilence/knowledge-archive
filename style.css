@@ -2040,18 +2040,20 @@ table.lavender-table-1 .title h3 {
   color: #000000;
 }
 
+.third-category-table,
+.third-category-table th,
+.third-category-table td,
+.third-category-table p {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
 .third-category-table th,
 .third-category-table td {
   border: 1px solid #000000;
   padding: 12px 14px;
-
   background-color: var(--table-color) !important;
-
   color: #000000 !important;
-
-  font-family: inherit !important;
   font-size: inherit;
-
   vertical-align: middle;
 }
 
