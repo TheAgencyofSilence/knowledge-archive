@@ -2012,7 +2012,7 @@ table.lavender-table-1 .title h3 {
   margin: 0 20px 10px 0;
 }
 
-/* ========================================= */
+//* ========================================= */
 /* Задания третьей категории                 */
 /* Сложность: "Средняя"                      */
 /* ========================================= */
@@ -2038,6 +2038,11 @@ table.lavender-table-1 .title h3 {
   background-color: #fff4df !important; /* ← ТВОЙ ЦВЕТ */
 
   color: #000000 !important;
+
+  /* Используем тот же шрифт, что и остальной текст */
+  font-family: inherit !important;
+  font-size: inherit;
+
   vertical-align: middle;
 }
 
@@ -2121,35 +2126,8 @@ table.lavender-table-1 .title h3 {
 .third-category-table .bottom-value {
   text-align: center;
   vertical-align: middle;
+  font-weight: 400;
   white-space: nowrap;
-}
-
-
-/* 40% — Рекомендуемая выплата */
-
-.third-category-table .bottom-title-left {
-  width: 40%;
-}
-
-
-/* 10% — 500 крон */
-
-.third-category-table .bottom-value-left {
-  width: 10%;
-}
-
-
-/* 40% — Максимум */
-
-.third-category-table .bottom-title-right {
-  width: 40%;
-}
-
-
-/* 10% — 750 крон */
-
-.third-category-table .bottom-value-right {
-  width: 10%;
 }
 
 
