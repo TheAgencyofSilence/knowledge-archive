@@ -66,7 +66,7 @@
 
 <details class="expand-block expand-green">
 
-    <summary>Сложность: “Элементарная”</summary>
+    <summary>Сложность: «Элементарная”</summary>
 
     <div class="expand-content">
 
@@ -175,7 +175,7 @@
 
 <details class="expand-block expand-olive-1">
 
-    <summary>Сложность: “Простая”</summary>
+    <summary>Сложность: «Простая»</summary>
 
     <div class="expand-content">
 
@@ -276,7 +276,7 @@
 
 <details class="expand-block expand-gold-2">
 
-    <summary>Сложность: “Средняя”</summary>
+    <summary>Сложность: «Средняя»</summary>
 
     <div class="expand-content">
 
@@ -386,7 +386,7 @@
 
 <details class="expand-block expand-steel-blue-1">
 
-    <summary>Сложность: “Высокая”</summary>
+    <summary>Сложность: «Высокая»</summary>
 
     <div class="expand-content">
 
@@ -487,7 +487,7 @@
 
 <details class="expand-block expand-pink">
 
-    <summary>Сложность: “Безумная”</summary>
+    <summary>Сложность: «Безумная»</summary>
 
     <div class="expand-content">
 
