@@ -98,6 +98,12 @@
 
 ---
 
+<div class="subnav">
+  <a href="Rule of Three Mistakes.html">Правило о трех ошибках</a>
+</div>
+
+---
+
 
 
 
