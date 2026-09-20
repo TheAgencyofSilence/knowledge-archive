@@ -2022,21 +2022,29 @@ table.lavender-table-1 .title h3 {
   border-collapse: collapse;
   margin: 24px 0;
   table-layout: fixed;
+
+  /* ЦВЕТ ФОНА ТАБЛИЦЫ — ЗАМЕНИ НА СВОЙ */
+  background-color: #fff4df; /* ← ТВОЙ ЦВЕТ */
+
   color: #000000;
-  font-family: Georgia, "Times New Roman", serif;
-  background-color: #fff4df;
 }
 
 .third-category-table th,
 .third-category-table td {
   border: 1px solid #000000;
   padding: 12px 14px;
+
+  /* ЦВЕТ ЯЧЕЕК — ЗАМЕНИ НА СВОЙ */
+  background-color: #fff4df !important; /* ← ТВОЙ ЦВЕТ */
+
   color: #000000 !important;
-  background-color: #fff4df !important;
   vertical-align: middle;
 }
 
-/* Главный заголовок */
+
+/* ========================================= */
+/* Главный заголовок                         */
+/* ========================================= */
 
 .third-category-table .main-title {
   text-align: center;
@@ -2046,7 +2054,10 @@ table.lavender-table-1 .title h3 {
   padding: 14px 12px;
 }
 
-/* Заголовки двух основных частей */
+
+/* ========================================= */
+/* Заголовки двух основных частей            */
+/* ========================================= */
 
 .third-category-table .column-title {
   text-align: center;
@@ -2055,7 +2066,10 @@ table.lavender-table-1 .title h3 {
   padding: 12px 10px;
 }
 
-/* Основная информация */
+
+/* ========================================= */
+/* Основная информация                       */
+/* ========================================= */
 
 .third-category-table .description {
   width: 50%;
@@ -2071,7 +2085,10 @@ table.lavender-table-1 .title h3 {
   line-height: 1.5;
 }
 
-/* Абзацы внутри основной части */
+
+/* ========================================= */
+/* Абзацы                                    */
+/* ========================================= */
 
 .third-category-table .description p {
   margin: 0 0 16px 0;
@@ -2081,8 +2098,6 @@ table.lavender-table-1 .title h3 {
   margin-bottom: 0;
 }
 
-/* Список примеров */
-
 .third-category-table .examples p {
   margin: 0 0 12px 0;
 }
@@ -2091,7 +2106,10 @@ table.lavender-table-1 .title h3 {
   margin-bottom: 0;
 }
 
-/* Нижняя часть */
+
+/* ========================================= */
+/* Нижняя строка — 40 / 10 / 40 / 10        */
+/* ========================================= */
 
 .third-category-table .bottom-title {
   text-align: center;
@@ -2103,29 +2121,41 @@ table.lavender-table-1 .title h3 {
 .third-category-table .bottom-value {
   text-align: center;
   vertical-align: middle;
-  font-size: 1em;
   white-space: nowrap;
 }
 
-/* Ширины нижних ячеек */
+
+/* 40% — Рекомендуемая выплата */
 
 .third-category-table .bottom-title-left {
-  width: 38%;
+  width: 40%;
 }
+
+
+/* 10% — 500 крон */
 
 .third-category-table .bottom-value-left {
-  width: 12%;
+  width: 10%;
 }
+
+
+/* 40% — Максимум */
 
 .third-category-table .bottom-title-right {
-  width: 38%;
+  width: 40%;
 }
+
+
+/* 10% — 750 крон */
 
 .third-category-table .bottom-value-right {
-  width: 12%;
+  width: 10%;
 }
 
-/* Мобильная версия */
+
+/* ========================================= */
+/* Мобильная версия                          */
+/* ========================================= */
 
 @media (max-width: 700px) {
   .third-category-table {
