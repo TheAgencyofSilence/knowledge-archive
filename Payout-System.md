@@ -169,6 +169,73 @@
         
       </table>
 
+      <table class="third-category-table table-yellow111">
+
+          <tr>
+            <th colspan="3" class="main-title">
+              Альтернативные награды
+            </th>
+          </tr>
+        
+          <tr>
+            <th class="column-title" style="width: 40%;">
+              Название
+            </th>
+            <th class="column-title" style="width: 40%;">
+              Примеры
+            </th>
+            <th class="column-title" style="width: 20%;">
+              Стоимость в<br>эквиваленте
+            </th>
+          </tr>
+        
+          <tr>
+            <td class="description">
+              Высококлассный предмет 4й категории Технокатха
+            </td>
+        
+            <td class="examples">
+              Боевой молот со свойствами:
+              [Увесистый: 1]
+              [Оглушающий: 2],
+              [Калечащий: 1]
+            </td>
+        
+            <td>
+              ~ 1200 крон
+            </td>
+          </tr>
+        
+          <tr>
+            <td class="description">
+              Предмет с огромной ценностью
+            </td>
+        
+            <td class="examples">
+              Коллекция старинных редких книг и манускриптов, раритетные драгоценности
+            </td>
+        
+            <td>
+              ~ 1000 крон
+            </td>
+          </tr>
+        
+          <tr>
+            <td class="description">
+              Новая Связь или Знания
+              (Если итоговое значение не превышает показатель «6»)
+            </td>
+        
+            <td class="examples">
+              Влиятельный аристократ в благодарность за вызволение своего сына, готов обеспечить агентам членство в закрытом клубе, что дает связь в Аристократии.
+            </td>
+        
+            <td>
+            </td>
+          </tr>
+        
+        </table>
+
     </div>
 
 </details>
