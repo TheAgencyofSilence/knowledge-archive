@@ -66,7 +66,7 @@
 
 <details class="expand-block expand-green">
 
-    <summary>Сложность: «Элементарная”</summary>
+    <summary>Сложность: «Элементарная»</summary>
 
     <div class="expand-content">
 
