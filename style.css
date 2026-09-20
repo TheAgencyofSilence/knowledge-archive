@@ -2011,3 +2011,133 @@ table.lavender-table-1 .title h3 {
   height: auto !important;
   margin: 0 20px 10px 0;
 }
+
+/* ========================================= */
+/* Задания третьей категории                 */
+/* Сложность: "Средняя"                      */
+/* ========================================= */
+
+.third-category-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+  table-layout: fixed;
+  color: #000000;
+  font-family: Georgia, "Times New Roman", serif;
+  background-color: #fff4df;
+}
+
+.third-category-table th,
+.third-category-table td {
+  border: 1px solid #000000;
+  padding: 12px 14px;
+  color: #000000 !important;
+  background-color: #fff4df !important;
+  vertical-align: middle;
+}
+
+/* Главный заголовок */
+
+.third-category-table .main-title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.45em;
+  line-height: 1.25;
+  padding: 14px 12px;
+}
+
+/* Заголовки двух основных частей */
+
+.third-category-table .column-title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1em;
+  padding: 12px 10px;
+}
+
+/* Основная информация */
+
+.third-category-table .description {
+  width: 50%;
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.35;
+}
+
+.third-category-table .examples {
+  width: 50%;
+  text-align: left;
+  vertical-align: middle;
+  line-height: 1.5;
+}
+
+/* Абзацы внутри основной части */
+
+.third-category-table .description p {
+  margin: 0 0 16px 0;
+}
+
+.third-category-table .description p:last-child {
+  margin-bottom: 0;
+}
+
+/* Список примеров */
+
+.third-category-table .examples p {
+  margin: 0 0 12px 0;
+}
+
+.third-category-table .examples p:last-child {
+  margin-bottom: 0;
+}
+
+/* Нижняя часть */
+
+.third-category-table .bottom-title {
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.third-category-table .bottom-value {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1em;
+  white-space: nowrap;
+}
+
+/* Ширины нижних ячеек */
+
+.third-category-table .bottom-title-left {
+  width: 38%;
+}
+
+.third-category-table .bottom-value-left {
+  width: 12%;
+}
+
+.third-category-table .bottom-title-right {
+  width: 38%;
+}
+
+.third-category-table .bottom-value-right {
+  width: 12%;
+}
+
+/* Мобильная версия */
+
+@media (max-width: 700px) {
+  .third-category-table {
+    font-size: 0.9em;
+  }
+
+  .third-category-table th,
+  .third-category-table td {
+    padding: 8px 7px;
+  }
+
+  .third-category-table .main-title {
+    font-size: 1.2em;
+  }
+}
