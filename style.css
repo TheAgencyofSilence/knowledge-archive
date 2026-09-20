@@ -2112,9 +2112,9 @@ table.lavender-table-1 .title h3 {
 /* ========================================= */
 
 .third-category-table .bottom-title {
-  text-align: center;
+  text-align: left;
   vertical-align: middle;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.25;
 }
 
