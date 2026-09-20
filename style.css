@@ -2165,3 +2165,27 @@ table.lavender-table-1 .title h3 {
     font-size: 1.2em;
   }
 }
+
+/* ========================================= */
+/* Цвета таблиц Систематизации               */
+/* ========================================= */
+
+.table-green111 {
+  --table-color: #b9d7a8;
+}
+
+.table-olive111 {
+  --table-color: #a6ad7a;
+}
+
+.table-yellow111 {
+  --table-color: #E4BC4F;
+}
+
+.table-purple111 {
+  --table-color: #a3a0b8;
+}
+
+.table-pink111 {
+  --table-color: #edc2c2;
+}
