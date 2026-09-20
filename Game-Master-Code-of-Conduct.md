@@ -27,7 +27,6 @@
   <a href="Game-Listing-Guidelines.html">Правила написания обьявлений об играх</a>
   <a href="General-GM-Rules.html">Общие правила для Мастеров</a>
   <a href="Character-Creation-Guidelines.html">Создание персонажей игроков</a>
-  <a href="Character-Creation-Tracking.html">Учет Генережек</a>
   <a href="Payout-System.html">Систематизация выплат</a>
   <a href="Creation-and-Rules-of-Segments.html">Создание и правила Сегментов</a>
 </div>
