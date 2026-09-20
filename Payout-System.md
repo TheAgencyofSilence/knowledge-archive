@@ -173,7 +173,7 @@
 
 </details>
 
-<details class="expand-block expand-olive-1">
+<details class="expand-block expand-steel-blue-1">
 
     <summary>Сложность: «Простая»</summary>
 
