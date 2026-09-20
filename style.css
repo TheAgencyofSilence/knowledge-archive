@@ -2057,13 +2057,6 @@ table.lavender-table-1 .title h3 {
   vertical-align: middle;
 }
 
-  /* Используем тот же шрифт, что и остальной текст */
-  font-family: inherit !important;
-  font-size: inherit;
-
-  vertical-align: middle;
-}
-
 
 /* ========================================= */
 /* Главный заголовок                         */
