@@ -313,7 +313,7 @@
             </td>
         
             <td class="bottom-value">
-              <p>250 крон</p>
+              <p>250 <br>крон</p>
             </td>
         
             <td class="bottom-title">
@@ -681,7 +681,7 @@
             </td>
         
             <td class="bottom-value">
-              <p>750 крон</p>
+              <p>750<br> крон</p>
             </td>
         
             <td class="bottom-title">
@@ -863,7 +863,7 @@
             </td>
         
             <td class="bottom-value">
-              <p>1000 крон</p>
+              <p>1000<br> крон</p>
             </td>
         
             <td class="bottom-title">
