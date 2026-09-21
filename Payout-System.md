@@ -501,7 +501,7 @@
             </td>
         
             <td class="bottom-value">
-              <p>500 крон</p>
+              <p>500<br> крон</p>
             </td>
         
             <td class="bottom-title">
