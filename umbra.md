@@ -8,7 +8,11 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
+---
+
 [Главная](index.md) → [Игровая система](SistemaVT.md) → Морок
+
+---
 
 # Морок
 
