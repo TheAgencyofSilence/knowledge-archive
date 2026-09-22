@@ -1,10 +1,13 @@
 <link rel="stylesheet" href="style.css">
 
 <nav class="navbar">
-  <a href="index.html">Главная</a>
-  <a href="SistemaVT.html">Игровая система</a>
-  <a href="Homerules.html">Домашние правила</a>
+  <a href="start.html">Старт</a>
+  <a href="SistemaVT.html">Основы игровой системы</a>
+  <a href="Homerules.html">Правила «Тишины»</a>
+  <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
+  <a href="Project-Organization.html">Организация проекта</a>
 </nav>
+
 [Главная](index.md) → [Игровая система](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг третий: Навыки](3-skills.md) → [Разум](3-mind.md) → Аутоиммерсия
 
 # Аутоиммерсия
