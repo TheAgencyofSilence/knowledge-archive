@@ -26,7 +26,6 @@
   <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
   <a href="Agent-Word.html">Слово Агента</a>
   <a href="segments.html">Сегменты</a>
-  <a href="Community-Code-of-Conduct.html">Правила поведения в сообществе</a> 
   <a href="Parallelism.html">Параллелизм</a>
   <a href="Useful-Links.html">Полезные ссылки</a>
 </div>
