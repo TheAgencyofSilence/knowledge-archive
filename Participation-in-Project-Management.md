@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="style.css">
 
 <nav class="navbar">
-  <a href="index.html">Главная</a>
-  <a href="SistemaVT.html">Основные правила</a>
+  <a href="start.html">Старт</a>
+  <a href="SistemaVT.html">Основы игровой системы</a>
   <a href="Homerules.html">Правила «Тишины»</a>
   <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
   <a href="Project-Organization.html">Организация проекта</a>
