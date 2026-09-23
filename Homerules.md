@@ -19,7 +19,6 @@
 
 <div class="subnav">
   <a href="Agency-narrative.html">Описание «Тишины»</a>
-  <a href="Character-Sheet.html">Лист Персонажа</a>
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
   <a href="talents.html">Создание Талантов</a>
