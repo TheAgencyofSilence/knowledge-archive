@@ -27,7 +27,7 @@
   <a href="Agent-Word.html">Слово Агента</a>
   <a href="segments.html">Сегменты</a>
   <a href="Parallelism.html">Параллелизм</a> 
-  <a href="Warnings-and-Sanctions-System.html">Система предупрждений и санкций</a>
+  <a href="Warnings-and-Sanctions-System.html">Система предупреждений и санкций</a>
   <a href="Useful-Links.html">Полезные ссылки</a>
 </div>
 
