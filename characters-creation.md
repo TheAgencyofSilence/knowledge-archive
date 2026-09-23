@@ -24,8 +24,7 @@ _**Милена Цаних**_
   <a href="1-phenotype.html">Шаг первый: Фенотип</a>
   <a href="2-background.html">Шаг второй: Предыстория</a>
   <a href="3-skills.html">Шаг третий: Навыки</a>
-  <a href="4-talents.html">Шаг четвертый: Таланты</a>
-  <a href="5-final-tips.html">Шаг пятый: Завершающие черты</a>
+  <a href="5-final-tips.html">Шаг четвертый: Завершающие черты</a>
 
 </div>
 
