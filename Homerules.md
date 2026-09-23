@@ -21,6 +21,8 @@
   <a href="Agency-narrative.html">Описание «Тишины»</a>
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
+  <a href="items-creation.html">Процесс создания предметов</a>
+  <a href="special-skills.html">Детальный разбор особых навыков</a>
   <a href="talents.html">Создание Талантов</a>
   <a href="Downtime.html">Инициативы, возможности и свободное время</a>
   <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
