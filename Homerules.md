@@ -18,7 +18,6 @@
 
 
 <div class="subnav">
-  <a href="Agency-narrative.html">Описание «Тишины»</a>
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
   <a href="items-creation.html">Процесс создания предметов</a>
