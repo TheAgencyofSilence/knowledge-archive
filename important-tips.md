@@ -3,7 +3,7 @@ layout: default
 ---
 
 <nav class="navbar">
-  <a href="start.html">Старт</a>
+  <a href="start.html">Введение</a>
   <a href="SistemaVT.html">Основы игровой системы</a>
   <a href="Homerules.html">Правила «Тишины»</a>
   <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
