@@ -18,7 +18,7 @@
 <div class="subnav">
   <a href="prologue.html">Пролог</a>
   <a href="important-details.html">Важные детали</a>
-  <a href="Agency-narrative.html">Описание «Тишины»</a>
+  <a href="Agency-narrative.html">Описание агентства</a>
   <a href="basics.html">Основы</a>
   <a href="characters-creation.html">Создание персонажей</a>
   <a href="life-stats.html">Жизненные показатели персонажей</a>
