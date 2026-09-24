@@ -115,11 +115,8 @@
 
 <h2>Как устанавливают протезы?</h2>
 
-Подбробнее об этом можно почитать в соответствующей главе правил:
+Подбробнее об этом можно почитать в соответствующей главе правил: <a href="https://theagencyofsilence.github.io/knowledge-archive/prosthetic-installation.html">«Установка протезов»</a>
 
-<div class="subnav">
-  <a href="prosthetic-installation.html">Установка протезов</a>
-</div>
 
 ---
 
