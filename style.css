@@ -2183,3 +2183,24 @@ table.lavender-table-1 .title h3 {
 .table-pink111 {
   --table-color: #edc2c2;
 }
+
+/* ========================================= */
+/* Изображение Симона в серой рамке          */
+/* ========================================= */
+
+.simon-image-frame {
+  float: left;
+  width: 220px;
+  box-sizing: border-box;
+  padding: 5px;
+  border: 1px solid #d0d7de;
+  background-color: #ffffff;
+  margin: 0 20px 12px 0;
+}
+
+.simon-image-frame img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
