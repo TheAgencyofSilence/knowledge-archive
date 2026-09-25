@@ -16,7 +16,7 @@
 # Подразделы
 
 <div class="subnav">
-  <a href="prologue.html">Пролог</a>
+  <a href="prologue.html">Условные обозначения</a>
   <a href="important-details.html">Важные детали</a>
   <a href="Agency-narrative.html">Описание агентства</a>
   <a href="basics.html">Базовая механика бросков</a>
