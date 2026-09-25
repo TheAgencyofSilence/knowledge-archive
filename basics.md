@@ -33,7 +33,7 @@ _**Дара Ривер**_
 ---
 
 <div class="subnav">
-  <a href="roll.html">Бросок</a>
+  <a href="roll.html">Правила бросков</a>
   <a href="actions-type.html">Виды действий</a>
   <a href="advantages.html">Создание преимуществ</a>
   <a href="additional-dice.html">Дополнительные кубики</a>
