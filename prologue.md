@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → Пролог
+[Главная](index.md) → [Игровая система](SistemaVT.md) → Условные обозначения
 
 <h2>Условные обозначения</h2> 
 
