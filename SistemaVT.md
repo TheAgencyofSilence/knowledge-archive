@@ -20,6 +20,7 @@
   <a href="important-details.html">Важные детали</a>
   <a href="Agency-narrative.html">Описание агентства</a>
   <a href="basics.html">Базовая механика бросков</a>
+  <a href="time.html">Время</a>
   <a href="characters-creation.html">Создание персонажей</a>
   <a href="life-stats.html">Жизненные показатели персонажей</a>
   <a href="fighting.html">Боевые сцены</a>
