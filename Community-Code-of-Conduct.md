@@ -96,6 +96,10 @@
 
 ---
 
+После прочтения этих правил - смело переходите в первый раздел - <a href="https://theagencyofsilence.github.io/knowledge-archive/SistemaVT.html">«Основы игровой системы»</a> 
+
+---
+
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
 
