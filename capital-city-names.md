@@ -7,7 +7,10 @@
   <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Важные детали](important-details.md) → Имена Столицы
+
+[Основы игровой системы](SistemaVT.md) → [Важные детали](important-details.md) → Имена Столицы
+
+---
 
 # Имена Столицы
 
