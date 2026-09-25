@@ -21,7 +21,7 @@
 <div class="subnav">
   <a href="prologue.html">Условные обозначения</a>
   <a href="important-details.html">Важные детали</a>
-  <a href="Agency-narrative.html">Описание агентства</a>
+  <a href="Agency-narrative.html">Описание Агентства</a>
   <a href="basics.html">Базовая механика бросков</a>
   <a href="time.html">Время</a>
   <a href="characters-creation.html">Создание персонажей</a>
