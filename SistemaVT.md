@@ -29,6 +29,7 @@
   <a href="social.html">Социальные взаимодействия</a>
   <a href="madness.html">Безумие</a>
   <a href="umbra.html">Морок</a>
+  <a href="Narrative.html">О Столице и Агентстве</a>
   <a href="inventory.html">Инвентарь</a>
   <a href="Character-Sheet.html">Лист Персонажа</a>
   <a href="gamevision.html">Общее виденье игры</a>
