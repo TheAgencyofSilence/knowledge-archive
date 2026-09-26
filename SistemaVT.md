@@ -20,8 +20,6 @@
 
 <div class="subnav">
   <a href="prologue.html">Пролог</a>
-  <a href="important-details.html">Важные детали</a>
-  <a href="Agency-narrative.html">Описание Агентства</a>
   <a href="basics.html">Базовая механика проверок</a>
   <a href="life-stats.html">Основные показатели персонажей</a>
   <a href="time.html">Время</a>
