@@ -47,6 +47,11 @@
 
 <a href="characters-creation.html">Создание персонажей</a>
 
+<div class="subnav">
+<a href="characters-creation.html">Создание персонажей</a>
+</div>
+
+
 ---
 
 <a href="index.html" class="button">← Назад на главную</a>
