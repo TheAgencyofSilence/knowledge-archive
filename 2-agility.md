@@ -8,7 +8,9 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг третий: Навыки](3-skills.md) → Проворство
+[Основы игровой системы](SistemaVT.md) → [Основные показатели персонажей](stats.md) → [Навыки](skills.md) → Проворство
+
+---
 
 # Проворство
 
