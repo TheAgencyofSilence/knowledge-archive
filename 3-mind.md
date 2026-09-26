@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Основы игровой системы](SistemaVT.md) → [Основные показатели персонажей](stats.md) → [Навыки](skills.md) → Разум
+[Основы игровой системы](SistemaVT.md) → [Показатели персонажей](stats.md) → [Навыки](skills.md) → Разум
 
 ---
 
