@@ -130,8 +130,8 @@
     <!-- Строка 1 -->
     <tr>
         <td class="image-cell">
-            <img src="assets/images/plan1.png"
-                 alt="plan1"
+            <img src="assets/images/provors.png"
+                 alt="provors"
                  class="image-text-picture">
         </td>
 
@@ -156,8 +156,8 @@
     <!-- Строка 1 -->
     <tr>
         <td class="image-cell">
-            <img src="assets/images/naviki1.png"
-                 alt="naviki1"
+            <img src="assets/images/Siz111.png"
+                 alt="Siz111"
                  class="image-text-picture">
         </td>
 
