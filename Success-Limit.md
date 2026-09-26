@@ -53,8 +53,13 @@
 
 Повторно напомним, что дополнительные кубики от предметов, Талантов, Азарта, Стресса и Проворства бросаются **отдельно** от кубиков самого навыка. 
 
-<table class="green-table">
+<div class="note note-green">
+                      <img src="assets/images/zdr1.png"
+                           alt="zdr1"
+                           class="image-text-picture">
+</div>
 
+<div class="note note-green">
             <tr>
                 <td class="image-cell">
                       <img src="assets/images/zdr1.png"
@@ -62,9 +67,7 @@
                            class="image-text-picture">
                 </td>
             </tr>
-            
-            
-</table>
+</div>
 
 
 ---
