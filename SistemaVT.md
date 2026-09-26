@@ -23,8 +23,8 @@
   <a href="important-details.html">Важные детали</a>
   <a href="Agency-narrative.html">Описание Агентства</a>
   <a href="basics.html">Базовая механика проверок</a>
+  <a href="life-stats.html">Основные показатели персонажей</a>
   <a href="time.html">Время</a>
-  <a href="life-stats.html">Жизненные показатели персонажей</a>
   <a href="fighting.html">Боевые сцены</a>
   <a href="social.html">Социальные взаимодействия</a>
   <a href="madness.html">Безумие</a>
