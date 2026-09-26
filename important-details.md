@@ -129,11 +129,5 @@ _**Дара Ривер и Фитц**_
 
 ---
 
-<div class="subnav">
-  <a href="capital-city-names.html">Имена Столицы</a>
-</div>
-
----
-
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
 
