@@ -56,10 +56,10 @@
 <table class="green-table">
 
             <tr>
-                <td colspan="3" class="title">
-                    <img src="assets/images/artskill.jpg"
-                         alt="artskill"
-                         class="three-column-image">
+                <td class="image-cell">
+                      <img src="assets/images/zdr1.png"
+                           alt="zdr1"
+                           class="image-text-picture">
                 </td>
             </tr>
             
