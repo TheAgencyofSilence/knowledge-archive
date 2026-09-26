@@ -31,7 +31,7 @@
 
 <div class="subnav">
   <a href="health.html">Здоровье</a>
-  <a href="health-crisis.html">Кризис: Здоровье</a>
+  <a href="health-crisis.html">Кризисы Здоровья и Травмы</a>
   <a href="sanity.html">Рассудок</a>
   <a href="sanity-crisis">Кризис: Рассудок</a>
   <a href="restoration.html">Лечение. Восстановление Здоровья и Рассудка</a>
