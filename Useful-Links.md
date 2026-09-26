@@ -66,9 +66,17 @@
 
 ---
 
-<h2>Ютуб</h2> 
+<h2>Ютуб и видео</h2> 
 
   •  <a href="https://youtube.com/@agency-silence?si=BrxMPUu4uQY_3APY">Наш ютюб-канал</a> (там иногда выходят видео)
+  
+  •  <a href="https://www.youtube.com/watch?v=bQQGRt_kI-E">Видео об устройстве проекта</a> 
+
+  •  <a href="https://www.youtube.com/watch?v=bmPXQZw0QBA">Видео-введение в сэттинг</a> 
+  
+  •  <a href="https://vk.com/video/@feleeas?z=video66330231_456240305%2Fpl_66330231_-2">Видео об устройстве проекта в вк</a> (на случай, если у вас заблокирован Youtube)
+
+  •  <a href="https://vk.com/video66330231_456240307">Видео-введение в сэттинг</a> (на случай, если у вас заблокирован Youtube)
 
 ---
 
