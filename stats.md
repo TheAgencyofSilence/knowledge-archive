@@ -37,7 +37,7 @@
   <a href="sanity.html">Рассудок</a>
   <a href="sanity-crisis">Кризисы Рассудка</a>
   <a href="life-stats-and-how-to-play.html">Состояния персонажа и как с ними играть</a>
-  <a href="restoration.html">Лечение. Восстановление Здоровья и Рассудка</a>
+  <a href="restoration.html">Регенерация, Восстановление Здоровья и Рассудка</a>
 </div>
 
 ---
