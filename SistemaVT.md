@@ -22,7 +22,6 @@
   <a href="prologue.html">Пролог</a>
   <a href="basics.html">Базовая механика проверок</a>
   <a href="stats.html">Показатели персонажей</a>
-  <a href="time.html">Время</a>
   <a href="fighting.html">Боевые сцены</a>
   <a href="social.html">Социальные взаимодействия</a>
   <a href="madness.html">Безумие</a>
