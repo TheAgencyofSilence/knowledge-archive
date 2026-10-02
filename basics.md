@@ -37,9 +37,10 @@ _**Дара Ривер**_
   <a href="roll.html">Бросок кубиков</a>
   <a href="actions-type.html">Виды действий</a>
   <a href="advantages.html">Создание преимуществ</a>
-  <a href="problems.html">Проблемы, нехватка и избыток времени</a>
+  <a href="problems.html">Проблемы</a>
   <a href="additional-dice.html">Дополнительные кубики</a>
   <a href="Success-Limit.html">Предел Успехов и Сверхуспехи</a>
+  <a href="Success-Limit.html">Время</a>
 </div>
 
 ---
