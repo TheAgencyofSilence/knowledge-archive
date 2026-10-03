@@ -27,7 +27,6 @@
   <a href="madness.html">Безумие</a>
   <a href="umbra.html">Морок</a>
   <a href="important-details.html">Важные детали о Столице</a>
-  <a href="Agency-narrative.html">Описание Агентства</a>
   <a href="inventory.html">Инвентарь</a>
   <a href="Character-Sheet.html">Лист Персонажа</a>
   <a href="gamevision.html">Общее виденье игры</a>
