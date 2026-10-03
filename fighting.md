@@ -26,7 +26,7 @@ _**Зеленый**_
 ---
 
 <div class="subnav">
-  <a href="fight-scene-start-and-turn-order.html">Начало боевой сцены: Очередность</a>
+  <a href="fight-scene-start-and-turn-order.html">Начало боевой сцены: Часы очередности</a>
   <a href="actions-in-fight.html">Действия в бою</a>
   <a href="damage.html">Урон</a>
   <a href="zones-armor-covers.html">Зоны боя. Броня и укрытия</a>
