@@ -24,8 +24,8 @@
 
     <tr>
         <td class="center">
-            <img src="assets/images/timer.png"
-                 alt="timer"
+            <img src="assets/images/greenintox1.png"
+                 alt="greenintox1"
                  class="single-table-image vehi-predistorii-image2">
         </td>
     </tr>
