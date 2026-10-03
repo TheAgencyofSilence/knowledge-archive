@@ -26,40 +26,21 @@
 
 Как это записано в чарнике:
 
-<table class="simple-table">
-
-    <colgroup>
-        <col style="width:50%;">
-        <col style="width:50%;">
-    </colgroup>
+<table class="simple-table center-all-table">
 
     <tr>
-
         <td class="center">
             <img src="assets/images/Bezum1.png"
                  alt="Bezum1"
-                 class="bezum-icon-large">
+                 class="single-table-image vehi-predistorii-image">
         </td>
-
     </tr>
-
-</table>
-
-<table class="simple-table">
-
-    <colgroup>
-        <col style="width:50%;">
-        <col style="width:50%;">
-    </colgroup>
-
     <tr>
-
         <td class="center">
             <img src="assets/images/Bezum2.png"
                  alt="Bezum2"
-                 class="bezum-icon-large">
+                 class="single-table-image vehi-predistorii-image">
         </td>
-
     </tr>
 
 </table>
