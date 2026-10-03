@@ -132,7 +132,7 @@
             <strong>Защита от атаки ближнего боя</strong>
         </td>
 
-        <td class="text-cell">
+        <td class="image-cell">
             <strong>Защита от дистанционных атак</strong>
         </td>
     </tr>
@@ -142,7 +142,7 @@
             <p>Рукопашный бой, Тяжелое оружие, Фехтование, Подвижность</p>
         </td>
 
-        <td class="text-cell">
+        <td class="image-cell">
             <p> Подвижность, Аккуратность, Скрытность</p>
         </td>
     </tr>
