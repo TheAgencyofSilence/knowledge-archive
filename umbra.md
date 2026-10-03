@@ -190,8 +190,8 @@ _**Милена Цаних**_
         <th style="font-size:1.4em; font-weight:700;">
             <p>Свет</p>
         </th>
-        <th style="font-size:1.4em; font-weight:700;">
-            <p>ㅤ<i>или</i></p>
+        <th style="font-size:1.4em; font-weight:700; text-align:center;">
+            <p><i>или</i></p>
         </th>
         <th style="font-size:1.4em; font-weight:700;">
             <p>Тьма</p>
@@ -203,7 +203,7 @@ _**Милена Цаних**_
         <td>
             <p>Я могу рискнуть жизнью ради этого.</p>
         </td>
-        <td>
+        <td style="text-align:center;">
             <p><i>Или</i></p>
         </td>
         <td>
@@ -216,7 +216,7 @@ _**Милена Цаних**_
         <td>
             <p>Мне будет невыгодно, но это правильно.</p>
         </td>
-        <td>
+        <td style="text-align:center;">
             <p><i>Или</i></p>
         </td>
         <td>
@@ -229,7 +229,7 @@ _**Милена Цаних**_
         <td>
             <p>Я не могу не сделать этого.</p>
         </td>
-        <td>
+        <td style="text-align:center;">
             <p><i>Или</i></p>
         </td>
         <td>
@@ -242,7 +242,7 @@ _**Милена Цаних**_
         <td>
             <p>Этого не должно было произойти.</p>
         </td>
-        <td>
+        <td style="text-align:center;">
             <p><i>Или</i></p>
         </td>
         <td>
@@ -255,20 +255,20 @@ _**Милена Цаних**_
         <td>
             <p>Мы должны помочь всем.</p>
         </td>
-        <td>
+        <td style="text-align:center;">
             <p><i>Или</i></p>
         </td>
         <td>
             <p>Всем не поможешь, думаем о себе.</p>
         </td>
     </tr>
-    
+
     <!-- Строка 8 -->
     <tr>
         <td>
             <p>Мне это важнее, но я отдам это.</p>
         </td>
-        <td>
+        <td style="text-align:center;">
             <p><i>Или</i></p>
         </td>
         <td>
