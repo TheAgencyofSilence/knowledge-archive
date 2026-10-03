@@ -40,7 +40,7 @@ _**Дара Ривер**_
   <a href="problems.html">Проблемы</a>
   <a href="additional-dice.html">Дополнительные кубики</a>
   <a href="Success-Limit.html">Предел Успехов и Сверхуспехи</a>
-  <a href="Success-Limit.html">Время</a>
+  <a href="time.html">Время</a>
 </div>
 
 ---
