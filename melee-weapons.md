@@ -8,7 +8,9 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Инвентарь](inventory.md) → Оружие ближнего боя
+[Основы игровой системы](SistemaVT.md) → [Инвентарь](inventory.md) → Оружие ближнего боя
+
+---
 
 # Оружие ближнего боя
 
