@@ -26,9 +26,6 @@
 
 <p style="text-align: center;">Как это записано в чарнике:</p>
 
-<p style="text-align: center;">
-    Как это записано в чарнике:
-</p>
 
 <table class="simple-table center-all-table">
 
