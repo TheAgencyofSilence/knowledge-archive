@@ -24,7 +24,11 @@
 
 Третий пункт безумия появляется уже на игре, когда в Мороке ее имя услышал Шепот и ввел ее в кризис рассудка. Ее новая императивная установка - “Никто не должен знать мое имя”. Теперь даже представиться исполнителям или довериться другу для нее - крайне сложная задача. И конечно, добавим проявление - “Крики ворон”, которые она слышит, стоит ей подумать о своем имени, которое знает Шепот. 
 
-Как это записано в чарнике:
+<p style="text-align: center;">Как это записано в чарнике:</p>
+
+<p style="text-align: center;">
+    Как это записано в чарнике:
+</p>
 
 <table class="simple-table center-all-table">
 
@@ -35,11 +39,16 @@
                  class="single-table-image vehi-predistorii-image">
         </td>
     </tr>
+
+</table>
+
+<table class="simple-table center-all-table">
+
     <tr>
         <td class="center">
             <img src="assets/images/Bezum2.png"
                  alt="Bezum2"
-                 class="single-table-image vehi-predistorii-image">
+                 class="single-table-image half-size-image">
         </td>
     </tr>
 
