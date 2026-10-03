@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → Боевые сцены
+[Основы игровой системы](SistemaVT.md) → Боевые сцены
 
 ---
 
