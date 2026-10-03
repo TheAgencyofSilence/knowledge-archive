@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a> 
 </nav>
 
-[Основы игровой системы](SistemaVT.md) → Время
+[Основы игровой системы](SistemaVT.md) → [Базовые механики](basics.md) → Время
 
 ---
 
