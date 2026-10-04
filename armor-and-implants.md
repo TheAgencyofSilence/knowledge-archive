@@ -80,11 +80,11 @@
     <!-- Строка 1 -->
     <tr>
         <td class="image-cell">
-            <p><strong>Броня первого уровня</strong></p>
+            <p><strong>Внешний вид брони первого уровня</strong></p>
         </td>
 
         <td class="image-cell">
-            <p><strong>Броня второго уровня</strong></p> 
+            <p><strong>Внешний вид брони второго уровня</strong></p> 
         </td>
     </tr>
 
