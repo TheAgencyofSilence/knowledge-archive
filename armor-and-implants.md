@@ -54,6 +54,45 @@
 
 </table>
 
+<table class="simple-table image-text-table">
+
+    <colgroup>
+        <col style="width:50%;">
+        <col style="width:50%;">
+    </colgroup>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="image-cell">
+            <p><strong>Броня первого уровня</strong></p>
+        </td>
+
+        <td class="image-cell">
+            <p><strong>Броня второго уровня</strong></p> 
+        </td>
+    </tr>
+
+    <!-- Строка 2 -->
+    <tr>
+        <td class="image-cell">
+            <img src="assets/images/br1.jpg"
+                 alt="br1"
+                 class="image-text-picture">
+        </td>
+        <td class="image-cell">
+            <img src="assets/images/br2.jpg"
+                 alt="br2"
+                 class="image-text-picture">
+        </td>
+
+
+    </tr>
+
+
+</table>
+
+
+
 
 <table class="simple-table">
 
