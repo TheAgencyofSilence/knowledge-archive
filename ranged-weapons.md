@@ -57,27 +57,51 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Кустарник</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Одно- и чуть реже двух- и более зарядное оружие разных калибров, сделанное в “домашних” условиях.</td>
+              <td class="vertical-center">
+                <p><strong>Кустарник</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Одно- и чуть реже двух- и более зарядное оружие разных калибров, сделанное в “домашних” условиях.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Лук</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Как самодельное, так и специализированное оружие. Используется бандами степняков из-за доступности или культового смысла, а специалистами из-за возможности стрельбы особыми типами боеприпасов.</td>
+              <td class="vertical-center">
+                <p><strong>Лук</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Как самодельное, так и специализированное оружие. Используется бандами степняков из-за доступности или культового смысла, а специалистами из-за возможности стрельбы особыми типами боеприпасов.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Рогатки, пращи</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Не используют стандартные боеприпасы, но могут эффективно использоваться для метания камней, гранат, насекомых, бомб и прочего</td>
+              <td class="vertical-center">
+                <p><strong>Рогатки, пращи</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Не используют стандартные боеприпасы, но могут эффективно использоваться для метания камней, гранат, насекомых, бомб и прочего</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Пневмометы</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Чаще всего самодельное оружие, использующее различные сжатые газы для стрельбы</td>
+              <td class="vertical-center">
+                <p><strong>Пневмометы</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Чаще всего самодельное оружие, использующее различные сжатые газы для стрельбы</p>
+              </td>
             </tr>
         
         </table>
@@ -97,9 +121,15 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Револьвер</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Самое обычное и распространенное заводское оружие Столицы</td>
+              <td class="vertical-center">
+                <p><strong>Револьвер</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Самое обычное и распространенное заводское оружие Столицы</p>
+              </td>
             </tr>
         
         </table>
@@ -119,39 +149,75 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Мультикамерный револьвер</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Револьвер с несколькими стволами или несколькими переключаемыми барабанами.</td>
+              <td class="vertical-center">
+                <p><strong>Мультикамерный револьвер</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Револьвер с несколькими стволами или несколькими переключаемыми барабанами.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Полуавтоматический пистолет</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Обычный пистолет армейского или гражданского образца</td>
+              <td class="vertical-center">
+                <p><strong>Полуавтоматический пистолет</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Обычный пистолет армейского или гражданского образца</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Карабин</strong></td>
-              <td class="vertical-center">[Неподалеку, Далеко]</td>
-              <td class="vertical-center">Штурмовое полуавтоматическое оружие</td>
+              <td class="vertical-center">
+                <p><strong>Карабин</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Неподалеку, Далеко]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Штурмовое полуавтоматическое оружие</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Арбалеты/гарпуны</strong>]</td>
-              <td class="vertical-center">[Неподалеку, Далеко]</td>
-              <td class="vertical-center">Штатное оружие многих банд и спецслужб в условиях невозможности использования открытых источников пламени или необходимости тихих действий</td>
+              <td class="vertical-center">
+                <p><strong>Арбалеты/гарпуны</strong>]</p>
+              </td>
+              <td class="vertical-center">
+                <p>[Неподалеку, Далеко]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Штатное оружие многих банд и спецслужб в условиях невозможности использования открытых источников пламени или необходимости тихих действий</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Винтовка</strong></td>
-              <td class="vertical-center">[Неподалеку, Далеко]</td>
-              <td class="vertical-center">Обычное оружие смотрителей крыш, охотников из Степи или военных</td>
+              <td class="vertical-center">
+                <p><strong>Винтовка</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Неподалеку, Далеко]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Обычное оружие смотрителей крыш, охотников из Степи или военных</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Протезное стрелковое оружие</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Огнестрельное или метательное оружие, встроенное в различные механические протезы или устройства</td>
+              <td class="vertical-center">
+                <p><strong>Протезное стрелковое оружие</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Огнестрельное или метательное оружие, встроенное в различные механические протезы или устройства</p>
+              </td>
             </tr>
         
         </table>
@@ -171,33 +237,63 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Автоматический пистолет</strong></td>
-              <td class="vertical-center">[Близко, Неподалеку]</td>
-              <td class="vertical-center">Пистолет с функцией автоматического огня</td>
+              <td class="vertical-center">
+                <p><strong>Автоматический пистолет</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Близко, Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Пистолет с функцией автоматического огня</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Пистолет-пулемет</strong></td>
-              <td class="vertical-center">[Неподалеку]</td>
-              <td class="vertical-center">Оружие с внушительным боезапасом</td>
+              <td class="vertical-center">
+                <p><strong>Пистолет-пулемет</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Оружие с внушительным боезапасом</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Автоматический карабин</strong></td>
-              <td class="vertical-center">[Неподалеку, Далеко]</td>
-              <td class="vertical-center">Среднекалиберное оружие, позволяющее вести огонь по нескольким целям. Большое количество боеприпасов.</td>
+              <td class="vertical-center">
+                <p><strong>Автоматический карабин</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Неподалеку, Далеко]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Среднекалиберное оружие, позволяющее вести огонь по нескольким целям. Большое количество боеприпасов.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Крупнокалиберная винтовка</strong></td>
-              <td class="vertical-center">[Далеко, Очень Далеко]</td>
-              <td class="vertical-center">Оружие для пробития перекрытий, поражения техники или экстремально далекой стрельбы</td>
+              <td class="vertical-center">
+                <p><strong>Крупнокалиберная винтовка</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Далеко, Очень Далеко]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Оружие для пробития перекрытий, поражения техники или экстремально далекой стрельбы</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Составники и поточники</strong></td>
-              <td class="vertical-center">[Неподалеку]</td>
-              <td class="vertical-center">Оружие, испускающее поток различных веществ, от твердеющих масс до огня или кислот.</td>
+              <td class="vertical-center">
+                <p><strong>Составники и поточники</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Неподалеку]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Оружие, испускающее поток различных веществ, от твердеющих масс до огня или кислот.</p>
+              </td>
             </tr>
         
         </table>
@@ -217,14 +313,18 @@
             </tr>
 
             <tr>
-              <td class="vertical-center"><strong>Минометы и гранатометы</strong></td>
-              <td class="vertical-center">[Далеко, Очень Далеко]</td>
-              <td class="vertical-center">Оружие, доставляющее различные снаряды особых поражающих свойств</td>
+              <td class="vertical-center">
+                <p><strong>Минометы и гранатометы</strong></p>
+              </td>
+              <td class="vertical-center">
+                <p>[Далеко, Очень Далеко]</p>
+              </td>
+              <td class="vertical-center">
+                <p>Оружие, доставляющее различные снаряды особых поражающих свойств</p>
+              </td>
             </tr>
         
         </table>
-
-
 
     </div>
 
@@ -254,38 +354,66 @@
             </tr>
             
             <tr>
-              <td class="vertical-center"> <i><strong>“Милосердная сталь” </strong></i></td>
-              <td>Одна из крупнейших компаний, ранее бывшая военной, а ныне перешедшая в частное пользование и производящая всевозможное оружие. Доступность и распространенность этой марки позволяет встретить револьверы, кастеты, ножи и пистолеты ее производства почти повсеместно.</td>
+              <td class="vertical-center">
+                <p><i><strong>“Милосердная сталь”</strong></i></p>
+              </td>
+              <td>
+                <p>Одна из крупнейших компаний, ранее бывшая военной, а ныне перешедшая в частное пользование и производящая всевозможное оружие. Доступность и распространенность этой марки позволяет встретить револьверы, кастеты, ножи и пистолеты ее производства почти повсеместно.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"> <i><strong>“Форпост”</strong></i></td>
-              <td>Армейское предприятие, производящее в основном огнестрельное оружие, в том числе и автоматическое</td>
+              <td class="vertical-center">
+                <p><i><strong>“Форпост”</strong></i></p>
+              </td>
+              <td>
+                <p>Армейское предприятие, производящее в основном огнестрельное оружие, в том числе и автоматическое</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"> <i><strong>“Цитадель” </strong></i></td>
-              <td>Государственное предприятие, производящее холодное и огнестрельное оружие для исполнителей и иных служб. Обычно купить его официально очень сложно.</td>
+              <td class="vertical-center">
+                <p><i><strong>“Цитадель”</strong></i></p>
+              </td>
+              <td>
+                <p>Государственное предприятие, производящее холодное и огнестрельное оружие для исполнителей и иных служб. Обычно купить его официально очень сложно.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"> <i><strong>“Промхимтрест” </strong></i></td>
-              <td>Специфика этой компании – производство различных химикатов, однако одно из ее подразделений специализируется на создании оружия среднего качества.</td>
+              <td class="vertical-center">
+                <p><i><strong>“Промхимтрест”</strong></i></p>
+              </td>
+              <td>
+                <p>Специфика этой компании – производство различных химикатов, однако одно из ее подразделений специализируется на создании оружия среднего качества.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"> <i><strong>“Сеть мануфактур оружейного дела “Застава” </strong></i></td>
-              <td>Древняя компания, занимавшаяся производством различных орудий для армии, таких как гаубицы, загоризонтные пушки и прочее. Найти образцы ее огнестрельного оружия нелегко, но можно быть уверенным в их исключительном качестве.</td>
+              <td class="vertical-center">
+                <p><i><strong>“Сеть мануфактур оружейного дела “Застава”</strong></i></p>
+              </td>
+              <td>
+                <p>Древняя компания, занимавшаяся производством различных орудий для армии, таких как гаубицы, загоризонтные пушки и прочее. Найти образцы ее огнестрельного оружия нелегко, но можно быть уверенным в их исключительном качестве.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"> <i><strong>“Нокта Силентиа” </strong></i></td>
-              <td>Компания с неизвестным, скорее всего дворянским или Древним руководством. Производит исключительно неогнестрельное дальнобойное оружие.</td>
+              <td class="vertical-center">
+                <p><i><strong>“Нокта Силентиа”</strong></i></p>
+              </td>
+              <td>
+                <p>Компания с неизвестным, скорее всего дворянским или Древним руководством. Производит исключительно неогнестрельное дальнобойное оружие.</p>
+              </td>
             </tr>
 
             <tr>
-              <td class="vertical-center"> <i><strong>“Тихий шепот” </strong></i></td>
-              <td>Нелегальная, но в то же время крупная сеть подпольных производств, по слухам, созданная несколькими бывшими сотрудниками ГАРМиТа и ГИТИ.</td>
+              <td class="vertical-center">
+                <p><i><strong>“Тихий шепот”</strong></i></p>
+              </td>
+              <td>
+                <p>Нелегальная, но в то же время крупная сеть подпольных производств, по слухам, созданная несколькими бывшими сотрудниками ГАРМиТа и ГИТИ.</p>
+              </td>
             </tr>
             
         </table>
@@ -293,7 +421,6 @@
     </div>
 
 </details>
-
 ---
 
 <a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
