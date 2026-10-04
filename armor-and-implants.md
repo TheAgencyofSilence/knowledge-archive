@@ -20,37 +20,53 @@
 
 <table class="simple-table">
 
-            <colgroup>
-                <col style="width:20%;">
-                <col style="width:60%;">
-                <col style="width:20%;">
-            </colgroup>
+    <colgroup>
+        <col style="width:20%;">
+        <col style="width:60%;">
+        <col style="width:20%;">
+    </colgroup>
 
-            <tr>
-                <td colspan="3" class="title center">
-                    <h3>Броня, доступная агентам "Тишины"</h3> 
-                </td>
-            </tr>
-            
-            <tr>
-                <td class="center"><strong>Уровень брони</strong></td>
-                <td class="center"><strong>Тип брони</strong></td>
-                <td class="center"><strong>Технологическая категория</strong></td>
-            </tr>
-
-            <tr>
-                <td class="center"><strong>1</strong><br>уровень брони</td>
-                <td>>Прочный, укрепленный жилет; специально простеганная куртка; самодельная защита из подручных средств; одежда трубачей</td>
-                <td class="center">Пятая</td>
-            </tr>
-            
+    <tr>
+        <td colspan="3" class="title center">
+            <h3>Броня, доступная агентам "Тишины"</h3> 
+        </td>
+    </tr>
     
-            <tr>
-                <td class="center"><strong>2</strong><br>уровень брони</td>
-                <td>Штатный бронежилет специальных подразделений исполнителей, всадников, арбитров и офицеров антаротрядов; особенно прочная гражданская бронированная одежда или бронежилет; костюмы “светлячков”</td>
-                <td class="center">Четвертая</td>
-            </tr>
+    <tr>
+        <td class="center">
+            <p><strong>Уровень брони</strong></p>
+        </td>
+        <td class="center">
+            <p><strong>Тип брони</strong></p>
+        </td>
+        <td class="center">
+            <p><strong>Технологическая категория</strong></p>
+        </td>
+    </tr>
 
+    <tr>
+        <td class="center">
+            <p><strong>1</strong><br>уровень брони</p>
+        </td>
+        <td>
+            <p>Прочный, укрепленный жилет; специально простеганная куртка; самодельная защита из подручных средств; одежда трубачей</p>
+        </td>
+        <td class="center">
+            <p>Пятая</p>
+        </td>
+    </tr>
+    
+    <tr>
+        <td class="center">
+            <p><strong>2</strong><br>уровень брони</p>
+        </td>
+        <td>
+            <p>Штатный бронежилет специальных подразделений исполнителей, всадников, арбитров и офицеров антаротрядов; особенно прочная гражданская бронированная одежда или бронежилет; костюмы “светлячков”</p>
+        </td>
+        <td class="center">
+            <p>Четвертая</p>
+        </td>
+    </tr>
 
 </table>
 
