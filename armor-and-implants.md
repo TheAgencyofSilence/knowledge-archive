@@ -96,41 +96,65 @@
 
 <table class="simple-table">
 
-            <colgroup>
-                <col style="width:20%;">
-                <col style="width:60%;">
-                <col style="width:20%;">
-            </colgroup>
+    <colgroup>
+        <col style="width:20%;">
+        <col style="width:60%;">
+        <col style="width:20%;">
+    </colgroup>
 
-            <tr>
-                <td colspan="3" class="title center">
-                    <h3>Броня, доступная только игровым npc</h3> 
-                </td>
-            </tr>
+    <tr>
+        <td colspan="3" class="title center">
+            <h3>Броня, доступная только игровым npc</h3> 
+        </td>
+    </tr>
 
-            <tr>
-                <td class="center"><strong>Уровень брони</strong></td>
-                <td class="center"><strong>Тип брони</strong></td>
-                <td class="center"><strong>Технологическая категория</strong></td>
-            </tr>
+    <tr>
+        <td class="center">
+            <p><strong>Уровень брони</strong></p>
+        </td>
+        <td class="center">
+            <p><strong>Тип брони</strong></p>
+        </td>
+        <td class="center">
+            <p><strong>Технологическая категория</strong></p>
+        </td>
+    </tr>
 
-            <tr>
-                <td class="center"><strong>3</strong><br>уровень брони</td>
-                <td>Костюм бойцов СЭС и СБ ГИЗа, а также спецподразделений Академий; латы “спящей стражи”; корпус артифита; наличие химической гелевой бронемассы в одежде</td>
-                <td class="center">Третья</td>
-            </tr>
+    <tr>
+        <td class="center">
+            <p><strong>3</strong><br>уровень брони</p>
+        </td>
+        <td>
+            <p>Костюм бойцов СЭС и СБ ГИЗа, а также спецподразделений Академий; латы “спящей стражи”; корпус артифита; наличие химической гелевой бронемассы в одежде</p>
+        </td>
+        <td class="center">
+            <p>Третья</p>
+        </td>
+    </tr>
 
-            <tr>
-                <td class="center"><strong>4</strong><br>уровень брони</td>
-                <td>Сервокостюм штурмовиков ГИЗа и СЭС, а также штурмовых подразделений Кинжальной Гвардии; “Личные крепости” Древних. Такие бронекостюмы дают своему владельцу дополнительные преимущества вроде увеличения навыков благодаря сервосистемам, обладают встроенными санитонами и прочим оборудованием</td>
-                <td class="center">Вторая</td>
-            </tr>
+    <tr>
+        <td class="center">
+            <p><strong>4</strong><br>уровень брони</p>
+        </td>
+        <td>
+            <p>Сервокостюм штурмовиков ГИЗа и СЭС, а также штурмовых подразделений Кинжальной Гвардии; “Личные крепости” Древних. Такие бронекостюмы дают своему владельцу дополнительные преимущества вроде увеличения навыков благодаря сервосистемам, обладают встроенными санитонами и прочим оборудованием</p>
+        </td>
+        <td class="center">
+            <p>Вторая</p>
+        </td>
+    </tr>
 
-            <tr>
-                <td class="center"><strong>Высшие</strong><br>уровни брони</td>
-                <td>Что-то, неизвестное широкой общественности и выходящее за рамки привычных вещей</td>
-                <td class="center">Выше</td>
-            </tr>
+    <tr>
+        <td class="center">
+            <p><strong>Высшие</strong><br>уровни брони</p>
+        </td>
+        <td>
+            <p>Что-то, неизвестное широкой общественности и выходящее за рамки привычных вещей</p>
+        </td>
+        <td class="center">
+            <p>Выше</p>
+        </td>
+    </tr>
 
 </table>
 
@@ -138,9 +162,9 @@
 
 <h2>Создание и покупка брони</h2>
 
-О создании брони можно почитать здесь: <a href="https://theagencyofsilence.github.io/knowledge-archive/property-tables.html">Таблица пассивных свойств</a> , открыв подраздел "Броня и Одежда"
+О создании брони вы сможете в будущем прочесть здесь: <a href="https://theagencyofsilence.github.io/knowledge-archive/property-tables.html">Таблица пассивных свойств</a>, открыв подраздел "Броня и Одежда"
 
-О покупке брони можно почитать здесь: <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=849957562#gid=849957562">Лист Агентства</a> во вкладке "Поставщики: Товары"
+О покупке брони вы сможете в будущем прочесть здесь: <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=849957562#gid=849957562">Лист Агентства</a> во вкладке "Поставщики: Товары"
 
 ---
 
@@ -160,7 +184,7 @@
 
 <h2>Как устанавливают протезы?</h2>
 
-Подбробнее об этом можно почитать в соответствующей главе правил: <a href="https://theagencyofsilence.github.io/knowledge-archive/prosthetic-installation.html">«Установка протезов»</a>
+Подбробнее об этом вы сможете в будущем прочесть в соответствующей главе правил: <a href="https://theagencyofsilence.github.io/knowledge-archive/prosthetic-installation.html">«Установка протезов»</a>
 
 
 ---
