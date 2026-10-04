@@ -123,7 +123,7 @@
 
 </table>
 
-Подробнее о системе уровней, званиях и развитии персонажа можно прочитать в главе <a href="https://theagencyofsilence.github.io/knowledge-archive/Char-Career.html">«Карьера и Вершина карьеры»</a>. 
+Подробнее о системе уровней, званиях и развитии персонажа можно в будущем прочитать в следующей главе <a href="https://theagencyofsilence.github.io/knowledge-archive/Char-Career.html">«Карьера и Вершина карьеры»</a>. 
 
 ---
 
