@@ -8,7 +8,9 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг второй: Предыстория](2-background.md) → Ценные Вещи
+[Основы игровой системы](SistemaVT.md) → [Инвентарь](inventory.md) → Ценные Вещи
+
+---
 
 # Ценные Вещи
 
