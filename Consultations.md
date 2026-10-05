@@ -8,7 +8,9 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Процесс создания предметов](items-creation.md) → Консультации
+[Правила «Тишины»](Homerules.md) → [Процесс создания предметов](items-creation.md) → Консультации
+
+---
 
 # Консультации
 
