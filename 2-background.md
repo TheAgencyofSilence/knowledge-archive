@@ -72,7 +72,7 @@
 
 <details class="expand-block expand-brown-5">
 
-    <summary>Оружие дальнего боя</summary>
+    <summary>Глоссарий: все возможные последствия броска кубов</summary>
 
     <div class="expand-content">
 
@@ -83,12 +83,6 @@
                           <col style="width:80%;">
                       </colgroup>
           
-                      <tr>
-                          <td colspan="3" class="title">
-                              <h3>Глоссарий: все возможные последствия броска кубов</h3> 
-                          </td>
-                      </tr>
-                      
                       <tr>
                           <td class="center"><strong>Название</strong></td>
                           <td class="center"><strong>Эффект</strong></td>
