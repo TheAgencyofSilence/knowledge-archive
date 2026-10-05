@@ -26,7 +26,7 @@ _**Милена Цаних**_
 <div class="subnav">
   <a href="1-phenotype.html">Шаг первый: Фенотип</a>
   <a href="2-background.html">Шаг второй: Предыстория</a>
-  <a href="4-final-tips.html">Шаг третий: Завершающие черты</a>
+  <a href="3-final-tips.html">Шаг третий: Завершающие черты</a>
 </div>
 
 ---
