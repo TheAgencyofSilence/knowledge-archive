@@ -43,7 +43,6 @@ _**Фитц**_
   <a href="steppers.html">Степняки</a>
   <a href="mounters.html">Горняки</a>
   <a href="halfblooded.html">Полукровки</a>
-  <a href="Tunuhs.html">Тунухи</a>
 </div>
 
 **Иные обитатели города**
@@ -60,6 +59,7 @@ _**Фитц**_
   <a href="mentals.html">Менталы</a>
   <a href="collectors.html">Коллекторы</a>
   <a href="slicers.html">Серпари</a>
+  <a href="Tunuhs.html">Тунухи</a>
 </div>
 
 ---
