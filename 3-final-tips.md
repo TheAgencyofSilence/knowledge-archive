@@ -1,4 +1,4 @@
-<img width="853" height="1280" alt="darin" src="https://github.com/user-attachments/assets/ec8f54b7-520c-4e50-8940-762a5d5bd44c" /><link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 
 <nav class="navbar">
   <a href="start.html">Введение</a>
