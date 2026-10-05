@@ -29,6 +29,7 @@ _**Фитц и Павел Шасс**_
 ---
 
 <div class="subnav">
+  <a href="Valuable-Item.html">Ценные Вещи</a>
   <a href="items-category.html">Категории предметов</a>
   <a href="melee-weapons.html">Оружие ближнего боя</a>
   <a href="ranged-weapons.html">Дальнобойное оружие</a>
