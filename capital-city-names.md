@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Основы игровой системы](SistemaVT.md) → [Важные детали](important-details.md) → Имена Столицы
+[Основы игровой системы](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг первый: Фенотип](1-phenotype.md) → Имена Столицы
 
 ---
 
