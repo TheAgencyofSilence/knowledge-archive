@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Домашние правила](Homerules.md) → [Лист Персонажа](Character-Sheet.md) → Вкладка «Склад»
+[Основы игровой системы](SistemaVT.md) → [Лист Персонажа](Character-Sheet.md) → Вкладка «Склад»
 
 ---
 
