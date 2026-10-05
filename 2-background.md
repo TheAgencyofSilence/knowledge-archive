@@ -199,7 +199,7 @@
 
 <details class="expand-block expand-pink">
 
-    <summary>Блок 1</summary>
+    <summary>Блок 1: Неудачи и Испытания</summary>
 
     <div class="expand-content">
     
@@ -297,7 +297,7 @@
 
 <details class="expand-block expand-steel-blue-1">
 
-    <summary>Блок 2</summary>
+    <summary>Блок 2: Отношения</summary>
 
     <div class="expand-content">
 
@@ -397,7 +397,7 @@
 
 <details class="expand-block expand-blue-1">
 
-    <summary>Блок 3</summary>
+    <summary>Блок 3: Авантюра</summary>
 
     <div class="expand-content">
 
@@ -501,7 +501,7 @@
 
 <details class="expand-block expand-periwinkle-1">
 
-    <summary>Блок 4</summary>
+    <summary>Блок 4: Приобретение</summary>
 
     <div class="expand-content">
 
@@ -600,7 +600,7 @@
 
 <details class="expand-block expand-olive-1">
 
-    <summary>Блок 5</summary>
+    <summary>Блок 5: Выбор</summary>
 
     <div class="expand-content">
 
@@ -699,7 +699,7 @@
 
 <details class="expand-block expand-green">
 
-    <summary>Блок 6</summary>
+    <summary>Блок 6: Успех</summary>
 
     <div class="expand-content">
     
@@ -805,7 +805,7 @@
 
 ---
 
- _**В Столице все связано. Город ничего не забывает**_
+<p style="text-align: center;"><strong>В Столице все связано. Город ничего не забывает</strong></p> 
  
 
 ---
