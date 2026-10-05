@@ -744,12 +744,6 @@
 
  _**В Столице все связано. Город ничего не забывает**_
  
----
-
-<div class="subnav">
-  <a href="knowleges-and-contacts.html">Знания и Связи</a>
-  <a href="Valuable-Item.html">Ценные Вещи</a>
-</div>
 
 ---
 
