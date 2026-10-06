@@ -8,17 +8,9 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → Организация проекта
-
----
 
 # Организация проекта
 
-
-
-
-
----
 
 <div class="subnav">
   <a href="Project-Vision.html">Общее Виденье Проекта</a>
