@@ -39,7 +39,7 @@
 
 Глубина гипноза зависит от пунктов Гипноза, набранных гипнотизёром (Таблица 1). Чем больше пунктов набрано, тем сильнее эффект и больше возможностей для изменения сознания. 
 
-<table class="simple-table image-text-table">
+<table class="simple-table image-texts-table">
 
     <colgroup>
         <col style="width:15%;">
