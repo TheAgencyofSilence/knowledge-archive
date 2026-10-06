@@ -8,7 +8,9 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Домашние правила](Homerules.md) → Сегменты
+[Правила «Тишины»](Homerules.md) → Сегменты
+
+---
 
 # Сегменты
 
