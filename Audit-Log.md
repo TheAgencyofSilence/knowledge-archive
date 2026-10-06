@@ -44,9 +44,11 @@
 
 В нём отдельно учитываются Постоянное и Расходуемое имущество:
 
-  •  <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=2016364686#gid=2016364686">Постоянное имущество</a>
+<div class="note note-">
+  <p>• <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=2016364686#gid=2016364686">Постоянное имущество</a></p>
 
-  •  <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=1265714328#gid=1265714328">Расходуемое имущество</a>
+  <p>• <a href="https://docs.google.com/spreadsheets/d/1B4rr57XzjiJw0hHbf_MhxWP1f2WpPCJMT12u1tLmVFg/edit?gid=1265714328#gid=1265714328">Расходуемое имущество</a></p>
+</div>
 
 ---
 
@@ -76,15 +78,13 @@
 
 Компенсация может выражаться в разных формах. Например:
 
-  •  кроны;
-  
-  •  ошибка;
-  
-  •  долг;
-  
-  •  Преследование;
-  
-  •  отсутствие каких-либо последствий.
+<div class="note note-">
+  <p>• кроны;</p>
+  <p>• ошибка;</p>
+  <p>• долг;</p>
+  <p>• Преследование;</p>
+  <p>• отсутствие каких-либо последствий.</p>
+</div>
 
 Конкретное решение определяется Координатором в соответствии с нарративом и обстоятельствами утраты.
 
