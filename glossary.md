@@ -30,6 +30,10 @@
 </div>
 
 <div class="note note-gray">
+  <p>• <strong>Непись</strong> (NPC) — неигровой персонаж.</p>
+</div>
+
+<div class="note note-gray">
   <p>• <strong>Сложность</strong> — количество Успехов, больше которого нужно получить для совершения того или иного действия.</p>
 </div>
 
