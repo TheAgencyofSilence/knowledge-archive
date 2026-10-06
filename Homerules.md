@@ -7,9 +7,6 @@
   <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
-
-[Главная](index.md) → Правила "Тишины"
-
 ---
 
 # Правила «Тишины»
