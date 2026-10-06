@@ -8,7 +8,9 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг третий: Навыки](3-skills.md) → [Эго](4-ego.md) → Воля
+[Правила «Тишины»](Homerules.md) → [Детальный разбор особых навыков](special-skills.md) → Воля
+
+---
 
 # Воля
 
