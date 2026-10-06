@@ -8,8 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Кодекс Мастеров](Game-Master-Code-of-Conduct.md) → [Создание персонажей игроков](Character-Creation-Guidelines.md) → Мастерская этика
-
+[Кодекс Мастеров](Game-Master-Code-of-Conduct.md) → [Создание персонажей игроков](Character-Creation-Guidelines.md) → Мастерская этика
 
 ---
 
