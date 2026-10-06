@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Кодекс Мастеров](Game-Master-Code-of-Conduct.md) → Порядок становления Мастером
+[Кодекс Мастеров](Game-Master-Code-of-Conduct.md) → Порядок становления Мастером
 
 ---
 
