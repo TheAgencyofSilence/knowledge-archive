@@ -39,7 +39,7 @@
 
 Глубина гипноза зависит от пунктов Гипноза, набранных гипнотизёром (Таблица 1). Чем больше пунктов набрано, тем сильнее эффект и больше возможностей для изменения сознания. 
 
-<table class="simple-table image-texts-table">
+<table class="simple-table image-text-table">
 
     <colgroup>
         <col style="width:15%;">
@@ -50,26 +50,26 @@
     <!-- Строка 1 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>Глубина гипноза</p>
+            <p style="text-align: center;">Глубина гипноза</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>Количество набранных пунктов Гипноза</p>
+            <p style="text-align: center;">Количество набранных пунктов Гипноза</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>Эффект</p>
+            <p style="text-align: center;">Эффект</p>
         </td>
     </tr>
 
     <!-- Строка 2 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>[1]</p>
+            <p style="text-align: center;">[1]</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>1 пункт</p>
+            <p style="text-align: center;">1 пункт</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
@@ -80,11 +80,11 @@
     <!-- Строка 3 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>1 х Эго</p>
+            <p style="text-align: center;">1 х Эго</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>В количестве, равном Эго реципиента</p>
+            <p style="text-align: center;">В количестве, равном Эго реципиента</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
@@ -97,11 +97,11 @@
     <!-- Строка 4 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>2 х Эго</p>
+            <p style="text-align: center;">2 х Эго</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>В количестве, равном двойному Эго реципиента</p>
+            <p style="text-align: center;">В количестве, равном двойному Эго реципиента</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
@@ -114,11 +114,11 @@
     <!-- Строка 5 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>3 х Эго</p>
+            <p style="text-align: center;">3 х Эго</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p>В количестве, равном тройному Эго реципиента</p>
+            <p style="text-align: center;">В количестве, равном тройному Эго реципиента</p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
