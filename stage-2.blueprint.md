@@ -136,7 +136,7 @@
 
         <tr>
           <td><p>Пусто</p></td>
-          <td><p><i>Талант</i></p></td>
+          <td><p><u><i><strong>Талант</strong></i></u></p></td>
           <td><p>Пусто</p></td>
         </tr>
 
