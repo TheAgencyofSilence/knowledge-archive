@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Кодекс Мастеров](Game-Master-Code-of-Conduct.md) → Правила написания обьявлений об играх
+[Кодекс Мастеров](Game-Master-Code-of-Conduct.md) → Правила написания обьявлений об играх
 
 ---
 
