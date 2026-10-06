@@ -65,7 +65,7 @@
     <!-- Строка 2 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p style="text-align: center;">[1]</p>
+            <p style="text-align: center;"><strong>[1] </strong></p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
@@ -80,7 +80,7 @@
     <!-- Строка 3 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p style="text-align: center;">1 х Эго</p>
+            <p style="text-align: center;"><strong>1 х Эго</strong></p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
@@ -97,7 +97,7 @@
     <!-- Строка 4 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p style="text-align: center;">2 х Эго</p>
+            <p style="text-align: center;"><strong>2 х Эго</strong></p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
@@ -114,7 +114,7 @@
     <!-- Строка 5 -->
     <tr>
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
-            <p style="text-align: center;">3 х Эго</p>
+            <p style="text-align: center;"><strong>3 х Эго</strong></p>
         </td>
 
         <td class="text-cell" style="text-align:center; vertical-align:middle;">
