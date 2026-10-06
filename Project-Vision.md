@@ -8,10 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
----
-
-
-[Главная](index.md) → [Организация проекта](Project-Organization.md) → Общее Виденье Проекта
+[Организация проекта](Project-Organization.md) → Общее Виденье Проекта
 
 ---
 
