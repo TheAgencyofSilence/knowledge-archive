@@ -73,7 +73,15 @@
 Восстановление Рассудка с помощью Досуга можно совершить **один раз** до следующей игры персонажа.
 
 ---
- 
-<a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
+
+<div class="tishina-footer">
+  <div class="tishina-footer-frame">
+    <img src="assets/images/tishina.jpg" alt="Агентство «Тишина»">
+  </div>
+  <div class="tishina-footer-caption">
+    <p>Агентство<br>
+    «Тишина»</p>
+  </div>
+</div>
 
 
