@@ -152,7 +152,15 @@
 Если начавшийся отдых был прерван, но уже продолжался некоторое время - хотя бы несколько часов, - то отдых становится хуже, Досуг превращается в Забвение.
 
 ---
- 
-<a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
+
+<div class="tishina-footer">
+  <div class="tishina-footer-frame">
+    <img src="assets/images/tishina.jpg" alt="Агентство «Тишина»">
+  </div>
+  <div class="tishina-footer-caption">
+    <p>Агентство<br>
+    «Тишина»</p>
+  </div>
+</div>
 
 
