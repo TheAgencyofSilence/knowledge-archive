@@ -218,12 +218,6 @@
 
 ---
 
-<div class="subnav subnav-center">
-  <a href="characters-creation.html">Создание персонажей</a>
-</div>
-
----
-
 <div class="tishina-footer">
   <div class="tishina-footer-frame">
     <img src="assets/images/tishina.jpg" alt="Агентство «Тишина»">
