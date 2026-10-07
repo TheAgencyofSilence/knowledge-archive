@@ -1,9 +1,4 @@
-<head>
-  <meta charset="UTF-8">
-  <title>...</title>
 
-  <link rel="icon" type="image/jpeg" href="assets/images/tishina.jpg">
-</head>
 
 <link rel="stylesheet" href="style.css">
 
