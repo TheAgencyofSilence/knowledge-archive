@@ -2246,11 +2246,4 @@ table.lavender-table-1 .title h3 {
   text-align: center;
 }
 
-/* Подразделы */
 
-.subnav {
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Центрирует кнопки внутри субнава */
-  gap: 10px;
-}
