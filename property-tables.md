@@ -12,7 +12,7 @@
 
 ---
 
-# Таблица пассивных свойств
+<h1 class="center">Таблица пассивных свойств</h1> 
 
 <details class="expand-block expand-green">
 
