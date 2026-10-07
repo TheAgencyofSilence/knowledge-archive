@@ -2248,7 +2248,7 @@ table.lavender-table-1 .title h3 {
 
 /* Подразделы */
 
-.subnav1 {
+.subnav {
   display: flex;
   flex-direction: column;
   align-items: center; /* Центрирует кнопки внутри субнава */
