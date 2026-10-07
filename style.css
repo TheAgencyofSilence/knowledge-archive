@@ -2245,3 +2245,12 @@ table.lavender-table-1 .title h3 {
   color: #24292f;
   text-align: center;
 }
+
+/* Подразделы */
+
+.subnav1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Центрирует кнопки внутри субнава */
+  gap: 10px;
+}
