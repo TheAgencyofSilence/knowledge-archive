@@ -12,7 +12,7 @@
 
 ---
 
-# Таблица для покупки компонентов.
+<h1 class="center">Таблица для покупки компонентов</h1> 
 
 <details class="expand-block expand-blue-gray-1">
 
