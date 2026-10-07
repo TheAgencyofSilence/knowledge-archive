@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-# Правила «Тишины»
+<h1 class="center">Правила «Тишины»</h1> 
 
 ---
 
