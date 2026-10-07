@@ -1,3 +1,4 @@
+<link rel="icon" type="image/jpeg" href="assets/images/tishina.jpg">
 <link rel="stylesheet" href="style.css">
 
 <nav class="navbar">
