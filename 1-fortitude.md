@@ -235,7 +235,14 @@
 
 Подробнее об Особых навыках вы сможете в будущем прочесть в <a href="https://theagencyofsilence.github.io/knowledge-archive/special-skills.html">соотвествующей главе правил</a>.
 
-
 ---
 
-<a href="SistemaVT.html" class="button">← Назад </a>
+<div class="tishina-footer">
+  <div class="tishina-footer-frame">
+    <img src="assets/images/tishina.jpg" alt="Агентство «Тишина»">
+  </div>
+  <div class="tishina-footer-caption">
+    <p>Агентство<br>
+    «Тишина»</p>
+  </div>
+</div>
