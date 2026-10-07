@@ -9,7 +9,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Организация проекта](Project-Organization.md) → Роли в Группе Управления
+[Организация проекта](Project-Organization.md) → Роли в Группе Управления.
 
 ---
 
