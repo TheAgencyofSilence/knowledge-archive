@@ -170,8 +170,16 @@
 
 Одного Успеха ему вполне достаточно чтобы ввязаться в бой. И возможна ситуация, когда его результат будет выше, чем у бандита. В этом случае помощник даже может успеть оттолкнуть сыщицу раньше, чем ее противник успеет нанести удар.
 
- ---
+---
 
-<a href="SistemaVT.html" class="button">← Назад к Игровой системе</a>
+<div class="tishina-footer">
+  <div class="tishina-footer-frame">
+    <img src="assets/images/tishina.jpg" alt="Агентство «Тишина»">
+  </div>
+  <div class="tishina-footer-caption">
+    <p>Агентство<br>
+    «Тишина»</p>
+  </div>
+</div>
 
 
