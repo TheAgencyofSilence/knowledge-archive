@@ -2213,3 +2213,35 @@ table.lavender-table-1 .title h3 {
 .image-texts-table .text-cell p {
     margin: 0;
 }
+
+/* ========================================= */
+/* Агентство «Тишина»                        */
+/* ========================================= */
+
+.tishina-footer {
+  text-align: center;
+  margin: 40px 0 20px 0;
+}
+
+.tishina-footer-frame {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid #d0d7de;
+  background-color: #ffffff;
+  line-height: 0;
+}
+
+.tishina-footer-frame img {
+  display: block;
+  width: 140px;
+  max-width: 100%;
+  height: auto;
+}
+
+.tishina-footer-caption {
+  margin-top: 10px;
+  font-size: 1em;
+  line-height: 1.4;
+  color: #24292f;
+  text-align: center;
+}
