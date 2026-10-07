@@ -1,4 +1,10 @@
-<link rel="icon" type="image/jpeg" href="assets/images/tishina.jpg">
+<head>
+  <meta charset="UTF-8">
+  <title>...</title>
+
+  <link rel="icon" type="image/jpeg" href="assets/images/tishina.jpg">
+</head>
+
 <link rel="stylesheet" href="style.css">
 
 <nav class="navbar">
@@ -9,7 +15,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Организация проекта](Project-Organization.md) → Роли в Группе Управления.
+[Организация проекта](Project-Organization.md) → Роли в Группе Управления
 
 ---
 
