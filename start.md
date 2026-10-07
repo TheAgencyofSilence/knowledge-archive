@@ -81,12 +81,18 @@
 
 ---
 
-**Добро пожаловать в «Тишину», друзья!** 
+<p style="text-align: center;"><strong><i>Добро пожаловать в «Тишину», друзья!</i></strong></p>  
 
-**Надеемся, вам здесь понравится ♥**
-
-
-
-
+<p style="text-align: center;"><strong><i>Надеемся, вам здесь понравится ♥</i></strong></p> 
 
 ---
+
+<div class="tishina-footer">
+  <div class="tishina-footer-frame">
+    <img src="assets/images/tishina.jpg" alt="Агентство «Тишина»">
+  </div>
+  <div class="tishina-footer-caption">
+    <p>Агентство<br>
+    «Тишина»</p>
+  </div>
+</div>
