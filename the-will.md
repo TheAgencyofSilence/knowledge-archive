@@ -103,5 +103,14 @@
 Человек с глубокой Тьмой постарается либо захватить как можно больше чужих умов любыми способами, либо удалится в Морок насовсем, наслаждаясь безграничными возможностями – вполне вероятно, даже с помощью самоубийства.
 
 ---
-<a href="SistemaVT.html" class="button">← Назад </a>
+
+<div class="tishina-footer">
+  <div class="tishina-footer-frame">
+    <img src="assets/images/tishina.jpg" alt="Агентство «Тишина»">
+  </div>
+  <div class="tishina-footer-caption">
+    <p>Агентство<br>
+    «Тишина»</p>
+  </div>
+</div>
 
