@@ -19,7 +19,7 @@
 
 <div class="note note-">
   <p>• <a href="https://t.me/+T3RKPIdTzLo0YmYy">Игралище судеб</a> - основной чат для общения</p><br>
-  <p>• <a href="https://t.me/+Pv2F_3cHSiE0ZjVi">Игралище судеб. Оповещения</a> - объявление об играх и новостях сообщества</p><br>
+  <p>• <a href="https://t.me/+Flt7sPfQEckwMzhi">Игралище судеб. Оповещения</a> - объявление об играх и новостях сообщества</p><br>
   <p>• <a href="https://t.me/+q_PrScvqXuljYzQ6">Создаём талант</a> - группа для одобрения талантов</p><br>
   <p>• <a href="https://t.me/+NKoQ73_YB7wxZTIy">Часовые отчёты</a> - группа для отчёта об играх и трате тиков (Даунтайм)</p><br>
   <p>• <a href="https://t.me/+0bcRFciBGm1mZTgy">Крафт</a> - группа для крафтеров</p>
