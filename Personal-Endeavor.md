@@ -111,11 +111,11 @@
             </colgroup>
 
             <tr>
-                <td class="title">
-                    <h3><p>Улучшение</p></h3>
+                <td class="center-right-column">
+                    <p><strong>Улучшение</strong></p>
                 </td>
-                <td class="title">
-                    <h3><p>Наибольший штат</p></h3>
+                <td class="center-right-column">
+                    <p><strong>Наибольший штат</strong></p>
                 </td>
             </tr>
 
