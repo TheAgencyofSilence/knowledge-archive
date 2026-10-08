@@ -16,13 +16,13 @@
 <div class="subnav">
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
-  <a href="items-creation.html">Процесс создания предметов</a>
-  <a href="special-skills.html">Детальный разбор особых навыков</a>
-  <a href="Optional-Rules-of-Hypnosis.html">Опциональные правила гипноза</a>
-  <a href="talents.html">Создание Талантов</a>
   <a href="Downtime.html">Инициативы, возможности и свободное время</a>
   <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
   <a href="Agent-Word.html">Слово Агента</a>
+  <a href="talents.html">Создание Талантов</a>
+  <a href="items-creation.html">Процесс создания предметов</a>
+  <a href="special-skills.html">Детальный разбор особых навыков</a>
+  <a href="Optional-Rules-of-Hypnosis.html">Опциональные правила гипноза</a>
   <a href="segments.html">Сегменты</a>
   <a href="Parallelism.html">Параллелизм</a> 
   <a href="Warnings-and-Sanctions-System.html">Система предупреждений и санкций</a>
