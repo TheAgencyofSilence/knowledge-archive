@@ -16,7 +16,7 @@
 <div class="subnav">
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
-  <a href="Downtime.html">Инициативы, возможности и свободное время</a>
+  <a href="Downtime.html">Даунтайм: Инициативы, возможности и свободное время</a>
   <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
   <a href="Agent-Word.html">Слово Агента</a>
   <a href="talents.html">Создание Талантов</a>
