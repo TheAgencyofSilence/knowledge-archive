@@ -120,7 +120,7 @@
             </tr>
 
             <tr>
-              <td class="center-right-column"><strong>0 (начальное)</strong></td>
+              <td class="center-right-column"><strong>0 <br>(начальное)</strong></td>
               <td class="vertical-center">Только сам агент, работающий в одиночку.</td>
             </tr>
 
