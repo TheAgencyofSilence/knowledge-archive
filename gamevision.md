@@ -46,8 +46,8 @@
 
         <!-- Изображение занимает весь третий столбец -->
         <td class="image-column" rowspan="8">
-            <img src="assets/images/artskill.jpg"
-                 alt="artskill"
+            <img src="assets/images/skillnew.jpg"
+                 alt="skillnew"
                  class="three-column-image">
         </td>
     </tr>
@@ -478,8 +478,8 @@
     <!-- Строка 1 -->
     <tr>
         <td class="image-cell">
-            <img src="assets/images/ruki.jpg"
-                 alt="ruki"
+            <img src="assets/images/morok3.jpg"
+                 alt="morok3"
                  class="image-text-picture">
         </td>
 
