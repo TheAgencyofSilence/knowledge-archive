@@ -24,7 +24,7 @@
         <td class="center">
             <img src="assets/images/protez1.jpg"
                  alt="protez1"
-                 class="single-table-image vehi-predistorii-image3">
+                 class="single-table-image vehi-predistorii-image4">
         </td>
     </tr>
 
