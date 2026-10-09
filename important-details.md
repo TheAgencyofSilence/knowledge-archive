@@ -34,8 +34,8 @@ _**Дара Ривер и Фитц**_
 
     <tr>
         <td class="center">
-            <img src="assets/images/serost.jpg"
-                 alt="serost"
+            <img src="assets/images/stolica.jpg"
+                 alt="stolica"
                  class="single-table-image vehi-predistorii-image2">
         </td>
     </tr>
