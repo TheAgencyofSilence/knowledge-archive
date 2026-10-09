@@ -30,6 +30,20 @@ _**Дара Ривер и Фитц**_
 
 ---
 
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/serost.jpg"
+                 alt="serost"
+                 class="single-table-image vehi-predistorii-image2">
+        </td>
+    </tr>
+
+</table>
+
+---
+
 <h2>Летосчисление</h2> 
 
 Года считаются с момента т.н. “Восхождения Несменного” - события, когда нынешний правитель Государства, именуемый Несменный, взял на себя бразды правления страной в результате революции.
