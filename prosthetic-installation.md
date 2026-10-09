@@ -18,6 +18,18 @@
 
 Процедура установки протеза всегда является операцией, проводимой под местным или локальным наркозом в зависимости от сложности и аналогична преодолению Кризиса и созданию предмета. 
 
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/protez1.jpg"
+                 alt="protez1"
+                 class="single-table-image vehi-predistorii-image3">
+        </td>
+    </tr>
+
+</table>
+
 <div class="note note-">
   <p><strong>“Здоровьем”</strong> в этом случае является уровень Травмы +1 для простых протезов 5-6 КТ и +2 для более сложных и технологических 4-3 КТ. </p>
  </div>
