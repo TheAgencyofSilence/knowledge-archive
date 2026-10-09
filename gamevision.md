@@ -478,8 +478,8 @@
     <!-- Строка 1 -->
     <tr>
         <td class="image-cell">
-            <img src="assets/images/morok3.jpg"
-                 alt="morok3"
+            <img src="assets/images/morok4.jpg"
+                 alt="morok4"
                  class="image-text-picture">
         </td>
 
