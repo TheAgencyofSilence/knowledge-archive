@@ -39,7 +39,7 @@ _**Милена Цаних**_
         <td class="center">
             <img src="assets/images/svet.jpg"
                  alt="svet"
-                 class="single-table-image vehi-predistorii-image2">
+                 class="single-table-image vehi-predistorii-image3">
         </td>
     </tr>
 
@@ -90,7 +90,7 @@ _**Милена Цаних**_
         <td class="center">
             <img src="assets/images/tma.jpg"
                  alt="tma"
-                 class="single-table-image vehi-predistorii-image2">
+                 class="single-table-image vehi-predistorii-image3">
         </td>
     </tr>
 
@@ -147,7 +147,7 @@ _**Милена Цаних**_
         <td class="center">
             <img src="assets/images/serost.jpg"
                  alt="serost"
-                 class="single-table-image vehi-predistorii-image2">
+                 class="single-table-image vehi-predistorii-image3">
         </td>
     </tr>
 
