@@ -155,7 +155,7 @@
 </div>
 
 
-<details class="expand-block expand-red-copper">
+<details class="expand-block expand-pink">
 
     <summary>Болезнь</summary>
 
