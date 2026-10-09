@@ -44,7 +44,7 @@
 
 Если Здоровье персонажа падает ниже 0, то вместо урона он получает пункты **Кризиса**. Каждый пункт урона равен одному пункту Кризиса. 
 
-Подробнее об вы сможете прочесть в следующей главе <a href="https://theagencyofsilence.github.io/knowledge-archive/group-combat.html">«Кризис: Здоровье»</a> .
+Подробнее об вы сможете прочесть в следующей главе <a href="https://theagencyofsilence.github.io/knowledge-archive/health-crisis.html">«Кризис: Здоровье»</a> .
 
 ---
 
