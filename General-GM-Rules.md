@@ -195,7 +195,7 @@
 
 Для разных типов заданий у Мастеров действует единая Систематизация выплат. Она определяет размер наград в зависимости от сложности пройденого задания.
 
-Подробнее об этом можно почитать в главе <a href="https://theagencyofsilence.github.io/knowledge-archive/Payout-20System.html">Систематизация Выплат</a>.
+Подробнее об этом можно почитать в главе <a href="https://theagencyofsilence.github.io/knowledge-archive/Payout-System.html">Систематизация Выплат</a>.
 
 ---
 
