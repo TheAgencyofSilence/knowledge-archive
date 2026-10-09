@@ -22,8 +22,8 @@
 
     <tr>
         <td class="center">
-            <img src="assets/images/steppers.jpg"
-                 alt="steppers"
+            <img src="assets/images/gornyachka.jpg"
+                 alt="gornyachka"
                  class="single-table-image vehi-predistorii-image3">
         </td>
     </tr>
