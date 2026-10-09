@@ -242,7 +242,7 @@
           
             <tr>
               <td class="description">
-                <p>Новое знакомтсво</p>
+                <p>Новое знакомство</p>
               </td>
           
               <td class="examples" colspan="2">
