@@ -39,7 +39,7 @@ _**Милена Цаних**_
         <td class="center">
             <img src="assets/images/svet.jpg"
                  alt="svet"
-                 class="single-table-image vehi-predistorii-image3">
+                 class="single-table-image vehi-predistorii-image4">
         </td>
     </tr>
 
