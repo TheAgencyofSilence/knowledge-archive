@@ -22,7 +22,7 @@
         <td class="center">
             <img src="assets/images/Kollector.jpg"
                  alt="Kollector"
-                 class="single-table-image vehi-predistorii-image3">
+                 class="single-table-image vehi-predistorii-image4">
         </td>
     </tr>
 
