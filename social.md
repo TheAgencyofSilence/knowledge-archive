@@ -41,6 +41,18 @@ _**Януш**_
  </div>
 
 
+<table class="simple-table center-all-table">
+
+    <tr>
+        <td class="center">
+            <img src="assets/images/social.jpg"
+                 alt="social"
+                 class="single-table-image vehi-predistorii-image2">
+        </td>
+    </tr>
+
+</table>
+
 <div class="note note-">
   <p> <strong>И самое главное…</strong><br><br>• “Социальные навыки игрока часто не соответствуют навыкам его персонажа, и у игрока должны быть инструменты, позволяющие компенсировать этот разрыв” – скажут вам в других играх. Сажу им на рожу! Все мы играем в настольные игры, чтобы пережить опыт, который не всегда легко получить в реальной жизни. </p>
  </div>
