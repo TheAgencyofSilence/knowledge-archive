@@ -84,7 +84,7 @@
 
     <div class="expand-content">
 
-          <table class="brown-table-5">
+          <table class="sections-table">
           
                       <colgroup>
                           <col style="width:20%;">
