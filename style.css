@@ -2266,15 +2266,15 @@ table p,
 table strong,
 table span,
 table li {
-  color: #000000 !important;
-  -webkit-text-fill-color: #000000 !important;
+  color: #374151 !important;
+  -webkit-text-fill-color: #374151 !important;
 }
 
 /* Возвращаем стандартные цвета гиперссылок в таблицах */
 table a,
 table a:link {
-  color: #0000EE !important;
-  -webkit-text-fill-color: #0000EE !important;
+  color: #374151 !important;
+  -webkit-text-fill-color: #374151 !important;
 }
 
 table a:visited {
