@@ -2258,25 +2258,26 @@ table.lavender-table-1 .title h3 {
   text-align: center;
 }
 
-/* ========================================= */
-/* Защита таблиц от принудительной тёмной темы */
-/* ========================================= */
-
+/* Защита текста таблиц от принудительной тёмной темы */
 table,
 table th,
 table td,
 table p,
 table strong,
 table span,
-table a,
 table li {
-  -webkit-text-fill-color: #374151 !important;
-  color: #374151!important;
-  color-scheme: light;
+  color: #000000 !important;
+  -webkit-text-fill-color: #000000 !important;
 }
 
-/* Сохраняем заданные CSS-фоны ячеек таблиц */
-table th,
-table td {
-  forced-color-adjust: none;
+/* Возвращаем стандартные цвета гиперссылок в таблицах */
+table a,
+table a:link {
+  color: #0000EE !important;
+  -webkit-text-fill-color: #0000EE !important;
+}
+
+table a:visited {
+  color: #551A8B !important;
+  -webkit-text-fill-color: #551A8B !important;
 }
