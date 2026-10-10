@@ -2258,4 +2258,25 @@ table.lavender-table-1 .title h3 {
   text-align: center;
 }
 
+/* ========================================= */
+/* Защита таблиц от принудительной тёмной темы */
+/* ========================================= */
 
+table,
+table th,
+table td,
+table p,
+table strong,
+table span,
+table a,
+table li {
+  -webkit-text-fill-color: #24292f !important;
+  color: #24292f!important;
+  color-scheme: light;
+}
+
+/* Сохраняем заданные CSS-фоны ячеек таблиц */
+table th,
+table td {
+  forced-color-adjust: none;
+}
