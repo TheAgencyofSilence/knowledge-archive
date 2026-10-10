@@ -2270,8 +2270,8 @@ table strong,
 table span,
 table a,
 table li {
-  -webkit-text-fill-color: #24292f !important;
-  color: #24292f!important;
+  -webkit-text-fill-color: #374151 !important;
+  color: #374151!important;
   color-scheme: light;
 }
 
