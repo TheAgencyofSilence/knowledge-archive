@@ -27,7 +27,7 @@
 <div class="note note-">
   <p>• Сделать предварительную проверку навыка, который может облегчить конечное действие</p><br>
   <p>• Попросить помощи у союзников</p><br>
-  <p>• Воспользоваться <u>связями с влиятельными людьм</u></p><br>(Подробнее о связях вы сможете в будущем прочесть в <a href="https://theagencyofsilence.github.io/knowledge-archive/knowleges-and-contacts.html">следующей главе</a>)
+  <p>• Воспользоваться <u>связями с влиятельными людьм</u></p><br><p>(Подробнее о связях вы сможете в будущем прочесть в <a href="https://theagencyofsilence.github.io/knowledge-archive/knowleges-and-contacts.html">следующей главе</a></p>)
  </div>
  
 
