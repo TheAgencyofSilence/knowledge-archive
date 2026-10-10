@@ -2281,3 +2281,9 @@ table a:visited {
   color: #551A8B !important;
   -webkit-text-fill-color: #551A8B !important;
 }
+
+/* Белая версия белой таблицы №5 */
+.brown-table-51 th,
+.brown-table-51 td {
+  background-color: #ffffff !important;
+}
