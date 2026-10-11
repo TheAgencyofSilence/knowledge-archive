@@ -2307,7 +2307,12 @@ table a:visited {
   transform: translateY(-2px);
 }
 
-
+/* Наведение на прямоугольную кнопку */
+.navbtn-2:hover {
+  background-color: #14532d;
+  color: white;
+  border-color: #14532d;
+}
 
 /* ========================================= */
 /* ОБЩИЕ ОТСТУПЫ ДЛЯ ТЕСТОВОЙ СТРАНИЦЫ       */
