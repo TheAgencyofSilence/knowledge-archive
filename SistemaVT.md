@@ -18,7 +18,7 @@
 
 <h2>Подразделы</h2>
 
-<div class="subnav">
+<div class="navbtn-test">
   <a href="prologue.html">Пролог</a>
   <a href="basics.html">Базовые механики</a>
   <a href="stats.html">Показатели персонажей</a>
