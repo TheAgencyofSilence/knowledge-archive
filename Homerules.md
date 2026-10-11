@@ -16,6 +16,8 @@
 
 Краткий обзор всех глав раздела приведён ниже.
 
+---
+
 <div class="subnav">
   <a href="Internal-Rules.html">Домашние правила</a>
   <a href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
