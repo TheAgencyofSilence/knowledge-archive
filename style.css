@@ -2314,6 +2314,13 @@ table a:visited {
   border-color: #14532d;
 }
 
+.navbtn-test {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
 /* ========================================= */
 /* ОБЩИЕ ОТСТУПЫ ДЛЯ ТЕСТОВОЙ СТРАНИЦЫ       */
 /* ========================================= */
