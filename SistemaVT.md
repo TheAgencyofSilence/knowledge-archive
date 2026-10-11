@@ -17,19 +17,19 @@
 ---
 
 <div class="navbtn-test">
-  <a href="prologue.html">Пролог</a>
-  <a href="basics.html">Базовые механики</a>
-  <a href="stats.html">Показатели персонажей</a>
-  <a href="fighting.html">Боевые сцены</a>
-  <a href="social.html">Социальные взаимодействия</a>
-  <a href="madness.html">Безумие</a>
-  <a href="umbra.html">Морок</a>
-  <a href="important-details.html">Важные детали о Столице</a>
-  <a href="Agency-narrative.html">Описание Агентства</a>
-  <a href="inventory.html">Инвентарь</a>
-  <a href="Character-Sheet.html">Лист Персонажа</a>
-  <a href="gamevision.html">Общее виденье игры</a>
-  <a href="glossary.html">Глоссарий</a>
+  <a class="navbtn-2" href="prologue.html">Пролог</a>
+  <a class="navbtn-2" href="basics.html">Базовые механики</a>
+  <a class="navbtn-2" href="stats.html">Показатели персонажей</a>
+  <a class="navbtn-2" href="fighting.html">Боевые сцены</a>
+  <a class="navbtn-2" href="social.html">Социальные взаимодействия</a>
+  <a class="navbtn-2" href="madness.html">Безумие</a>
+  <a class="navbtn-2" href="umbra.html">Морок</a>
+  <a class="navbtn-2" href="important-details.html">Важные детали о Столице</a>
+  <a class="navbtn-2" href="Agency-narrative.html">Описание Агентства</a>
+  <a class="navbtn-2" href="inventory.html">Инвентарь</a>
+  <a class="navbtn-2" href="Character-Sheet.html">Лист Персонажа</a>
+  <a class="navbtn-2" href="gamevision.html">Общее виденье игры</a>
+  <a class="navbtn-2" href="glossary.html">Глоссарий</a>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 Тем не менее они могут быть полезны при создании следующего персонажа, а также в том случае, если вы решите стать Мастером и помогать новым участникам создавать своих персонажей.
 
 <div class="subnav">
-<a href="characters-creation.html">Создание персонажей</a>
+<a class="navbtn-2" href="characters-creation.html">Создание персонажей</a>
 </div>
 
 
