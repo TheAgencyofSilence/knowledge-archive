@@ -22,33 +22,7 @@
 </div>
 
 
-<!-- Вариант 1 -->
-<nav class="navbar nav-demo nav-demo-1">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
 
-<!-- Вариант 2 -->
-<nav class="navbar nav-demo nav-demo-2">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
-
-<!-- Вариант 3 -->
-<nav class="navbar nav-demo nav-demo-3">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
-
-<!-- Вариант 4 -->
-<nav class="navbar nav-demo nav-demo-4">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
 
 <!-- Вариант 5 -->
 <nav class="navbar nav-demo nav-demo-5">
@@ -56,43 +30,6 @@
   <a href="#">Правила</a>
   <a href="#">О проекте</a>
 </nav>
-
-<!-- Вариант 6 -->
-<nav class="navbar nav-demo nav-demo-6">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
-
-<!-- Вариант 7 -->
-<nav class="navbar nav-demo nav-demo-7">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
-
-<!-- Вариант 8 -->
-<nav class="navbar nav-demo nav-demo-8">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
-
-<!-- Вариант 9 -->
-<nav class="navbar nav-demo nav-demo-9">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
-
-<!-- Вариант 10 -->
-<nav class="navbar nav-demo nav-demo-10">
-  <a href="#">Главная</a>
-  <a href="#">Правила</a>
-  <a href="#">О проекте</a>
-</nav>
-
-
 
 
 
