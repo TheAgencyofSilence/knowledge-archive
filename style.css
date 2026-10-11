@@ -2328,3 +2328,177 @@ table a:visited {
 .navbtn-test {
   margin: 12px 0;
 }
+
+
+/* ========================================
+   ТЕСТОВАЯ НАВИГАЦИЯ В ШАПКЕ
+   ======================================== */
+
+/* Общая основа для всех вариантов */
+.navbar.nav-demo {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.navbar.nav-demo a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 14px;
+  font-size: inherit;
+  line-height: 1.3;
+  color: #24292f;
+  text-decoration: none;
+  white-space: nowrap;
+  transition:
+    background-color 0.18s ease,
+    color 0.18s ease,
+    border-color 0.18s ease;
+}
+
+/* 1. Отдельные контурные кнопки */
+.nav-demo-1 a {
+  border: 1px solid #d1d5db;
+  border-radius: 5px;
+  background: transparent;
+}
+
+.nav-demo-1 a:hover {
+  background: #14532d;
+  color: #fff;
+  border-color: #14532d;
+}
+
+/* 2. Мягкие прямоугольники */
+.nav-demo-2 a {
+  border: 1px solid #d1d5db;
+  border-radius: 5px;
+  background: #f3f4f6;
+}
+
+.nav-demo-2 a:hover {
+  background: #14532d;
+  color: #fff;
+  border-color: #14532d;
+}
+
+/* 3. Зелёные кнопки */
+.nav-demo-3 a {
+  border: 1px solid #14532d;
+  border-radius: 5px;
+  background: #14532d;
+  color: #fff;
+}
+
+.nav-demo-3 a:hover {
+  background: #166534;
+  border-color: #166534;
+}
+
+/* 4. Единая панель с разделителями */
+.navbar.nav-demo-4 {
+  gap: 0;
+}
+
+.nav-demo-4 a {
+  border: 1px solid #d1d5db;
+  border-right: 0;
+  background: #f9fafb;
+}
+
+.nav-demo-4 a:first-child {
+  border-radius: 5px 0 0 5px;
+}
+
+.nav-demo-4 a:last-child {
+  border-right: 1px solid #d1d5db;
+  border-radius: 0 5px 5px 0;
+}
+
+.nav-demo-4 a:hover {
+  background: #14532d;
+  color: #fff;
+  border-color: #14532d;
+}
+
+/* 5. Минималистичные вкладки */
+.nav-demo-5 a {
+  border-bottom: 2px solid transparent;
+  padding-bottom: 7px;
+}
+
+.nav-demo-5 a:hover,
+.nav-demo-5 a[aria-current="page"] {
+  color: #14532d;
+  border-bottom-color: #14532d;
+}
+
+/* 6. Зелёная полоса слева */
+.nav-demo-6 a {
+  border: 1px solid #d1d5db;
+  border-left: 3px solid #14532d;
+  border-radius: 3px;
+  background: #fff;
+}
+
+.nav-demo-6 a:hover {
+  background: #14532d;
+  color: #fff;
+  border-color: #14532d;
+}
+
+/* 7. Светлые капсулы */
+.nav-demo-7 a {
+  border: 1px solid #e5e7eb;
+  border-radius: 999px;
+  background: #f9fafb;
+}
+
+.nav-demo-7 a:hover {
+  background: #14532d;
+  color: #fff;
+  border-color: #14532d;
+}
+
+/* 8. Графитовые кнопки */
+.nav-demo-8 a {
+  border: 1px solid #24292f;
+  border-radius: 5px;
+  background: #24292f;
+  color: #fff;
+}
+
+.nav-demo-8 a:hover {
+  background: #14532d;
+  border-color: #14532d;
+}
+
+/* 9. Верхняя и нижняя рамки */
+.nav-demo-9 a {
+  border-top: 1px solid #9ca3af;
+  border-bottom: 1px solid #9ca3af;
+}
+
+.nav-demo-9 a:hover {
+  color: #14532d;
+  border-top-color: #14532d;
+  border-bottom-color: #14532d;
+}
+
+/* 10. Белые кнопки с тенью */
+.nav-demo-10 a {
+  border: 1px solid #e5e7eb;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 10%);
+}
+
+.nav-demo-10 a:hover {
+  background: #14532d;
+  color: #fff;
+  border-color: #14532d;
+  box-shadow: 0 2px 5px rgb(0 0 0 / 12%);
+}
+
