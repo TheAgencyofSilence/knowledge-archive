@@ -16,8 +16,6 @@
 
 ---
 
-<h2>Подразделы</h2>
-
 <div class="navbtn-test">
   <a href="prologue.html">Пролог</a>
   <a href="basics.html">Базовые механики</a>
