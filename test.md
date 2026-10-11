@@ -22,6 +22,146 @@
 </div>
 
 
+<!-- Вариант 1 -->
+<nav class="navbar nav-demo nav-demo-1">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 2 -->
+<nav class="navbar nav-demo nav-demo-2">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 3 -->
+<nav class="navbar nav-demo nav-demo-3">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 4 -->
+<nav class="navbar nav-demo nav-demo-4">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 5 -->
+<nav class="navbar nav-demo nav-demo-5">
+  <a href="#" aria-current="page">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 6 -->
+<nav class="navbar nav-demo nav-demo-6">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 7 -->
+<nav class="navbar nav-demo nav-demo-7">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 8 -->
+<nav class="navbar nav-demo nav-demo-8">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 9 -->
+<nav class="navbar nav-demo nav-demo-9">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+<!-- Вариант 10 -->
+<nav class="navbar nav-demo nav-demo-10">
+  <a href="#">Главная</a>
+  <a href="#">Правила</a>
+  <a href="#">О проекте</a>
+</nav>
+
+
+
+
+
+
+<h2> Как устроены наши правила?</h2>
+
+Прежде чем приступить к изучению правил, давайте договоримся о нескольких терминах, чтобы легче ориентироваться.
+
+Наконец, внутри самих Глав вы встретите пункты - отдельные смысловые блоки, которые последовательно раскрывают тему. Они оформлены с помощью заголовков и собраны в оглавлении соответствующей страницы.
+
+Здесь будет изображение с примером пунктов.
+
+<table class="simple-table image-text-table">
+
+    <colgroup>
+        <col style="width:60%;">
+        <col style="width:40%;">
+    </colgroup>
+
+    <!-- Строка 1 -->
+    <tr>
+        <td class="text-cell">
+                <p>Вся наша экосистема правил разделена на пять Разделов. Каждый из них объединяет материалы, посвящённые определённой стороне проекта: от игровой системы до организации работы «Тишины». Найти их можно в верхней части каждой страницы.</p>
+        </td>
+        <td class="image-cell">
+            <img src="assets/images/alan.jpg"
+                 alt="alan"
+                 class="image-text-picture">
+        </td>
+    </tr>
+    <!-- Строка 2 -->
+    <tr>
+        <td class="text-cell">
+                <p>Каждый Раздел, в свою очередь, делится на Категории. Каждая Категория объединяет материалы, посвящённые отдельной большой теме внутри Раздела. На сайте они отображаются в виде прямоугольных кнопок.</p>
+        </td>
+        <td class="image-cell">
+            <img src="assets/images/alan.jpg"
+                 alt="alan"
+                 class="image-text-picture">
+        </td>
+    </tr>
+    <!-- Строка 3 -->
+    <tr>
+        <td class="text-cell">
+                <p>Категории часто делятся на Главы - отдельные материалы, посвящённые конкретным вопросам внутри общей темы. На сайте Главы отображаются в виде небольших капсул.</p>
+        </td>
+        <td class="image-cell">
+            <img src="assets/images/alan.jpg"
+                 alt="alan"
+                 class="image-text-picture">
+        </td>
+    </tr>
+    <!-- Строка 4 -->
+    <tr>
+        <td class="text-cell">
+                <p>Наконец, внутри самих Глав вы встретите пункты - отдельные смысловые блоки, которые последовательно раскрывают тему. Они оформлены с помощью заголовков и собраны в оглавлении соответствующей страницы.</p>
+        </td>
+        <td class="image-cell">
+            <img src="assets/images/alan.jpg"
+                 alt="alan"
+                 class="image-text-picture">
+        </td>
+    </tr>
+
+</table>
+
+
+
+
 
 
 
