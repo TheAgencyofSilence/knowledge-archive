@@ -8,7 +8,7 @@
   <a href="Project-Organization.html" aria-current="page">Организация проекта</a>
 </nav>
 
-[Организация проекта](Project-Organization.md) → Общее Виденье Проекта
+[Организация проекта](Project-Organization.md) → Общее Видение Проекта
 
 ---
 
