@@ -22,7 +22,7 @@
 ---
 
 <div class="navbtn-test">
-  <a class="navbtn-2" href="Project-Vision.html">Общее Виденье Проекта</a>
+  <a class="navbtn-2" href="Project-Vision.html">Общее Видение Проекта</a>
   <a class="navbtn-2" href="Participation-in-Project-Management.html">Возможность участия в организации</a>
   <a class="navbtn-2" href="Project-guidelines.html">Управление Проектом</a>
   <a class="navbtn-2" href="Management-Roles.html">Роли в Группе Управления</a>
