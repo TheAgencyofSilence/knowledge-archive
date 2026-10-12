@@ -805,7 +805,7 @@
 
 ---
 
-<p style="text-align: center;"><strong>В Столице все связано. Город ничего не забывает</strong></p> 
+<p style="text-align: center;"><strong><i>В Столице все связано. Город ничего не забывает</i></strong></p> 
  
 
 ---
