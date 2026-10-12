@@ -2345,9 +2345,9 @@ table a:visited {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 10px 17px;
-  font-size: 1.26em;
-  font-weight: 560;
+  padding: 8px 13px;
+  font-size: 0.945em;
+  font-weight: 420;
   line-height: 1.3;
   color: #24292f;
   text-decoration: none;
