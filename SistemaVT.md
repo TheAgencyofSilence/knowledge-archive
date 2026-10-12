@@ -28,7 +28,7 @@
   <a class="navbtn-2" href="Agency-narrative.html">Описание Агентства</a>
   <a class="navbtn-2" href="inventory.html">Инвентарь</a>
   <a class="navbtn-2" href="Character-Sheet.html">Лист Персонажа</a>
-  <a class="navbtn-2" href="gamevision.html">Общее виденье игры</a>
+  <a class="navbtn-2" href="gamevision.html">Общее видение игры</a>
   <a class="navbtn-2" href="glossary.html">Глоссарий</a>
 </div>
 
