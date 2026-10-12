@@ -2293,31 +2293,32 @@ table a:visited {
 
 /* 2. Прямоугольная кнопка */
 
+/* 2. Прямоугольная кнопка */
 .navbtn-2 {
   display: inline-block;
-  padding: 14px 26px;
-  font-size: 1.05em;
+  padding: 12.6px 23.4px;
+  font-size: 0.945em;
   font-weight: 600;
   border: 1px solid #d1d5db;
-  border-radius: 8px;
+  border-radius: 7.2px;
   background-color: #ffffff;
   color: #24292f;
   transition: 0.2s;
 }
 
 .navbtn-2:hover {
-  background-color: #f3f4f6;
-  border-color: #9ca3af;
-  transform: translateY(-2px);
-}
-
-/* Наведение на прямоугольную кнопку */
-.navbtn-2:hover {
   background-color: #14532d;
   color: white;
   border-color: #14532d;
+  transform: translateY(-2px);
 }
 
+.navbtn-test {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9px;
+}
 .navbtn-test {
   display: flex;
   flex-direction: column;
