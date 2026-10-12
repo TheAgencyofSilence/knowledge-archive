@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="style.css">
 
-<nav class="navbar">
+<nav class="navbar nav-demo nav-demo-5">
   <a href="start.html">Введение</a>
   <a href="SistemaVT.html">Основы игровой системы</a>
   <a href="Homerules.html">Правила «Тишины»</a>
   <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
-  <a href="Project-Organization.html">Организация проекта</a>
+  <a href="Project-Organization.html" aria-current="page">Организация проекта</a>
 </nav>
 
 [Организация проекта](Project-Organization.md) → Роли в Группе Управления
