@@ -8,7 +8,7 @@
   <a href="Project-Organization.html">Организация проекта</a>
 </nav>
 
-[Главная](index.md) → [Игровая система](SistemaVT.md) → [Создание персонажей](characters-creation.md) → [Шаг четвертый: Таланты](talents.md) → Схемы создания талантов
+[Правила «Тишины»](Homerules.md) → [Создание Талантов](talents.md) → Схемы создания талантов
 
 ---
 
