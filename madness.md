@@ -122,7 +122,7 @@ _**Красный**_
 
 <div class="subnav">
   <a href="imperativ.html">Создание Императивных установок</a>
-  <a href="madnessexample.html">Создание Императивных установок</a>
+  <a href="madnessexample.html">Разбор Безумия на примере</a>
 </div>
 
 ---
