@@ -18,22 +18,21 @@
 
 ---
 
-<div class="subnav">
-  <a href="Internal-Rules.html">Домашние правила</a>
-  <a href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
-  <a href="Downtime.html">Даунтайм: Тики, Возможности и Инициативы</a>
-  <a href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
-  <a href="Agent-Word.html">Слово Агента</a>
-  <a href="talents.html">Создание Талантов</a>
-  <a href="items-creation.html">Крафт: Процесс создания предметов</a>
-  <a href="special-skills.html">Детальный разбор особых навыков</a>
-  <a href="Optional-Rules-of-Hypnosis.html">Опциональные правила гипноза</a>
-  <a href="segments.html">Сегменты</a>
-  <a href="Parallelism.html">Параллелизм</a> 
-  <a href="Warnings-and-Sanctions-System.html">Система предупреждений и санкций</a>
-  <a href="Useful-Links.html">Полезные ссылки</a>
+<div class="navbtn-test">
+  <a class="navbtn-2" href="Internal-Rules.html">Домашние правила</a>
+  <a class="navbtn-2" href="Rule-of-Three-Mistakes.html">Правило о трех ошибках</a>
+  <a class="navbtn-2" href="Downtime.html">Даунтайм: Тики, Возможности и Инициативы</a>
+  <a class="navbtn-2" href="Audit-Log.html">Журнал Аудита (Склад Агентства)</a>
+  <a class="navbtn-2" href="Agent-Word.html">Слово Агента</a>
+  <a class="navbtn-2" href="talents.html">Создание Талантов</a>
+  <a class="navbtn-2" href="items-creation.html">Крафт: Процесс создания предметов</a>
+  <a class="navbtn-2" href="special-skills.html">Детальный разбор особых навыков</a>
+  <a class="navbtn-2" href="Optional-Rules-of-Hypnosis.html">Опциональные правила гипноза</a>
+  <a class="navbtn-2" href="segments.html">Сегменты</a>
+  <a class="navbtn-2" href="Parallelism.html">Параллелизм</a>
+  <a class="navbtn-2" href="Warnings-and-Sanctions-System.html">Система предупреждений и санкций</a>
+  <a class="navbtn-2" href="Useful-Links.html">Полезные ссылки</a>
 </div>
-
 ---
 
 <h2>Что вы найдёте в этом разделе:</h2>  
