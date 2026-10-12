@@ -2286,32 +2286,45 @@ table a:visited {
 /* ========================================= */
 
 
+/* ========================================= */
+/* АЛЬТЕРНАТИВНЫЕ КНОПКИ НАВИГАЦИИ           */
+/* ========================================= */
+
+
 /* 2. Прямоугольная кнопка */
+
 .navbtn-2 {
   display: inline-block;
-  padding: 11.2px 20.8px;
-  font-size: 0.84em;
+  padding: 14px 26px;
+  font-size: 1.05em;
   font-weight: 600;
   border: 1px solid #d1d5db;
-  border-radius: 6.4px;
+  border-radius: 8px;
   background-color: #ffffff;
   color: #24292f;
   transition: 0.2s;
 }
 
 .navbtn-2:hover {
+  background-color: #f3f4f6;
+  border-color: #9ca3af;
+  transform: translateY(-2px);
+}
+
+/* Наведение на прямоугольную кнопку */
+.navbtn-2:hover {
   background-color: #14532d;
   color: white;
   border-color: #14532d;
-  transform: translateY(-2px);
 }
 
 .navbtn-test {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 8px;
+  gap: 10px;
 }
+
 
 /* ========================================= */
 /* ОБЩИЕ ОТСТУПЫ ДЛЯ ТЕСТОВОЙ СТРАНИЦЫ       */
