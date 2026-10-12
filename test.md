@@ -15,7 +15,7 @@
 
 <!-- 2. Прямоугольная кнопка -->
 <div class="navbtn-test">
-  <a class="navbtn-2" href="1-fortitude.html">Стойкость</a>
+  <a class="navbtn-2" href="1-fortitude.html">Категория</a>
 </div>
 
 
