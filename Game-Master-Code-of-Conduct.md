@@ -18,13 +18,13 @@
 
 ---
 
-<div class="subnav">
-  <a href="Becoming-a-Game-Master.html">Порядок становления Мастером</a>
-  <a href="Game-Listing-Guidelines.html">Правила написания обьявлений об играх</a>
-  <a href="General-GM-Rules.html">Общие правила для Мастеров</a>
-  <a href="Payout-System.html">Систематизация выплат</a>
-  <a href="Character-Creation-Guidelines.html">Генережка: Создание персонажей игроков</a>
-  <a href="Creation-and-Rules-of-Segments.html">Создание и правила Сегментов</a>
+<div class="navbtn-test">
+  <a class="navbtn-2" href="Becoming-a-Game-Master.html">Порядок становления Мастером</a>
+  <a class="navbtn-2" href="Game-Listing-Guidelines.html">Правила написания обьявлений об играх</a>
+  <a class="navbtn-2" href="General-GM-Rules.html">Общие правила для Мастеров</a>
+  <a class="navbtn-2" href="Payout-System.html">Систематизация выплат</a>
+  <a class="navbtn-2" href="Character-Creation-Guidelines.html">Генережка: Создание персонажей игроков</a>
+  <a class="navbtn-2" href="Creation-and-Rules-of-Segments.html">Создание и правила Сегментов</a>
 </div>
 
 ---
