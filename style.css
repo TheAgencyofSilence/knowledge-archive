@@ -2358,17 +2358,19 @@ table a:visited {
     border-color 0.18s ease;
 }
 
-/* 5. Минималистичные вкладки — полоска сверху */
+/* 5. Минималистичные вкладки — линии сверху и снизу */
 .nav-demo-5 a {
   border-top: 2px solid transparent;
   border-bottom: 2px solid transparent;
   padding-top: 7px;
+  padding-bottom: 7px;
 }
 
 .nav-demo-5 a:hover,
 .nav-demo-5 a[aria-current="page"] {
   color: #14532d;
   border-top-color: #14532d;
+  border-bottom-color: #14532d;
 }
 
 
