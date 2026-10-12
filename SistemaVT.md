@@ -2,7 +2,7 @@
 
 <nav class="navbar nav-demo nav-demo-5">
   <a href="start.html">Введение</a>
-  <a href="SistemaVT.html" aria-current="page">В>Основы игровой системы</a>
+  <a href="SistemaVT.html" aria-current="page">Основы игровой системы</a>
   <a href="Homerules.html">Правила «Тишины»</a>
   <a href="Game-Master-Code-of-Conduct.html">Кодекс Мастеров</a>
   <a href="Project-Organization.html">Организация проекта</a>
