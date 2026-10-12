@@ -10,15 +10,24 @@
 
 
 <h1 class="center">Тестовая страница</h1> 
-
-
+ㅤㅤㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 
 <!-- 2. Прямоугольная кнопка -->
 <div class="navbtn-test">
-  <a class="navbtn-2" href="1-fortitude.html">Категория</a>
+  <a class="navbtn-2" href="1-fortitude.html">Стойкость</a>
 </div>
 
-
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 
 
 <!-- Вариант 5 -->
