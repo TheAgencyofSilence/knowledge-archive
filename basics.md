@@ -35,7 +35,7 @@ _**Дара Ривер**_
 
 <div class="subnav">
   <a href="Foreword.html">Предисловие</a>
-  <a href="roll.html">Бросок кубиков</a>
+  <a href="roll.html">Правила бросков</a>
   <a href="actions-type.html">Виды действий</a>
   <a href="advantages.html">Создание преимуществ</a>
   <a href="problems.html">Проблемы</a>
