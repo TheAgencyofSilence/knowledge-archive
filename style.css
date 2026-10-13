@@ -2365,7 +2365,7 @@ table a:visited {
     border-color 0.18s ease;
 }
 
-/* 5. Минималистичные вкладки — линии сверху и снизу */
+/* 5. Минималистичные вкладки — фиолетовые линии сверху и снизу */
 .nav-demo-5 a {
   border-top: 2px solid transparent;
   border-bottom: 2px solid transparent;
@@ -2375,9 +2375,8 @@ table a:visited {
 
 .nav-demo-5 a:hover,
 .nav-demo-5 a[aria-current="page"] {
-  color: #14532d;
-  border-top-color: #14532d;
-  border-bottom-color: #14532d;
+  color: #551A8B;
+  border-top-color: #551A8B;
+  border-bottom-color: #551A8B;
 }
-
 
