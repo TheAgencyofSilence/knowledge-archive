@@ -79,8 +79,8 @@
                 <p>Категории часто делятся на <strong>Главы</strong> - отдельные материалы, посвящённые конкретным вопросам внутри общей темы. <br><br>На сайте Главы отображаются в виде небольших серых капсул.</p>
         </td>
         <td class="image-cell">
-            <img src="assets/images/glavi.png"
-                 alt="glavi"
+            <img src="assets/images/glavi1.png"
+                 alt="glavi1"
                  class="image-text-picture">
         </td>
     </tr>
