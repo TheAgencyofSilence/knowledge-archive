@@ -55,7 +55,7 @@
 <div class="note note-">
     <p>• Если врагов много, они слабы и однотипны <i>(к примеру, несколько рядовых уличных бандитов из мелкой шайки)</i>, считайте, что одного пункта урона достаточно, чтобы убить или избавиться от такого противника.</p>
 
-    <p>Подробнее об этом вы сможете в будущем прочесть в <a href="https://theagencyofsilence.github.io/knowledge-archive/group-combat.html">«Правила группового боя»</a>.</p>
+    <p>Подробнее об этом вы сможете в будущем прочесть в главе<a href="https://theagencyofsilence.github.io/knowledge-archive/group-combat.html">«Правила группового боя»</a>.</p>
 </div>
 
 <div class="note note-">
