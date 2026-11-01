@@ -66,7 +66,7 @@
         <td class="center">
             <img src="assets/images/planir.png"
                  alt="planir"
-                 class="single-table-image vehi-predistorii-image3">
+                 class="single-table-image vehi-predistorii-image4">
         </td>
     </tr>
 
