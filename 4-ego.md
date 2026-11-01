@@ -223,7 +223,7 @@
 
 Эти правила относятся к углублённым механикам системы. Мы рекомендуем ознакомиться с ними после того, как вы освоите основы игровой системы.
 
-Подробнее ознакомиться с опциональными правилами Гипноза можно в <a href="https://theagencyofsilence.github.io/knowledge-archive/Optional-Rules-of-Hypnosis.html">соответсвующей главе</a>. 
+Подробнее ознакомиться с опциональными правилами Гипноза можно в <a href="https://theagencyofsilence.github.io/knowledge-archive/Optional-Rules-of-Hypnosis.html">соответсвующей категории</a>. 
 
 ---
 
