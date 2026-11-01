@@ -19,7 +19,7 @@
 
 <!-- 2. Прямоугольная кнопка -->
 <div class="navbtn-test">
-  <a class="navbtn-2" href="1-fortitude.html">Стойкость</a>
+  <a class="navbtn-2" href="1-fortitude.html">Категория</a>
 </div>
 
 ㅤ
@@ -61,8 +61,8 @@
                 <p>Вся наша экосистема правил разделена на пять Разделов. Каждый из них объединяет материалы, посвящённые определённой стороне проекта: от игровой системы до организации работы «Тишины». Найти их можно в верхней части каждой страницы.</p>
         </td>
         <td class="image-cell">
-            <img src="assets/images/alan.jpg"
-                 alt="alan"
+            <img src="assets/images/razdel.png"
+                 alt="razdel"
                  class="image-text-picture">
         </td>
     </tr>
@@ -72,8 +72,8 @@
                 <p>Каждый Раздел, в свою очередь, делится на Категории. Каждая Категория объединяет материалы, посвящённые отдельной большой теме внутри Раздела. На сайте они отображаются в виде прямоугольных кнопок.</p>
         </td>
         <td class="image-cell">
-            <img src="assets/images/alan.jpg"
-                 alt="alan"
+            <img src="assets/images/Kategoria.png"
+                 alt="Kategoria"
                  class="image-text-picture">
         </td>
     </tr>
@@ -83,19 +83,8 @@
                 <p>Категории часто делятся на Главы - отдельные материалы, посвящённые конкретным вопросам внутри общей темы. На сайте Главы отображаются в виде небольших капсул.</p>
         </td>
         <td class="image-cell">
-            <img src="assets/images/alan.jpg"
-                 alt="alan"
-                 class="image-text-picture">
-        </td>
-    </tr>
-    <!-- Строка 4 -->
-    <tr>
-        <td class="text-cell">
-                <p>Наконец, внутри самих Глав вы встретите пункты - отдельные смысловые блоки, которые последовательно раскрывают тему. Они оформлены с помощью заголовков и собраны в оглавлении соответствующей страницы.</p>
-        </td>
-        <td class="image-cell">
-            <img src="assets/images/alan.jpg"
-                 alt="alan"
+            <img src="assets/images/glavi.png"
+                 alt="glavi"
                  class="image-text-picture">
         </td>
     </tr>
