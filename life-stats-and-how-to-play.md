@@ -86,7 +86,7 @@
 
 **Как проходит интоксикация?**
 
-Подробнее об том, как можно снять пункты интоксикации вы можете прочитать в <a href="https://theagencyofsilence.github.io/knowledge-archive/Recovery-During-the-Game.html">в следующей главе </a>)
+Подробнее об том, как можно снять пункты интоксикации вы можете прочитать в <a href="https://theagencyofsilence.github.io/knowledge-archive/Recovery-During-the-Game.html">в следующей главе</a>)
 
 ---
 
