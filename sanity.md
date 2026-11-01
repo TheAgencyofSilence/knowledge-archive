@@ -48,7 +48,7 @@
 
 <h2>Мастеру: Рассудок противников</h2> 
 
-Здесь правила такие же как и в правилах о <a href="https://theagencyofsilence.github.io/knowledge-archive/health.html">Здоровье противников</a>.
+Здесь правила такие же, как и в правилах о <a href="https://theagencyofsilence.github.io/knowledge-archive/health.html">Здоровье противников</a>.
 
 ---
 
