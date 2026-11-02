@@ -130,7 +130,7 @@
         <td class="center">
             <img src="assets/images/startimg.jpg"
                  alt="startimg"
-                 class="single-table-image vehi-predistorii-image4">
+                 class="single-table-image vehi-predistorii-image3">
         </td>
     </tr>
 
