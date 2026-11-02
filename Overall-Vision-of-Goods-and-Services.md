@@ -58,7 +58,7 @@
             <p>В 2м кольце</p>
         </td>
         <td class="parchment-cell">
-            <p>В 3м-4м кольце</p>
+            <p><strong>В 3м-4м кольце</strong></p>
         </td>
         <td class="center">
             <p>В 5м-6м кольце</p>
