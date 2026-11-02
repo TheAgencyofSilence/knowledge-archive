@@ -61,8 +61,8 @@
     <!-- Строка 1 -->
     <tr>
         <td class="image-cell">
-            <img src="assets/images/Noktus.jpg"
-                 alt="Noktus"
+            <img src="assets/images/Noktus1.jpg"
+                 alt="Noktus1"
                  class="image-text-picture">
         </td>
 
