@@ -18,7 +18,7 @@
 
 Создание предметов - это углублённая механика нашей системы. Если вы читаете правила впервые, скорее всего, вы пока ещё не знакомы с принципами её работы. В таком случае не обязательно разбираться с калькулятором прямо сейчас: вы сможете вернуться к этой странице позже, когда познакомитесь с механикой крафта.
 
-Подробнее о Создании предметов можно в будущем прочитать в разделе „Правила «Тишины»“ в главе <a href="https://theagencyofsilence.github.io/knowledge-archive/items-creation.html">«Процесс создания предметов»</a>.
+Подробнее о Создании предметов можно в будущем прочитать в разделе „Правила «Тишины»“ в категории <a href="https://theagencyofsilence.github.io/knowledge-archive/items-creation.html">«Процесс создания предметов»</a>.
 
 ---
 
@@ -30,8 +30,8 @@
 
     <tr>
         <td class="center">
-            <img src="assets/images/Kategoria.png"
-                 alt="Kategoria"
+            <img src="assets/images/Kategoria1.png"
+                 alt="Kategoria1"
                  class="single-table-image vehi-predistorii-image">
         </td>
     </tr>
