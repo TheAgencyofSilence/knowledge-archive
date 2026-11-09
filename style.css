@@ -2379,21 +2379,27 @@ table a:visited {
   border-top-color: #551A8B;
   border-bottom-color: #551A8B;
 }
-
 /* ========================================= */
-/* НАВИГАЦИЯ С КРАТКИМ ОПИСАНИЕМ ГЛАВ        */
+/* КНОПКА ССЫЛКИ + РАСКРЫВАЮЩЕЕСЯ ОПИСАНИЕ */
 /* ========================================= */
 
 .topic-preview {
   display: grid;
-  grid-template-columns: minmax(0, max-content) 42px;
-  gap: 10px;
+  grid-template-columns: max-content 42px;
+  column-gap: 10px;
   align-items: start;
+  width: fit-content;
+  max-width: 100%;
   margin: 12px 0;
+  position: relative;
 }
 
-/* Основная кнопка-ссылка */
+/* Кнопка-ссылка слева */
 .topic-preview > a {
+  grid-column: 1;
+  grid-row: 1;
+  z-index: 1;
+
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -2404,6 +2410,7 @@ table a:visited {
   font-size: 0.945em;
   font-weight: 600;
   color: #24292f;
+  text-decoration: none;
 
   border: 1px solid #d1d5db;
   border-radius: 7.2px;
@@ -2419,16 +2426,27 @@ table a:visited {
   transform: translateY(-2px);
 }
 
-/* Кнопка раскрытия */
-.topic-preview > summary {
-  grid-column: 2;
+/* Контейнер раскрытия */
+.topic-preview > details {
+  grid-column: 1 / -1;
   grid-row: 1;
+  position: relative;
+  min-width: 0;
+  min-height: 42px;
+}
+
+/* Квадратная кнопка справа */
+.topic-preview > details > summary {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
 
   display: flex;
   align-items: center;
   justify-content: center;
-
   box-sizing: border-box;
+
   width: 42px;
   height: 42px;
 
@@ -2441,17 +2459,16 @@ table a:visited {
   transition: 0.2s;
 }
 
-/* Убираем стандартный маркер браузера */
-.topic-preview > summary::-webkit-details-marker {
+.topic-preview > details > summary::-webkit-details-marker {
   display: none;
 }
 
-.topic-preview > summary::marker {
+.topic-preview > details > summary::marker {
   content: "";
 }
 
 /* Чёрный треугольник */
-.topic-preview > summary::before {
+.topic-preview > details > summary::before {
   content: "";
   width: 0;
   height: 0;
@@ -2463,26 +2480,28 @@ table a:visited {
   transition: transform 0.2s;
 }
 
-/* При наведении */
-.topic-preview > summary:hover {
+.topic-preview > details > summary:hover {
   background-color: #f3f4f6;
   border-color: #9ca3af;
 }
 
-/* Поворачиваем треугольник при раскрытии */
-.topic-preview[open] > summary::before {
+/* Поворот треугольника при раскрытии */
+.topic-preview > details[open] > summary::before {
   transform: rotate(90deg);
 }
 
-/* Информационное окно */
-.topic-preview > .topic-preview-content {
-  grid-column: 1 / -1;
-  grid-row: 2;
+/* Отступ под кнопками для раскрытого окна */
+.topic-preview > details[open] {
+  padding-top: 52px;
+  box-sizing: border-box;
+}
 
+/* Информационное окно */
+.topic-preview-content {
   box-sizing: border-box;
   width: 100%;
-
   padding: 24px 36px;
+
   border: 1px solid #e0e4e9;
   border-radius: 22px;
 
@@ -2492,14 +2511,14 @@ table a:visited {
   animation: topic-preview-appear 0.2s ease;
 }
 
-/* Заголовок внутри окна */
+/* Заголовок окна */
 .topic-preview-content h3 {
   margin: 0 0 16px;
   font-size: 1.25em;
   font-weight: 700;
 }
 
-/* Текст внутри окна */
+/* Текст окна */
 .topic-preview-content p {
   margin: 0;
   line-height: 1.6;
@@ -2520,6 +2539,7 @@ table a:visited {
 /* Мобильная версия */
 @media (max-width: 600px) {
   .topic-preview {
+    width: 100%;
     grid-template-columns: minmax(0, 1fr) 42px;
   }
 
@@ -2529,8 +2549,7 @@ table a:visited {
     overflow-wrap: anywhere;
   }
 
-  .topic-preview > .topic-preview-content {
+  .topic-preview-content {
     padding: 20px 22px;
   }
 }
-
