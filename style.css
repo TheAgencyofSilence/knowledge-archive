@@ -2380,3 +2380,157 @@ table a:visited {
   border-bottom-color: #551A8B;
 }
 
+/* ========================================= */
+/* НАВИГАЦИЯ С КРАТКИМ ОПИСАНИЕМ ГЛАВ        */
+/* ========================================= */
+
+.topic-preview {
+  display: grid;
+  grid-template-columns: minmax(0, max-content) 42px;
+  gap: 10px;
+  align-items: start;
+  margin: 12px 0;
+}
+
+/* Основная кнопка-ссылка */
+.topic-preview > a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-height: 42px;
+  padding: 12.6px 23.4px;
+
+  font-size: 0.945em;
+  font-weight: 600;
+  color: #24292f;
+
+  border: 1px solid #d1d5db;
+  border-radius: 7.2px;
+  background-color: #ffffff;
+
+  transition: 0.2s;
+}
+
+.topic-preview > a:hover {
+  background-color: #14532d;
+  color: #ffffff;
+  border-color: #14532d;
+  transform: translateY(-2px);
+}
+
+/* Кнопка раскрытия */
+.topic-preview > summary {
+  grid-column: 2;
+  grid-row: 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  box-sizing: border-box;
+  width: 42px;
+  height: 42px;
+
+  border: 1px solid #d1d5db;
+  border-radius: 7.2px;
+  background-color: #ffffff;
+
+  cursor: pointer;
+  list-style: none;
+  transition: 0.2s;
+}
+
+/* Убираем стандартный маркер браузера */
+.topic-preview > summary::-webkit-details-marker {
+  display: none;
+}
+
+.topic-preview > summary::marker {
+  content: "";
+}
+
+/* Чёрный треугольник */
+.topic-preview > summary::before {
+  content: "";
+  width: 0;
+  height: 0;
+
+  border-left: 9px solid #000000;
+  border-top: 6px solid transparent;
+  border-bottom: 6px solid transparent;
+
+  transition: transform 0.2s;
+}
+
+/* При наведении */
+.topic-preview > summary:hover {
+  background-color: #f3f4f6;
+  border-color: #9ca3af;
+}
+
+/* Поворачиваем треугольник при раскрытии */
+.topic-preview[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* Информационное окно */
+.topic-preview > .topic-preview-content {
+  grid-column: 1 / -1;
+  grid-row: 2;
+
+  box-sizing: border-box;
+  width: 100%;
+
+  padding: 24px 36px;
+  border: 1px solid #e0e4e9;
+  border-radius: 22px;
+
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+
+  animation: topic-preview-appear 0.2s ease;
+}
+
+/* Заголовок внутри окна */
+.topic-preview-content h3 {
+  margin: 0 0 16px;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+/* Текст внутри окна */
+.topic-preview-content p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Плавное появление */
+@keyframes topic-preview-appear {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Мобильная версия */
+@media (max-width: 600px) {
+  .topic-preview {
+    grid-template-columns: minmax(0, 1fr) 42px;
+  }
+
+  .topic-preview > a {
+    min-width: 0;
+    justify-content: flex-start;
+    overflow-wrap: anywhere;
+  }
+
+  .topic-preview > .topic-preview-content {
+    padding: 20px 22px;
+  }
+}
+
