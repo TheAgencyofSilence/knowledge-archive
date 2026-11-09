@@ -2386,15 +2386,17 @@ table a:visited {
 .topic-preview {
   display: grid;
   grid-template-columns: max-content 42px;
+  grid-template-rows: auto auto;
   column-gap: 10px;
+  row-gap: 12px;
   align-items: stretch;
 
-  width: fit-content;
+  width: min(700px, 100%);
   max-width: 100%;
   margin: 12px 0;
 }
 
-/* Независимая кнопка-ссылка */
+/* Кнопка-ссылка */
 .topic-preview > a {
   grid-column: 1;
   grid-row: 1;
@@ -2428,29 +2430,23 @@ table a:visited {
   transform: translateY(-2px);
 }
 
-/* Независимый контейнер треугольника */
+/* Контейнер раскрывающегося блока */
 .topic-preview > details {
-  grid-column: 2;
-  grid-row: 1;
-
-  display: flex;
-  align-items: stretch;
-  width: 42px;
-  min-width: 42px;
-  height: auto;
+  display: contents;
 }
 
 /* Кнопка-треугольник */
 .topic-preview > details > summary {
+  grid-column: 2;
+  grid-row: 1;
+
   display: flex;
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
 
   width: 42px;
-  height: auto;
-  min-height: 100%;
-  align-self: stretch;
+  min-height: 42px;
 
   border: 1px solid #d1d5db;
   border-radius: 7.2px;
@@ -2469,7 +2465,7 @@ table a:visited {
   content: "";
 }
 
-/* Чёрный треугольник */
+/* Треугольник */
 .topic-preview > details > summary::before {
   content: "";
   width: 0;
@@ -2487,23 +2483,21 @@ table a:visited {
   border-color: #9ca3af;
 }
 
-/* Поворот треугольника при раскрытии */
+/* Поворот треугольника */
 .topic-preview > details[open] > summary::before {
   transform: rotate(90deg);
 }
 
 /* Информационное окно */
 .topic-preview-content {
-  position: relative;
+  grid-column: 1 / -1;
+  grid-row: 2;
+
   box-sizing: border-box;
+  width: 100%;
+  max-width: 700px;
 
-  width: min(700px, calc(100vw - 40px));
-  max-width: none;
-
-  margin-top: 12px;
-  margin-left: -52px;
-  margin-right: 0;
-
+  margin: 0;
   padding: 24px 36px;
 
   border: 1px solid #e0e4e9;
@@ -2515,20 +2509,20 @@ table a:visited {
   animation: topic-preview-appear 0.2s ease;
 }
 
-/* Заголовок окна */
+/* Заголовок */
 .topic-preview-content h3 {
   margin: 0 0 16px;
   font-size: 1.25em;
   font-weight: 700;
 }
 
-/* Текст окна */
+/* Текст */
 .topic-preview-content p {
   margin: 0;
   line-height: 1.6;
 }
 
-/* Анимация появления */
+/* Анимация */
 @keyframes topic-preview-appear {
   from {
     opacity: 0;
@@ -2543,8 +2537,6 @@ table a:visited {
 /* Мобильная версия */
 @media (max-width: 600px) {
   .topic-preview-content {
-    width: calc(100vw - 40px);
-    margin-left: -52px;
     padding: 20px 22px;
   }
 }
