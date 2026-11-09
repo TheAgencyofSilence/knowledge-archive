@@ -2386,12 +2386,10 @@ table a:visited {
 .topic-preview {
   display: grid;
   grid-template-columns: max-content 42px;
-  grid-template-rows: auto auto;
   column-gap: 10px;
-  row-gap: 12px;
-  align-items: stretch;
+  align-items: start;
 
-  width: min(700px, 100%);
+  width: fit-content;
   max-width: 100%;
   margin: 12px 0;
 }
@@ -2430,23 +2428,27 @@ table a:visited {
   transform: translateY(-2px);
 }
 
-/* Контейнер раскрывающегося блока */
+/* Контейнер треугольника */
 .topic-preview > details {
-  display: contents;
+  grid-column: 2;
+  grid-row: 1;
+
+  display: block;
+  position: relative;
+
+  width: 42px;
+  min-width: 42px;
 }
 
 /* Кнопка-треугольник */
 .topic-preview > details > summary {
-  grid-column: 2;
-  grid-row: 1;
-
   display: flex;
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
 
   width: 42px;
-  min-height: 42px;
+  height: 42px;
 
   border: 1px solid #d1d5db;
   border-radius: 7.2px;
@@ -2457,6 +2459,7 @@ table a:visited {
   transition: 0.2s;
 }
 
+/* Убираем стандартный маркер */
 .topic-preview > details > summary::-webkit-details-marker {
   display: none;
 }
@@ -2465,7 +2468,7 @@ table a:visited {
   content: "";
 }
 
-/* Треугольник */
+/* Чёрный треугольник */
 .topic-preview > details > summary::before {
   content: "";
   width: 0;
@@ -2478,24 +2481,28 @@ table a:visited {
   transition: transform 0.2s;
 }
 
+/* Эффект при наведении */
 .topic-preview > details > summary:hover {
   background-color: #f3f4f6;
   border-color: #9ca3af;
 }
 
-/* Поворот треугольника */
+/* Поворот треугольника при раскрытии */
 .topic-preview > details[open] > summary::before {
   transform: rotate(90deg);
 }
 
 /* Информационное окно */
 .topic-preview-content {
-  grid-column: 1 / -1;
-  grid-row: 2;
+  position: absolute;
+  z-index: 10;
+
+  top: calc(100% + 12px);
+  left: -52px;
 
   box-sizing: border-box;
-  width: 100%;
-  max-width: 700px;
+  width: min(700px, calc(100vw - 40px));
+  max-width: none;
 
   margin: 0;
   padding: 24px 36px;
@@ -2509,20 +2516,20 @@ table a:visited {
   animation: topic-preview-appear 0.2s ease;
 }
 
-/* Заголовок */
+/* Заголовок окна */
 .topic-preview-content h3 {
   margin: 0 0 16px;
   font-size: 1.25em;
   font-weight: 700;
 }
 
-/* Текст */
+/* Текст окна */
 .topic-preview-content p {
   margin: 0;
   line-height: 1.6;
 }
 
-/* Анимация */
+/* Анимация появления */
 @keyframes topic-preview-appear {
   from {
     opacity: 0;
@@ -2537,6 +2544,8 @@ table a:visited {
 /* Мобильная версия */
 @media (max-width: 600px) {
   .topic-preview-content {
+    width: calc(100vw - 40px);
+    left: -52px;
     padding: 20px 22px;
   }
 }
