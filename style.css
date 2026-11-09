@@ -2559,3 +2559,62 @@ table a:visited {
     padding: 20px 22px;
   }
 }
+
+
+/* Новая компоновка: Flexbox */
+
+.topic-preview {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 10px;
+
+  width: fit-content;
+  max-width: 100%;
+}
+
+/* Кнопка-ссылка */
+.topic-preview > a {
+  flex: 0 0 auto;
+}
+
+/* Контейнер треугольника */
+.topic-preview > details {
+  display: block;
+
+  flex: 0 0 42px;
+  width: 42px;
+  min-width: 42px;
+  max-width: 42px;
+
+  margin: 0;
+  padding: 0;
+  align-self: flex-start;
+}
+
+/* Сам треугольник */
+.topic-preview > details > summary {
+  box-sizing: border-box;
+  display: flex;
+
+  width: 42px;
+  height: 42px;
+  min-height: 42px;
+
+  margin: 0;
+  padding: 0;
+}
+
+/* Раскрывающаяся подсказка */
+.topic-preview-content {
+  position: static;
+  display: block;
+
+  box-sizing: border-box;
+  width: min(700px, calc(100vw - 40px));
+  min-width: 0;
+  max-width: none;
+
+  margin-top: 12px;
+  margin-left: -52px;
+}
