@@ -2380,18 +2380,19 @@ table a:visited {
   border-bottom-color: #551A8B;
 }
 /* ========================================= */
-/* КНОПКА ССЫЛКИ + РАСКРЫВАЮЩЕЕСЯ ОПИСАНИЕ */
+/* ФИНАЛЬНАЯ КОМПОНОВКА КНОПОК И БАБЛА       */
 /* ========================================= */
 
 .topic-preview {
   display: grid;
   grid-template-columns: max-content 42px;
+  grid-template-rows: 42px auto;
   column-gap: 10px;
-  align-items: stretch;
+  row-gap: 0;
 
   width: fit-content;
   max-width: 100%;
-  margin: 12px 0;
+  align-items: stretch;
 }
 
 /* Кнопка-ссылка */
@@ -2399,53 +2400,19 @@ table a:visited {
   grid-column: 1;
   grid-row: 1;
 
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  box-sizing: border-box;
-
+  height: 42px;
   min-height: 42px;
-  width: fit-content;
-  max-width: 100%;
-  padding: 12.6px 23.4px;
-
-  font-size: 0.945em;
-  font-weight: 600;
-  color: #24292f;
-  text-decoration: none;
-
-  border: 1px solid #d1d5db;
-  border-radius: 7.2px;
-  background-color: #ffffff;
-
-  transition: 0.2s;
+  box-sizing: border-box;
 }
 
-.topic-preview > a:hover {
-  background-color: #14532d;
-  color: #ffffff;
-  border-color: #14532d;
-  transform: translateY(-2px);
-}
-
-/* Контейнер треугольника и бабла */
+/* Убираем details из расчёта сетки */
 .topic-preview > details {
-  grid-column: 2;
-  grid-row: 1;
-
-  display: grid;
-  grid-template-columns: 42px;
-  grid-template-rows: 42px auto;
-
-  width: 42px;
-  min-width: 0;
-  max-width: 42px;
-  align-self: start;
+  display: contents;
 }
 
 /* Кнопка-треугольник */
 .topic-preview > details > summary {
-  grid-column: 1;
+  grid-column: 2;
   grid-row: 1;
 
   display: flex;
@@ -2454,8 +2421,11 @@ table a:visited {
 
   box-sizing: border-box;
   width: 42px;
-  height: 100%;
+  height: 42px;
   min-height: 42px;
+
+  margin: 0;
+  padding: 0;
 
   border: 1px solid #d1d5db;
   border-radius: 7.2px;
@@ -2463,7 +2433,7 @@ table a:visited {
 
   cursor: pointer;
   list-style: none;
-  transition: 0.2s;
+  transition: background-color 0.2s;
 }
 
 /* Убираем стандартный маркер */
@@ -2475,7 +2445,7 @@ table a:visited {
   content: "";
 }
 
-/* Чёрный треугольник */
+/* Треугольник */
 .topic-preview > details > summary::before {
   content: "";
   width: 0;
@@ -2494,27 +2464,24 @@ table a:visited {
   border-color: #9ca3af;
 }
 
-/* Поворот треугольника при раскрытии */
+/* Поворот треугольника */
 .topic-preview > details[open] > summary::before {
   transform: rotate(90deg);
 }
 
-/* Информационное окно */
+/* Бабл: отдельная строка под обеими кнопками */
 .topic-preview-content {
-  grid-column: 1;
+  grid-column: 1 / -1;
   grid-row: 2;
 
-  position: static;
+  position: relative;
   justify-self: start;
 
   box-sizing: border-box;
   width: min(700px, calc(100vw - 40px));
-  min-width: 0;
-  max-width: none;
+  max-width: 100%;
 
-  margin-top: 12px;
-  margin-left: -52px;
-
+  margin: 12px 0 0;
   padding: 24px 36px;
 
   border: 1px solid #e0e4e9;
@@ -2526,95 +2493,10 @@ table a:visited {
   animation: topic-preview-appear 0.2s ease;
 }
 
-/* Заголовок окна */
-.topic-preview-content h3 {
-  margin: 0 0 16px;
-  font-size: 1.25em;
-  font-weight: 700;
-}
-
-/* Текст окна */
-.topic-preview-content p {
-  margin: 0;
-  line-height: 1.6;
-}
-
-/* Анимация появления */
-@keyframes topic-preview-appear {
-  from {
-    opacity: 0;
-    transform: translateY(-5px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 /* Мобильная версия */
 @media (max-width: 600px) {
   .topic-preview-content {
     width: calc(100vw - 40px);
-    margin-left: -52px;
     padding: 20px 22px;
   }
-}
-
-
-/* Новая компоновка: Flexbox */
-
-.topic-preview {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: flex-start;
-  gap: 10px;
-
-  width: fit-content;
-  max-width: 100%;
-}
-
-/* Кнопка-ссылка */
-.topic-preview > a {
-  flex: 0 0 auto;
-}
-
-/* Контейнер треугольника */
-.topic-preview > details {
-  display: block;
-
-  flex: 0 0 42px;
-  width: 42px;
-  min-width: 42px;
-  max-width: 42px;
-
-  margin: 0;
-  padding: 0;
-  align-self: flex-start;
-}
-
-/* Сам треугольник */
-.topic-preview > details > summary {
-  box-sizing: border-box;
-  display: flex;
-
-  width: 42px;
-  height: 42px;
-  min-height: 42px;
-
-  margin: 0;
-  padding: 0;
-}
-
-/* Раскрывающаяся подсказка */
-.topic-preview-content {
-  position: static;
-  display: block;
-
-  box-sizing: border-box;
-  width: min(700px, calc(100vw - 40px));
-  min-width: 0;
-  max-width: none;
-
-  margin-top: 12px;
-  margin-left: -52px;
 }
