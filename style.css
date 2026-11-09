@@ -2386,10 +2386,12 @@ table a:visited {
 .topic-preview {
   display: grid;
   grid-template-columns: max-content 42px;
+  grid-template-rows: auto auto;
   column-gap: 10px;
-  align-items: start;
+  row-gap: 12px;
+  align-items: stretch;
 
-  width: fit-content;
+  width: min(700px, 100%);
   max-width: 100%;
   margin: 12px 0;
 }
@@ -2428,27 +2430,24 @@ table a:visited {
   transform: translateY(-2px);
 }
 
-/* Контейнер треугольника */
+/* Контейнер details */
 .topic-preview > details {
-  grid-column: 2;
-  grid-row: 1;
-
-  display: block;
-  position: relative;
-
-  width: 42px;
-  min-width: 42px;
+  display: contents;
 }
 
 /* Кнопка-треугольник */
 .topic-preview > details > summary {
+  grid-column: 2;
+  grid-row: 1;
+
   display: flex;
   align-items: center;
   justify-content: center;
-  box-sizing: border-box;
+  align-self: stretch;
 
+  box-sizing: border-box;
   width: 42px;
-  height: 42px;
+  min-height: 100%;
 
   border: 1px solid #d1d5db;
   border-radius: 7.2px;
@@ -2494,15 +2493,16 @@ table a:visited {
 
 /* Информационное окно */
 .topic-preview-content {
-  position: absolute;
-  z-index: 10;
+  grid-column: 1 / -1;
+  grid-row: 2;
 
-  top: calc(100% + 12px);
-  left: -52px;
+  position: static;
+  justify-self: start;
 
   box-sizing: border-box;
-  width: min(700px, calc(100vw - 40px));
-  max-width: none;
+  width: 100%;
+  max-width: 700px;
+  min-width: 0;
 
   margin: 0;
   padding: 24px 36px;
@@ -2544,7 +2544,9 @@ table a:visited {
 /* Мобильная версия */
 @media (max-width: 600px) {
   .topic-preview-content {
-    width: calc(100vw - 40px);
+    padding: 20px 22px;
+  }
+}
     left: -52px;
     padding: 20px 22px;
   }
