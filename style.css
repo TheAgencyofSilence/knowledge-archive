@@ -2383,28 +2383,28 @@ table a:visited {
 /* КНОПКА ССЫЛКИ + РАСКРЫВАЮЩЕЕСЯ ОПИСАНИЕ */
 /* ========================================= */
 
+
+/* ========================================= */
+/* КНОПКА ССЫЛКИ + РАСКРЫВАЮЩЕЕСЯ ОПИСАНИЕ */
+/* ========================================= */
+
 .topic-preview {
-  display: grid;
-  grid-template-columns: max-content 42px;
-  column-gap: 10px;
-  align-items: start;
-  width: fit-content;
-  max-width: 100%;
+  display: flow-root;
+  width: 100%;
   margin: 12px 0;
-  position: relative;
 }
 
-/* Кнопка-ссылка слева */
+/* Кнопка-ссылка */
 .topic-preview > a {
-  grid-column: 1;
-  grid-row: 1;
-  z-index: 1;
-
   display: inline-flex;
+  float: left;
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
+
   min-height: 42px;
+  width: fit-content;
+  max-width: calc(100% - 52px);
   padding: 12.6px 23.4px;
 
   font-size: 0.945em;
@@ -2428,20 +2428,13 @@ table a:visited {
 
 /* Контейнер раскрытия */
 .topic-preview > details {
-  grid-column: 1 / -1;
-  grid-row: 1;
-  position: relative;
-  min-width: 0;
-  min-height: 42px;
+  display: block;
+  width: 100%;
 }
 
-/* Квадратная кнопка справа */
+/* Кнопка-треугольник */
 .topic-preview > details > summary {
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: 2;
-
+  float: right;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2485,19 +2478,14 @@ table a:visited {
   border-color: #9ca3af;
 }
 
-/* Поворот треугольника при раскрытии */
+/* Поворот треугольника */
 .topic-preview > details[open] > summary::before {
   transform: rotate(90deg);
 }
 
-/* Отступ под кнопками для раскрытого окна */
-.topic-preview > details[open] {
-  padding-top: 52px;
-  box-sizing: border-box;
-}
-
 /* Информационное окно */
 .topic-preview-content {
+  clear: both;
   box-sizing: border-box;
   width: 100%;
   padding: 24px 36px;
@@ -2511,20 +2499,20 @@ table a:visited {
   animation: topic-preview-appear 0.2s ease;
 }
 
-/* Заголовок окна */
+/* Заголовок */
 .topic-preview-content h3 {
   margin: 0 0 16px;
   font-size: 1.25em;
   font-weight: 700;
 }
 
-/* Текст окна */
+/* Текст */
 .topic-preview-content p {
   margin: 0;
   line-height: 1.6;
 }
 
-/* Плавное появление */
+/* Анимация */
 @keyframes topic-preview-appear {
   from {
     opacity: 0;
@@ -2538,14 +2526,8 @@ table a:visited {
 
 /* Мобильная версия */
 @media (max-width: 600px) {
-  .topic-preview {
-    width: 100%;
-    grid-template-columns: minmax(0, 1fr) 42px;
-  }
-
   .topic-preview > a {
-    min-width: 0;
-    justify-content: flex-start;
+    max-width: calc(100% - 52px);
     overflow-wrap: anywhere;
   }
 
@@ -2553,3 +2535,4 @@ table a:visited {
     padding: 20px 22px;
   }
 }
+
