@@ -2387,7 +2387,7 @@ table a:visited {
   display: grid;
   grid-template-columns: max-content 42px;
   column-gap: 10px;
-  align-items: start;
+  align-items: stretch;
 
   width: fit-content;
   max-width: 100%;
@@ -2402,7 +2402,6 @@ table a:visited {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  align-self: start;
   box-sizing: border-box;
 
   min-height: 42px;
@@ -2429,7 +2428,7 @@ table a:visited {
   transform: translateY(-2px);
 }
 
-/* Контейнер треугольника и описания */
+/* Контейнер треугольника и бабла */
 .topic-preview > details {
   grid-column: 2;
   grid-row: 1;
@@ -2437,10 +2436,11 @@ table a:visited {
   display: grid;
   grid-template-columns: 42px;
   grid-template-rows: 42px auto;
-  align-self: start;
 
   width: 42px;
-  min-width: 42px;
+  min-width: 0;
+  max-width: 42px;
+  align-self: start;
 }
 
 /* Кнопка-треугольник */
@@ -2454,7 +2454,8 @@ table a:visited {
 
   box-sizing: border-box;
   width: 42px;
-  height: 42px;
+  height: 100%;
+  min-height: 42px;
 
   border: 1px solid #d1d5db;
   border-radius: 7.2px;
@@ -2504,11 +2505,12 @@ table a:visited {
   grid-row: 2;
 
   position: static;
-  box-sizing: border-box;
+  justify-self: start;
 
+  box-sizing: border-box;
   width: min(700px, calc(100vw - 40px));
-  max-width: none;
   min-width: 0;
+  max-width: none;
 
   margin-top: 12px;
   margin-left: -52px;
