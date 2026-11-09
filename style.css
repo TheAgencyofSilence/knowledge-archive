@@ -2383,28 +2383,30 @@ table a:visited {
 /* КНОПКА ССЫЛКИ + РАСКРЫВАЮЩЕЕСЯ ОПИСАНИЕ */
 /* ========================================= */
 
-
-/* ========================================= */
-/* КНОПКА ССЫЛКИ + РАСКРЫВАЮЩЕЕСЯ ОПИСАНИЕ */
-/* ========================================= */
-
 .topic-preview {
-  display: flow-root;
-  width: 100%;
+  display: grid;
+  grid-template-columns: max-content 42px;
+  column-gap: 10px;
+  align-items: start;
+
+  width: fit-content;
+  max-width: 100%;
   margin: 12px 0;
 }
 
-/* Кнопка-ссылка */
+/* Независимая кнопка-ссылка */
 .topic-preview > a {
+  grid-column: 1;
+  grid-row: 1;
+
   display: inline-flex;
-  float: left;
   align-items: center;
   justify-content: center;
   box-sizing: border-box;
 
   min-height: 42px;
   width: fit-content;
-  max-width: calc(100% - 52px);
+  max-width: 100%;
   padding: 12.6px 23.4px;
 
   font-size: 0.945em;
@@ -2426,15 +2428,17 @@ table a:visited {
   transform: translateY(-2px);
 }
 
-/* Контейнер раскрытия */
+/* Независимый контейнер треугольника */
 .topic-preview > details {
-  display: block;
-  width: 100%;
+  grid-column: 2;
+  grid-row: 1;
+
+  width: 42px;
+  min-width: 42px;
 }
 
 /* Кнопка-треугольник */
 .topic-preview > details > summary {
-  float: right;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2478,16 +2482,20 @@ table a:visited {
   border-color: #9ca3af;
 }
 
-/* Поворот треугольника */
+/* Поворот треугольника при раскрытии */
 .topic-preview > details[open] > summary::before {
   transform: rotate(90deg);
 }
 
 /* Информационное окно */
 .topic-preview-content {
-  clear: both;
   box-sizing: border-box;
-  width: 100%;
+
+  /* Окно шире кнопки, но выравнивается по её левому краю */
+  width: min(700px, calc(100vw - 60px));
+  margin-top: 12px;
+  margin-left: -52px;
+
   padding: 24px 36px;
 
   border: 1px solid #e0e4e9;
@@ -2499,20 +2507,20 @@ table a:visited {
   animation: topic-preview-appear 0.2s ease;
 }
 
-/* Заголовок */
+/* Заголовок окна */
 .topic-preview-content h3 {
   margin: 0 0 16px;
   font-size: 1.25em;
   font-weight: 700;
 }
 
-/* Текст */
+/* Текст окна */
 .topic-preview-content p {
   margin: 0;
   line-height: 1.6;
 }
 
-/* Анимация */
+/* Анимация появления */
 @keyframes topic-preview-appear {
   from {
     opacity: 0;
@@ -2526,13 +2534,9 @@ table a:visited {
 
 /* Мобильная версия */
 @media (max-width: 600px) {
-  .topic-preview > a {
-    max-width: calc(100% - 52px);
-    overflow-wrap: anywhere;
-  }
-
   .topic-preview-content {
+    width: calc(100vw - 40px);
+    margin-left: -52px;
     padding: 20px 22px;
   }
 }
-
