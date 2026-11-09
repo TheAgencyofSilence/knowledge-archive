@@ -2387,7 +2387,7 @@ table a:visited {
   display: grid;
   grid-template-columns: max-content 42px;
   column-gap: 10px;
-  align-items: start;
+  align-items: stretch;
 
   width: fit-content;
   max-width: 100%;
@@ -2433,8 +2433,11 @@ table a:visited {
   grid-column: 2;
   grid-row: 1;
 
+  display: flex;
+  align-items: stretch;
   width: 42px;
   min-width: 42px;
+  height: auto;
 }
 
 /* Кнопка-треугольник */
@@ -2445,7 +2448,9 @@ table a:visited {
   box-sizing: border-box;
 
   width: 42px;
-  height: 42px;
+  height: auto;
+  min-height: 100%;
+  align-self: stretch;
 
   border: 1px solid #d1d5db;
   border-radius: 7.2px;
@@ -2489,12 +2494,15 @@ table a:visited {
 
 /* Информационное окно */
 .topic-preview-content {
+  position: relative;
   box-sizing: border-box;
 
-  /* Окно шире кнопки, но выравнивается по её левому краю */
-  width: min(700px, calc(100vw - 60px));
+  width: min(700px, calc(100vw - 40px));
+  max-width: none;
+
   margin-top: 12px;
   margin-left: -52px;
+  margin-right: 0;
 
   padding: 24px 36px;
 
@@ -2538,57 +2546,5 @@ table a:visited {
     width: calc(100vw - 40px);
     margin-left: -52px;
     padding: 20px 22px;
-  }
-}
-
-
-/* ========================================= */
-/* ФИНАЛЬНАЯ КОРРЕКТИРОВКА TOPIC-PREVIEW     */
-/* ========================================= */
-
-/* Кнопки выравниваются по высоте */
-.topic-preview {
-  align-items: stretch;
-}
-
-/* Треугольник занимает всю высоту кнопки-ссылки */
-.topic-preview > details {
-  display: flex;
-  align-items: stretch;
-  height: auto;
-}
-
-/* Квадратная кнопка раскрытия */
-.topic-preview > details > summary {
-  width: 42px;
-  height: auto;
-  min-height: 100%;
-  align-self: stretch;
-  box-sizing: border-box;
-}
-
-/* Информационное окно */
-.topic-preview-content {
-  position: relative;
-
-  /* Отступаем влево на ширину кнопки-треугольника и промежутка */
-  margin-left: -52px;
-
-  /* Убираем возможное центрирование */
-  margin-right: 0;
-  left: 0;
-  right: auto;
-  transform: none;
-
-  /* Окно начинается от левого края кнопки */
-  width: min(700px, calc(100vw - 40px));
-  max-width: none;
-}
-
-/* Мобильная версия */
-@media (max-width: 600px) {
-  .topic-preview-content {
-    width: calc(100vw - 40px);
-    margin-left: -52px;
   }
 }
