@@ -2700,3 +2700,13 @@ table a:visited {
     padding: 20px 22px;
   }
 }
+
+/* Уменьшение вертикального расстояния между кнопками */
+
+.navbtn-preview {
+  margin: 4px 0;
+}
+
+.navbtn-test {
+  row-gap: 8px;
+}
