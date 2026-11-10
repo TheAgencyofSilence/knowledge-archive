@@ -2570,3 +2570,133 @@ table a:visited {
     padding: 20px 22px;
   }
 }
+
+/* ========================================= */
+/* КНОПКИ НАВИГАЦИИ С РАСКРЫВАЮЩИМИСЯ ОПИСАНИЯМИ */
+/* ========================================= */
+
+.navbtn-preview {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 12px 0;
+}
+
+.navbtn-preview-row {
+  display: flex;
+  align-items: stretch;
+  gap: 10px;
+  width: fit-content;
+  max-width: 100%;
+}
+
+/* Треугольник */
+
+.navbtn-preview-row > details {
+  display: flex;
+  flex: 0 0 42px;
+  width: 42px;
+  min-width: 42px;
+  max-width: 42px;
+  margin: 0;
+  padding: 0;
+}
+
+.navbtn-preview-row > details > summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  flex: 1 1 auto;
+  width: 42px;
+  height: auto;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #d1d5db;
+  border-radius: 7.2px;
+  background-color: #ffffff;
+  cursor: pointer;
+  list-style: none;
+  transition: background-color 0.2s;
+}
+
+.navbtn-preview-row > details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.navbtn-preview-row > details > summary::marker {
+  content: "";
+}
+
+.navbtn-preview-row > details > summary::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 9px solid #000000;
+  border-top: 6px solid transparent;
+  border-bottom: 6px solid transparent;
+  transition: transform 0.2s;
+}
+
+.navbtn-preview-row > details > summary:hover {
+  background-color: #f3f4f6;
+  border-color: #9ca3af;
+}
+
+.navbtn-preview-row > details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* Бабл с описанием */
+
+.navbtn-preview-content {
+  display: none;
+  box-sizing: border-box;
+  width: min(700px, calc(100vw - 40px));
+  max-width: calc(100vw - 40px);
+  margin: 12px 0 0 0;
+  padding: 24px 36px;
+  border: 1px solid #e0e4e9;
+  border-radius: 22px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  animation: navbtn-preview-appear 0.2s ease;
+}
+
+/* Показываем бабл, когда открыт соответствующий треугольник */
+
+.navbtn-preview:has(> .navbtn-preview-row > details[open])
+> .navbtn-preview-content {
+  display: block;
+}
+
+.navbtn-preview-content h3 {
+  margin: 0 0 16px;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.navbtn-preview-content p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+@keyframes navbtn-preview-appear {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 600px) {
+  .navbtn-preview-content {
+    width: calc(100vw - 40px);
+    max-width: calc(100vw - 40px);
+    padding: 20px 22px;
+  }
+}
